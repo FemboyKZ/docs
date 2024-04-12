@@ -1,4 +1,4 @@
 ---
-title: wip
-description: 
+title: FKZ Discord Server
+description: swag
 ---

@@ -1,4 +1,4 @@
 ---
-title: wip
-description: 
+title: What is FemboyKZ
+description: Basic info on FKZ
 ---

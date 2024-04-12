@@ -3,32 +3,35 @@ layout: home
 
 hero:
   name: "FKZ Docs"
-  text: "Docs for femboy.kz"
-  tagline: How to do shit on fkz
+  tagline: "[WIP] Docs for femboy.kz"
   actions:
     - theme: brand
-      text: Commands
-      link: /commands
-    - theme: alt
       text: Wiki
       link: /wiki
+    - theme: alt
+      text: Commands
+      link: /commands
     - theme: alt
       text: Guides
       link: /guides
 ---
 
-# Basic info - commands and stuff
+# Wiki
 
 - [What is FKZ](/wiki/fkz)
 - [Discord Info](/wiki/discord)
-- [Server Info](/wiki/server-info)
+- [Server Info](/wiki/servers)
 
-# Wiki & technical stuff
+# Commands
 
-- [Base commands for KZ](/commands/help)
-- [Admin commands](/commands/admin-help)
+- [All Commands](/commands)
+- [CS2 Commands](/commands/cs2)
+- [CS:GO Commands](/commands/csgo)
+- [Discord Commands](/commands/discord)
+- [Minecraft Commands](/commands/minecraft)
 
-# External - non-FKZ stuff
+# External
 
+- [All Guides](/guides)
 - [CS2 KZ Lan Server Guide](/guides/cs2kz-lan)
 - [CS:GO KZ Lan Server Guide](/guides/csgokz-lan)
