@@ -2,8 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "https://docs.femboy.kz/",
+  head: [["link", { rel: "icon", href: "/fkz-notext.ico" }]],
   title: "FKZ Docs",
+  titleTemplate: ":title FKZ Docs",
   cleanUrls: true,
   description: "Docs for femboy.kz",
   themeConfig: {
