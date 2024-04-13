@@ -1,6 +1,8 @@
 ---
 title: Guides [WIP]
 description: random guides
+prev: false
+next: false
 ---
 
 # Guides

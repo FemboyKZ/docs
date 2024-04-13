@@ -1,6 +1,8 @@
 ---
 title: Wiki [WIP]
 description: Info on all FKZ things
+prev: false
+next: false
 ---
 
 # Wiki

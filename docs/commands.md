@@ -1,6 +1,8 @@
 ---
 title: Commands [WIP]
 description: All the commands on FKZ Servers
+prev: false
+next: false
 ---
 
 # CS2 Commands
