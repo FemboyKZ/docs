@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   head: [["link", { rel: "icon", href: "/fkz-notext.ico" }]],
   title: "FKZ Docs",
-  titleTemplate: ":title FKZ Docs",
+  titleTemplate: "FKZ Docs | :title",
   cleanUrls: true,
   description: "Docs for femboy.kz",
   themeConfig: {
@@ -42,5 +42,9 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/5Dotsu/fkz-docs" },
       { icon: "discord", link: "https://discord.gg/fkz" },
     ],
+  },
+  footer: {
+    message: "Released under the MIT License.",
+    copyright: "Copyright © 2023-present FemboyKZ",
   },
 });

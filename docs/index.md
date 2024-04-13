@@ -24,14 +24,12 @@ hero:
 
 # Commands
 
-- [All Commands](/commands)
-- [CS2 Commands](/commands/cs2)
-- [CS:GO Commands](/commands/csgo)
-- [Discord Commands](/commands/discord)
-- [Minecraft Commands](/commands/minecraft)
+- [CS2](/commands/cs2)
+- [CS:GO](/commands/csgo)
+- [Discord](/commands/discord)
+- [Minecraft](/commands/minecraft)
 
 # External
 
-- [All Guides](/guides)
 - [CS2 KZ Lan Server Guide](/guides/cs2kz-lan)
 - [CS:GO KZ Lan Server Guide](/guides/csgokz-lan)
