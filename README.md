@@ -1,2 +1,3 @@
 # fkz-docs
-vuepress docs for fkz
+https://discord.gg/fkz
+Docs for fkz using vitepress
