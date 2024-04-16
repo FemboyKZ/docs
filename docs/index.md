@@ -4,16 +4,6 @@ layout: home
 hero:
   name: "FKZ Docs"
   tagline: "[WIP] Docs for femboy.kz"
-  actions:
-    - theme: brand
-      text: Wiki
-      link: /wiki
-    - theme: alt
-      text: Commands
-      link: /commands
-    - theme: alt
-      text: Guides
-      link: /guides
 ---
 
 # Wiki

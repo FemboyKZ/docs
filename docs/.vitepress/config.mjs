@@ -29,10 +29,20 @@ export default defineConfig({
           {
             text: "Commands",
             link: "/commands",
+            items: [
+              { text: "CS2", link: "/commands/cs2" },
+              { text: "CS:GO", link: "/commands/csgo" },
+              { text: "Discord", link: "/commands/discord" },
+              { text: "Minecraft", link: "/commands/minecraft" },
+            ],
           },
           {
             text: "External",
             link: "/guides",
+            items: [
+              { text: "CS2 KZ Lan Guide", link: "/guides/cs2kz-lan" },
+              { text: "CS:GO KZ Lan Guide", link: "/guides/csgokz-lan" },
+            ],
           },
         ],
       },
@@ -44,7 +54,7 @@ export default defineConfig({
     ],
   },
   footer: {
-    message: "Released under the MIT License.",
+    message: "Released under the GPL-3.0 License.",
     copyright: "Copyright © 2023-present FemboyKZ",
   },
 });
