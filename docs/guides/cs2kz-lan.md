@@ -1,6 +1,6 @@
 ---
 title: CS2 KZ Lan Server Setup Guide
-description: WIP 
+description: FKZ CS2 Lan Guide 
 prev: false
 next: false
 ---
@@ -53,7 +53,7 @@ Do not close the terminal until it outputs: `Success! App '730' fully installed.
 
 ## 3. Installing Metamod: Source
 
-1. Open [Metamod: Source (Dev 2.0x))](https://www.sourcemm.net/downloads.php/?branch=master), and click to download the latest Build for your operating system (Windows/Linux).
+1. Open [Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master), and click to download the latest Build for your operating system (Windows/Linux).
 
 2. You should have a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` folder into the `\csgo\` folder of the server.
 
@@ -73,7 +73,7 @@ If you have followed this guide exactly as explained.
 Game    csgo/addons/metamod
 ``` 
 to the top of the section with similar inputs and save the file.
-<br>See: [example](../images/gameinfo.png)
+<br>See: [example](https://femboy.kz/images/gameinfo.png)
 
 ## 4. Installing the KZ Plugin
 
@@ -121,16 +121,42 @@ You have to run your own game before running the server!
 
 You can connect to the server by either:
 
-1. Opening the ingame `Community Server Browser` and going to the `LAN` tab, then pressing connect on the server.
+1. Open the ingame `Community Server Browser` and go to the `LAN` tab, then press connect on the server.
 
-2. Opening the ingame console, and typing in `connect localhost`.
+2. Open the ingame console, and type in `connect localhost`.
 
 ## 7. Updating the Server
 
 1. Open up `SteamCMD.exe`.
 
-2. Type in `login anonymous`.
+2. Type in `login anonymous` and hit enter.
 
-3. Type in `app_update 730`.
+3. Type in `app_update 730`, hit enter and wait for the terminal to reply with `success!`.
 
 If it doesn't succeed, type `app_update 730 validate` instead.
+
+## 8. Adding KZ Maps
+
+Maps could be added manually into the files as well, but `FastDL` does not exist in CS2, so you want to use Workshop instead.
+
+1. Open up [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=730&searchtext=kz_) and look for a map or Collection of maps
+
+2. Edit the `start.bat` file and add either `+host_workshop_map` or `+host_workshop_collection` command along with the `ID` of the map/collection to the 2nd row on the file like so:
+
+```
+cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
+start cs2.exe -dedicated +map de_dust2 +host_workshop_map 3121168339
+```
+
+or
+
+```
+cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
+start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
+```
+
+(Replace [`3210526079`](https://steamcommunity.com/sharedfiles/filedetails/?id=3121168339)/[`3210526079`](https://steamcommunity.com/sharedfiles/filedetails/?id=3210526079) with what you want.)
+
+::: warning
+Currently the CS2 Workshop doesn't require you to use a GSLT token for maps, but this could change in the future.
+:::

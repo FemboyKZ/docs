@@ -49,7 +49,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/5Dotsu/fkz-docs" },
+      { icon: "github", link: "https://github.com/FemboyKZ/docs" },
       { icon: "discord", link: "https://discord.gg/fkz" },
     ],
   },
