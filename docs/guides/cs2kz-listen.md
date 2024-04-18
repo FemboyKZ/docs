@@ -47,7 +47,7 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux), then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
 
-## 3 Editing gameinfo files. 
+## 3. Editing gameinfo files. 
 
 1. Open the `gameinfo.gi` file found in 
 ```
@@ -73,8 +73,11 @@ CustomNavBuild
     Interface  "customnavsystem001"
 }
 ```
-
 Save the file
+
+::: warning
+You may want to create copies of the original and modified files in separate folders for switching them back and forth more easily.
+:::
 
 
 ## 4. Adding Launch Options
