@@ -10,7 +10,7 @@ next: false
 This guide will show you how to install and run plugins on a listen CS2 server for `mapping` purposes. 
 
 Follow each of the steps from top to bottom, DO NOT skip any steps unless told to.
-::: warning
+::: info
 This guide does not work with CS:GO, only CS2
 ::: 
 
@@ -33,7 +33,7 @@ The `\csgo\` folder can be found in:
 \steamapps\common\Counter-Strike Global Offensive\game\
 ```
 
-::: warning
+::: tip
 If you don't know where your game is installed:
 
 Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
@@ -75,7 +75,7 @@ CustomNavBuild
 ```
 Save the file
 
-::: warning
+::: tip
 You may want to create copies of the original and modified files in separate folders for switching them back and forth more easily.
 :::
 
@@ -110,7 +110,7 @@ Close the `Properties`
 
 Undo ALL the actions from steps `3.` and `4.`
 
-::: warning
+::: tip
 If you want to be safe:
 
 Open CS2 `Properties` -> `Installed Files` -> `Verify integrity of local files`.
