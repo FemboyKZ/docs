@@ -8,10 +8,10 @@ next: false
 # Summary
 
 This guide will show you how to set up a CS:GO LAN server and how to install GOKZ / KZTimer plugins on it. Follow each of the steps from top to bottom, DO NOT skip any steps unless told to.
-::: warning
+::: info
 Note that this guide will NOT show you how to set up a Public, non-LAN server! This guide also does not work with CS2, only CS:GO.
 :::
-::: warning
+::: info
 LAN Servers cannot be Globally whitelisted, and you won’t be able to set Global records on this type of a server.
 :::
 
@@ -184,8 +184,9 @@ You can connect to the server by either:
 2. Open the ingame console, and type in `connect localhost`.
 
 ## 7. Updating the Server
-::: warning
+::: info
 Since CS:GO is no longer being updated, this should not be needed.
+:::
 
 1. Open up `SteamCMD.exe`.
 
