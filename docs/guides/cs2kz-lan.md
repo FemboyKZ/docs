@@ -1,6 +1,6 @@
 ---
 title: CS2 KZ Lan Server Setup Guide
-description: FKZ CS2 Lan Guide 
+description: FKZ CS2 Lan Server Guide 
 prev: false
 next: false
 ---
@@ -29,7 +29,7 @@ Misc:
 
 ## 1. Installing SteamCMD
 
-1. Start by going to [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
+1. Start by going to [SteamCMD's Download Page](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
 
 2. Click on `[1]`, and download the `ZIP` file.
 
@@ -53,9 +53,9 @@ Do not close the terminal until it outputs: `Success! App '730' fully installed.
 
 ## 3. Installing Metamod: Source
 
-1. Open [Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master), and click to download the latest Build for your operating system (Windows/Linux).
+1. Open [Metamod: Source (Dev 2.0x) Downloads](https://www.sourcemm.net/downloads.php/?branch=master), and click to download the latest Build for your operating system (Windows/Linux).
 
-2. You should have a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` folder into the `\csgo\` folder of the server.
+2. You should have downloaded a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` folder into the `\csgo\` folder of the server.
 
 
 The `\csgo\` folder can be found in:

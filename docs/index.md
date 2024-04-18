@@ -22,4 +22,5 @@ hero:
 # External
 
 - [CS2 KZ Lan Server Guide](/guides/cs2kz-lan)
+- [CS2 KZ Listen Server Guide (For Mapping)](/guides/cs2kz-listen)
 - [CS:GO KZ Lan Server Guide](/guides/csgokz-lan)

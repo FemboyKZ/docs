@@ -40,8 +40,12 @@ export default defineConfig({
             text: "External",
             link: "/guides",
             items: [
-              { text: "CS2 KZ Lan Guide", link: "/guides/cs2kz-lan" },
-              { text: "CS:GO KZ Lan Guide", link: "/guides/csgokz-lan" },
+              { text: "CS2KZ Lan-Server Guide", link: "/guides/cs2kz-lan" },
+              {
+                text: "CS2KZ Listen-Server Guide",
+                link: "guides/cs2kz-listen",
+              },
+              { text: "CS:GOKZ Lan-Server Guide", link: "/guides/csgokz-lan" },
             ],
           },
         ],
