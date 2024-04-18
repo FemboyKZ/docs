@@ -195,7 +195,7 @@ Since CS:GO is no longer being updated, this should not be needed.
 
 If it doesn't succeed, type `app_update 740 validate` instead.
 
-## 8.b. Adding KZ Maps - Workshop Method
+## 8.a. Adding KZ Maps - Workshop Method
 ::: warning
 To use Workshop you need to set a GSLT token for the server.
 :::

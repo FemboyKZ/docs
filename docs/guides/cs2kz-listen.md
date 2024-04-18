@@ -42,7 +42,7 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 
 ## 2. Installing the KZ Plugin
 
-1. Open [cs2kz-metamod releases](https://github.com/KZGlobalTeam/cs2kz-metamod/releases) and download the latest `(pre-)release` for you operating system.
+1. Open [cs2kz-metamod releases](https://github.com/KZGlobalTeam/cs2kz-metamod/releases) and download the latest `(pre-)release` for your operating system.
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux), then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
@@ -96,7 +96,11 @@ Close the `Properties`
 
 2. Go back to `\steamapps\common\Counter-Strike Global Offensive\game\csgo\`, find and copy the `readonly_tools_asset_info.bin` file.
 
-3. Paste the file into the `\steamapps\common\Counter-Strike Global Offensive\content\csgo\addons\metamod\` folder you created.
+3. Paste the file into the 
+
+`\steamapps\common\Counter-Strike Global Offensive\content\csgo\addons\metamod\`
+
+ folder you created.
 
 
 ## Reversing CS2 back to playable:
