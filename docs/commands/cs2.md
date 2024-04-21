@@ -10,11 +10,15 @@ next:
 ---
 
 # CS2 Commands
+<br>
 
 - [Base Commands](/commands/cs2/help) - Maps, Votes, Guns, Skins, etc.
+
 - [KZ Commands](/commands/cs2/kz-help) - Checkpoints, Timer, Hud, etc.
+
 - [Admin commands](/commands/cs2/admin-help) - Admin only commands, bans n such.
 
+<br><br>
 
 ::: tip
 Usage of CS2 commands:
