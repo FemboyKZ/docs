@@ -21,6 +21,7 @@ For the Server:
 <br>[Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master)
 <br>[cs2kz-metamod (WIP)](https://github.com/KZGlobalTeam/cs2kz-metamod)
 <br>[MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) - Optional, for kz sounds (such as jumpstats)
+<br>[GetClientCvarValue](https://github.com/komashchenko/ClientCvarValue) - Optional, for kz languages support
 
 Misc: 
 <br>[SteamID Finder](https://steamid.io/)
@@ -83,9 +84,13 @@ to the top of the section with similar inputs and save the file.
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux), then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
-3. (Optional Step) Open up [MultiAddonManager Releases](https://github.com/Source2ZE/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
+3. (Optional 1a) Open up [MultiAddonManager Releases](https://github.com/Source2ZE/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
 
-4. (Optional Step 2) Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` and `cfg` folders into the same `\csgo\` folder.
+4. (Optional 1b) Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
+
+5. (Optional 2a) Open [GetClientCvarValue's Releases](https://github.com/komashchenko/ClientCvarValue/releases) and download the latest release for your operating system (Windows/Linux).
+
+6. (Optional 2b) Extract the `ZIP` file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
 <br>
 Now your server should be ready and installed!
@@ -162,3 +167,12 @@ start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
 ::: warning
 Currently the CS2 Workshop doesn't require you to use a GSLT token for maps, but this could change in the future.
 :::
+
+
+## CounterStrikeSharp
+If you wish to use CS# for extra plugins you will have to do so:
+
+1. Open `\csgo\addons\metamod\metaplugins.ini` in a text editor.
+
+2. Add `addons/cs2kz/bin/linuxsteamrt64/cs2kz` to the bottom of the file on a new row, and save the file.
+
