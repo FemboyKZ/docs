@@ -23,6 +23,8 @@ All members have set permissions, whether it's staff, VIP or others. See:
 
 - [Staff List](/wiki/servers/cs2/staff-list)
 
+- [Other Members List](/wiki/servers/cs2/og)
+
 - [Whitelist](/wiki/servers/cs2/whitelist)
 
 - [Donators (VIP, VIP+, Contributor)](/wiki/donators)
