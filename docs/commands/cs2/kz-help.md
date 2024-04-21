@@ -21,6 +21,7 @@ In console with the `kz_`, `css_` or `mm_` prefix. (Depends on command.)
 
 You can bind keys to all the commands. Example: "bind key kz_cp"
 :::
+
 # Checkpoint System
 
 `kz_checkpoint` / `kz_cp` - Set a checkpoint on your current position.
@@ -35,6 +36,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_clearstartpos` / `kz_csp` - Clear your custom start position.
 
+
 # Hud / Visuals
 
 `kz_panel` - Toggle (speed/keys/timer)panel display.
@@ -45,11 +47,13 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_hideweapon` - Toggle hiding weapon viewmodel.
 
+
 # Mode / Style
 
 `kz_mode` - Change your current mode. - `Vanilla(VNL)` / `Classic(CKZ)`
 
 `kz_style` - Change your current style. - `Normal(NRM)` / `Autobhop(ABH)`
+
 
 # Timer
 
@@ -57,7 +61,8 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_pause` - Toggle timer pause.
 
-`kz_resart` / `kz_r` - Restart course(timer).
+`kz_restart` / `kz_r` - Restart course(timer).
+
 
 # Jumpstats
 
@@ -65,15 +70,25 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_jssound` - Change jumpstats sound effect minimum play tier.
 
+::: info
+`kz_jsbroadcast` and `kz_jssound` values go from `0` to `6` :
+- `0` - `none`
+- `1` - `meh`
+- `2` - `impressive`
+- `3` - `perfect`
+- `4` - `godlike`
+- `5` - `ownage`
+- `6` - `wrecker`
+:::
+
 `kz_togglestats` / `kz_togglejs` - Toggle jumpstats print type.
 
 `kz_jsalways` - Toggle printing jumpstats for ALL jumps, including invalids.
 
-# Tips
-
-`kz_tips` - Toggle printing tips.
 
 # Misc
+
+`kz_tips` - Toggle printing tips.
 
 `kz_spec` - Spectate another player/bot.
 

@@ -10,6 +10,9 @@ next:
 ---
 
 # CS2 Commands
+
+Info on the usable commands on FKZ CS2 Servers.
+
 <br>
 
 - [Base Commands](/commands/cs2/help) - Maps, Votes, Guns, Skins, etc.
