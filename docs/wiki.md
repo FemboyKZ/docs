@@ -1,7 +1,9 @@
 ---
 title: Wiki [WIP]
 description: Info on all FKZ things
-prev: false
+prev: 
+  text: 'Back'
+  link: '/index'
 next: false
 ---
 

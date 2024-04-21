@@ -1,7 +1,9 @@
 ---
 title: wip
 description: idk
-prev: false
+prev: 
+  text: 'Back'
+  link: '/wiki'
 next: false
 ---
 

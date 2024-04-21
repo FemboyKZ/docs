@@ -1,11 +1,19 @@
 ---
 title: Guides [WIP]
 description: random guides
-prev: false
+prev: 
+  text: 'Back'
+  link: '/index'
 next: false
 ---
 
-# Guides
+# FKZ Guides
+
+- None for now
+
+# External Guides
+
+Guides on non-FKZ Specific stuff.
 
 ## CS2 Guides
 - [CS2 KZ Lan Server Guide](/guides/cs2kz-lan)

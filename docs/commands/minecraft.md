@@ -1,7 +1,9 @@
 ---
 title: Minecraft Commands [WIP]
 description: All the commands on FKZ Minecraft Servers
-prev: false
+prev: 
+  text: 'Back'
+  link: '/commands'
 next: false
 ---
 

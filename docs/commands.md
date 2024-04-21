@@ -1,7 +1,9 @@
 ---
 title: Commands [WIP]
 description: All the commands on FKZ Servers
-prev: false
+prev: 
+  text: 'Back'
+  link: '/index'
 next: false
 ---
 

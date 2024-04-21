@@ -1,7 +1,9 @@
 ---
 title: CS2 KZ Listen Server
 description: FKZ CS2 Listen Server Guide 
-prev: false
+prev: 
+  text: 'Back'
+  link: '/guides'
 next: false
 ---
 

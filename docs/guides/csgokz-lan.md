@@ -1,7 +1,9 @@
 ---
 title: CS:GO KZ Lan Server Setup Guide
 description: FKZ CS:GO Lan Server Guide 
-prev: false
+prev: 
+  text: 'Back'
+  link: '/guides'
 next: false
 ---
 
