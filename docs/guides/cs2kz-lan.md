@@ -20,8 +20,8 @@ For the Server:
 <br>[SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
 <br>[Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master)
 <br>[cs2kz-metamod (WIP)](https://github.com/KZGlobalTeam/cs2kz-metamod)
-<br>[MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) - Optional, for kz sounds (such as jumpstats)
-<br>[GetClientCvarValue](https://github.com/komashchenko/ClientCvarValue) - Optional, for kz languages support
+<br>[MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) - Optional 1, for kz sounds (such as jumpstats)
+<br>[GetClientCvarValue](https://github.com/komashchenko/ClientCvarValue) - Optional 2, for kz languages support
 
 Misc: 
 <br>[SteamID Finder](https://steamid.io/)

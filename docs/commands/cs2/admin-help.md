@@ -25,7 +25,7 @@ Parameters in `<>` are required.
 
 Parameters in `[]` are optional.
 
-@css/ shows required perms to use command.
+@css/ shows required perms to use command. See Perms in [Admin Groups](/wiki/servers/cs2/staff)
 :::
 
 ## Info
@@ -52,7 +52,7 @@ Parameters in `[]` are optional.
 
 ## Moderation - Bans
 
-// @css/ban
+@css/ban
 
 `css_ban <#userid or name> [time in minutes/0 perm] [reason]` - Ban player
 

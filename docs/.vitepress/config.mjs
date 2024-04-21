@@ -23,7 +23,7 @@ export default defineConfig({
             items: [
               { text: "What is FKZ", link: "/wiki/fkz" },
               { text: "FKZ Discord", link: "/wiki/discord" },
-              { text: "Servers", link: "/wiki/servers" },
+              { text: "FKZ Servers", link: "/wiki/servers" },
             ],
           },
           {
