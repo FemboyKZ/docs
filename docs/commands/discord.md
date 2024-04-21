@@ -1,7 +1,9 @@
 ---
 title: Discord Commands [WIP]
 description: All the commands on FKZ Discord
-prev: false
+prev: 
+  text: 'Back'
+  link: '/commands'
 next: false
 ---
 
