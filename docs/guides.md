@@ -19,5 +19,7 @@ Guides on non-FKZ Specific stuff.
 - [CS2 KZ Lan Server Guide](/guides/cs2kz-lan)
 - [CS2 KZ Listen Server Guide (For Mapping)](/guides/cs2kz-listen)
 
+- [CS2 Old Versions, download Guide](/guides/cs2-versions)
+
 ## CS:GO Guides
 - [CS:GO KZ Lan Server Guide](/guides/csgokz-lan)
