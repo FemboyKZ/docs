@@ -141,9 +141,9 @@ Save the file.
 ## 7. Installing NoLobbyReservation
 After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin to get past the lobby creation system the game uses. 
 
-1. Open [The Github Page](https://github.com/5Dotsu/NoLobbyReservation/releases) and download the attached `.smx` file.
+1. Open [The Github Page](https://github.com/5Dotsu/NoLobbyReservation/releases) and download the attached `ZIP` file.
 
-2. Place the `NoLobbyReservation.smx` file into `\csgo\addons\sourcemod\plugins\`.
+2. Extract it and place the `addons` folder into the `\csgo\` folder.
 
 
 ## 8. Running the Server
