@@ -33,7 +33,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 `css_nextmap` - Prints the next map.
 
 ## Guns
-[Plugin](https://github.com/onurcanertekin/cs2-simple-guns-menu)
+[Plugin](https://github.com/FemboyKZ/cs2-simple-guns-menu)
 
 `css_guns` - Opens menu for choosing weapons.
 
