@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-# Summary
+## Summary
 
 The old versions of CS2 have all kinds of weird bugs and changes compared to latest. With this guide you can get any old version that was published by valve. 
 <br>
@@ -25,8 +25,6 @@ For this to work, you need to have the Steam App installed on your computer, and
 
 2. Steam (the app) should open up on the `console` page.
 
-
-
 ## 2. Choosing the version (Main Depot)
 
 CS2's files are split between multiple depot's depending on OS and other factors. 
@@ -41,9 +39,11 @@ You should choose a build from the `Main Depot`, and then match that version on 
 <br>`download_depot 730 2347770` followed by the `ManifestID` of the version you have chosen.
 
 Example:
-```
+
+```json
 download_depot 730 2347770 5035069459473518974
 ```
+
 ::: info
 `730` = AppID (CS2)
 <br>`2347770` = DepotID (Main Build)
@@ -51,14 +51,16 @@ download_depot 730 2347770 5035069459473518974
 :::
 
 This will start the download for the gamefiles. The files will be downloaded to:
-```
+
+```go
 C:\Program Files (x86)\Steam\steamapps\content\app_730\
 ```
+
 ::: warning
 Do not close Steam until the download has finished. It could take up to a few hours depedning on internet and drive speeds.
 :::
 
-## 3. Downloading the rest of the files.
+## 3. Downloading the rest of the files
 
 Check the date on the Manifest you chose in step 2. and find ManifestID's for matching dates on:
 
@@ -81,12 +83,15 @@ and
 
 After finding the matching `ManifestIDs` for your desired build. Repeat the download command for each as follows:
 
-Example (Windows): 
-```
+Example (Windows):
+
+```cpp
 download_depot 730 2347771 5648449082650336844
 ```
+
 VPK Files:
-```
+
+```cpp
 download_depot 730 2347774 5617227416559801523
 ```
 
@@ -94,13 +99,13 @@ download_depot 730 2347774 5617227416559801523
 Let each of the commands download all the files before entering the next command.
 :::
 
-
-## 4. Combining the folders.
+## 4. Combining the folders
 
 The files will have been downloaded into separate folders for each of the Depots.
 
 All the downloaded files can be found in folders in:
-```
+
+```go
 C:\Program Files (x86)\Steam\steamapps\content\app_730\
 ```
 
@@ -108,8 +113,8 @@ Each of the Depot folders should include a `\game\` folder.
 
 Drag all of the `\game\` folders into a single folder, wherever you want your game install to locate.
 
-
 ## 5. Running the game
+
 ::: info
 Since you will be on an older version of the game, you won't be able to connect to any public servers (Unless they are specifically running the same version).
 :::

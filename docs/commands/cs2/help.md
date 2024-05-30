@@ -20,6 +20,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 :::
 
 ## Mapchooser
+
 [Plugin](https://github.com/abnerfs/cs2-rockthevote/)
 
 `css_nominate` - Nominate a map to the next vote.
@@ -33,6 +34,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 `css_nextmap` - Prints the next map.
 
 ## Guns
+
 [Plugin](https://github.com/FemboyKZ/cs2-simple-guns-menu)
 
 `css_guns` - Opens menu for choosing weapons.
@@ -42,6 +44,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 `css_rifles` / `css_primary` - Opens menu for choosing primary weapon.
 
 ## Cosmetics - Skins
+
 [Plugin](https://github.com/Nereziel/cs2-WeaponPaints)
 
 `css_knife` - Opens menu for choosing knife.
@@ -59,6 +62,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 `css_wp` - Refreshes skins.
 
 ## Info
+
 [Plugin](https://github.com/HerrMagiic/CSS-CreateCustomCommands)
 
 `css_discord` / `css_dc` - Prints an invite to [FKZ Discord](https://discord.gg/fkz).

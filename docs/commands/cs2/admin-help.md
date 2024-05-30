@@ -9,7 +9,8 @@ next:
   link: '/commands/cs2/help'
 ---
 
-# Admin Commands
+## Admin Commands
+
 ::: tip
 Usage of commands:
 

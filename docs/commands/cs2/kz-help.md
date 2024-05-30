@@ -9,7 +9,8 @@ next:
   link: '/commands/cs2/help'
 ---
 
-# cs2kz-metamod commands
+## cs2kz-metamod commands
+
 [Plugin](https://github.com/KZGlobalTeam/cs2kz-metamod/)
 
 ::: tip
@@ -22,7 +23,7 @@ In console with the `kz_`, `css_` or `mm_` prefix. (Depends on command.)
 You can bind keys to all the commands. Example: "bind key kz_cp"
 :::
 
-# Checkpoint System
+## Checkpoint System
 
 `kz_checkpoint` / `kz_cp` - Set a checkpoint on your current position.
 
@@ -36,26 +37,27 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_clearstartpos` / `kz_csp` - Clear your custom start position.
 
-
-# Hud / Visuals
+## Hud / Visuals
 
 `kz_panel` - Toggle (speed/keys/timer)panel display.
 
-`kz_hide` - Toggle hiding other players. 
+`kz_hide` - Toggle hiding other players.
 
 `kz_hidelegs` - Toggle hiding legs in firstperson.
 
 `kz_hideweapon` - Toggle hiding weapon viewmodel.
 
-
-# Mode / Style
+## Mode / Style
 
 `kz_mode` - Change your current mode. - `Vanilla(VNL)` / `Classic(CKZ)`
 
+`kz_ckz` - Change your current mode to Classic mode.
+
+`kz_vnl` - Change your current mode to Vanilla mode.
+
 `kz_style` - Change your current style. - `Normal(NRM)` / `Autobhop(ABH)`
 
-
-# Timer
+## Timer
 
 `kz_stop` - Stop the timer.
 
@@ -63,15 +65,15 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_restart` / `kz_r` - Restart course(timer).
 
+## Jumpstats
 
-# Jumpstats
-
-`kz_jsbroadcast` - Change jumpstats minimum broadcast tier. 
+`kz_jsbroadcast` - Change jumpstats minimum broadcast tier.
 
 `kz_jssound` - Change jumpstats sound effect minimum play tier.
 
 ::: info
 `kz_jsbroadcast` and `kz_jssound` values go from `0` to `6` :
+
 - `0` - `none`
 - `1` - `meh`
 - `2` - `impressive`
@@ -85,8 +87,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_jsalways` - Toggle printing jumpstats for ALL jumps, including invalids.
 
-
-# Misc
+## Misc
 
 `kz_tips` - Toggle printing tips.
 

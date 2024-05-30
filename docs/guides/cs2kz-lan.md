@@ -7,14 +7,14 @@ prev:
 next: false
 ---
 
-# Summary
+## Summary
 
 This guide will show you how to set up a CS2 LAN server, and how to install KZ plugins on it. Follow each of the steps from top to bottom, DO NOT skip any steps unless told to.
 ::: warning
 Note that this guide will NOT show you how to set up a Public, non-LAN server! This guide also does not work with CS:GO, only CS2
-::: 
+:::
 
-## All the needed links:
+## All the needed links
 
 For the Server:
 <br>[SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
@@ -23,7 +23,7 @@ For the Server:
 <br>[MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) - Optional 1, for kz sounds (such as jumpstats)
 <br>[GetClientCvarValue](https://github.com/komashchenko/ClientCvarValue) - Optional 2, for kz languages support
 
-Misc: 
+Misc:
 <br>[SteamID Finder](https://steamid.io/)
 <br>[Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
 <br>[KZ Maps on Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=730&searchtext=kz_)
@@ -40,7 +40,7 @@ Misc:
 
 ::: danger
 Note that the folder which will be used for the server has to be on a drive with at least `35GB~` of free space!
-::: 
+:::
 
 ## 2. Installing the Server
 
@@ -60,21 +60,21 @@ Do not close the terminal until it outputs: `Success! App '730' fully installed.
 
 2. You should have downloaded a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` folder into the `\csgo\` folder of the server.
 
-
 The `\csgo\` folder can be found in:
 
 `\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\`
 
 If you have followed this guide exactly as explained.
 
-<br>
 
 3. Next open the `gameinfo.gi` file in a text editor (notepad... etc), the file can be found in the same `\csgo\` folder.
 
-4. Ignore the warning about editing the file, and add 
-```
+4. Ignore the warning about editing the file, and add
+
+```cpp
 Game    csgo/addons/metamod
 ``` 
+
 to the top of the section with similar inputs and save the file.
 <br>See: [example](https://femboy.kz/images/gameinfo.png)
 
@@ -101,7 +101,7 @@ Now your server should be ready and installed!
 
 2. Open to edit the file and add this text into it:
 
-```
+```ass
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2
 ```
@@ -109,10 +109,12 @@ start cs2.exe -dedicated +map de_dust2
 3. (Optional) Navigate to [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers) (log in with steam if you aren't already) and create a new game server account. Set the ID as `730` and click create
 
 Next copy the token and add it along with `+sv_setsteamaccount` to the `start.bat` file like this:
-```
+
+```ass
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +sv_setsteamaccount XXX
 ```
+
 (Replace XXX with your token.)
 <br><br>Save the file.
 
@@ -122,7 +124,7 @@ start cs2.exe -dedicated +map de_dust2 +sv_setsteamaccount XXX
 ## 6. Connecting to the Server
 
 ::: warning
-You have to run your own game before running the server! 
+You have to run your own game before running the server!
 <br>otherwise it will not let you launch your game.
 :::
 
@@ -150,14 +152,14 @@ Maps could be added manually into the files as well, but `FastDL` does not exist
 
 2. Edit the `start.bat` file and add either `+host_workshop_map` or `+host_workshop_collection` command along with the `ID` of the map/collection to the 2nd row on the file like so:
 
-```
+```ass
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +host_workshop_map 3121168339
 ```
 
 or
 
-```
+```ass
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
 ```
@@ -170,9 +172,9 @@ Currently the CS2 Workshop doesn't require you to use a GSLT token for maps, but
 
 
 ## CounterStrikeSharp
+
 If you wish to use CS# for extra plugins you will have to do so:
 
 1. Open `\csgo\addons\metamod\metaplugins.ini` in a text editor.
 
 2. Add `addons/cs2kz/bin/linuxsteamrt64/cs2kz` to the bottom of the file on a new row, and save the file.
-
