@@ -29,9 +29,12 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_teleport` / `kz_tp` - Teleport to (latest) checkpoint.
 
+`kz_undo` - Undo your previous teleport.
+
 `kz_prevcp` / `kz_pcp` - Teleport to the previous checkpoint.
 
 `kz_nextcp` / `kz_ncp` - Teleport to the next checkpoint.
+
 
 `kz_setstartpos` / `kz_ssp` - Set your custom start position to your current position.
 
