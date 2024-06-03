@@ -54,6 +54,8 @@ Also see: [Perms](/wiki/servers/cs2/staff)
 
 - [tumma](https://steamcommunity.com/profiles/76561198119556717)
 
+- [Fevereiro](https://steamcommunity.com/profiles/76561198173568365/)
+
 
 ## Other members
 
