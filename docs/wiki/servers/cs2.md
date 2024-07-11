@@ -13,9 +13,9 @@ FKZ Has ran CS2 Servers since the launch of the Beta.
 
 It started with modified cracked servers with no plugins at all, and now we have all kinds of cool stuff thanks to the devs.
 
-
 ## CS2 Members
-All members have set permissions, whether it's staff, VIP or others. See: 
+
+All members have set permissions, whether it's staff, VIP or others. See:
 
 - [Admin Groups](/wiki/servers/cs2/staff)
 
@@ -34,4 +34,5 @@ All members have set permissions, whether it's staff, VIP or others. See:
 ## CS2 Commands
 
 For the commands, see:
+
 - [Commands](/commands/cs2)
