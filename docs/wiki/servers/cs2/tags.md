@@ -7,132 +7,120 @@ prev:
 next: false
 ---
 
-# Tags
+## Tags
 
 All tags require you to be [Staff](/wiki/servers/cs2/staff), [Contributors](/wiki/donators) or [OG Members](/wiki/servers/cs2/og).
-
 
 ## Custom
 
 How to get: `TBA`
 
-
 `Dots:`
 
 prefix: "`{GOLD}Femboy `"
-      
+
 nick_color: "`{GOLD}`"
 
 message_color: "`{GOLD}`"
-      
-scoreboard: "`Femboy `"
 
+scoreboard: "`Femboy `"
 
 ## #css/owner
 
 prefix: "`{GOLD}[OWNER] `"
-      
+
 nick_color: "`{GOLD}`"
 
 message_color: "`{GOLD}`"
-      
-scoreboard: "`[OWNER] `"
 
+scoreboard: "`[OWNER] `"
 
 ## #css/admin
 
 prefix: `{PURPLE}[ADMIN] `
-      
+
 nick_color: "`{PURPLE}`"
 
 message_color: "`{GOLD}`"
-      
-scoreboard: "`[ADMIN] `"
 
+scoreboard: "`[ADMIN] `"
 
 ## #css/dev
 
 prefix: "`{DARKRED}[DEV] `"
-      
+
 nick_color: "`{DARKRED}`"
 
 message_color: "`{WHITE}`"
-      
-scoreboard: "`[DEV] `"
 
+scoreboard: "`[DEV] `"
 
 ## #css/contributor
 
 prefix: "`{DARKBLUE}[CONTRIBUTOR] `"
-      
+
 nick_color: "`{DARKBLUE}`"
 
 message_color: "`{WHITE}`"
-      
-scoreboard: "`[CONTRIBUTOR] `"
 
+scoreboard: "`[CONTRIBUTOR] `"
 
 ## #css/vip+
 
 prefix: "`{BLUE}[VIP+] `"
-      
+
 nick_color: "`{BLUE}`"
 
 message_color: "`{WHITE}`"
-      
-scoreboard: "`[VIP+] `"
 
+scoreboard: "`[VIP+] `"
 
 ## #css/vip
 
 prefix: "`{LIGHTBLUE}[VIP] `"
-      
+
 nick_color: "`{LIGHTBLUE}`"
 
 message_color: "`{WHITE}`"
-      
-scoreboard: "`[VIP] `"
 
+scoreboard: "`[VIP] `"
 
 ## #css/gmc
 
 prefix: "`{RED}[GMC] `"
-      
+
 nick_color: "`{RED}`"
 
 message_color: "`{WHITE}`"
-      
-scoreboard: "`[GMC] `"
 
+scoreboard: "`[GMC] `"
 
 ## #css/vnl
 
 prefix: "`{LIGHTRED}[VNL] `"
-      
+
 nick_color: "`{LIGHTRED}`"
 
 message_color: "`{WHITE}`"
-      
+
 scoreboard: "`[VNL] `"
 
-
-## #css/vnl
+## #css/og
 
 prefix: "`{WHITE}[OG] `"
-      
+
 nick_color: "`{WHITE}`"
 
 message_color: "`{WHITE}`"
-      
-scoreboard: "`[OG] `"
 
+scoreboard: "`[OG] `"
 
 ## everyone
 
 prefix: ""
-      
+
 nick_color: ""
 
 message_color: ""
-      
+
 scoreboard: ""

@@ -7,6 +7,6 @@ prev:
 next: false
 ---
 
-# Whitelist
+## Whitelist
 
-FKZ Doesn't have any Whitelist only CS2 servers yet.
+TBA

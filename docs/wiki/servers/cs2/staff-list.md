@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-# FKZ CS2 Staff
+## FKZ CS2 Staff
 
 All our staff are highly trusted members chosen and personally known by the Owner.
 
@@ -31,7 +31,6 @@ Server Admins.
 
 - [Stahu](https://steamcommunity.com/profiles/76561198120551466) - polska gurom
 
-
 ## #css/dev
 
 cs2kz Devs, they have admin priviliges.
@@ -40,7 +39,6 @@ cs2kz Devs, they have admin priviliges.
 
 - [alphakeks](https://steamcommunity.com/profiles/76561198282622073) - cs2kz-api main dev
 
-
 ## #css/mod
 
 Server Moderators.
@@ -48,7 +46,6 @@ Server Moderators.
 - [Lucidity](https://steamcommunity.com/profiles/76561198207657755) - that german fella
 
 - [Kino](https://steamcommunity.com/profiles/76561198355327911) - real femboy
-
 
 ## Other Members
 

@@ -8,7 +8,7 @@ next: false
 ---
 
 
-# Admin Groups:
+## Admin Groups
 
 All the Admin groups on FKZ CS2 Servers, their permissions and immunity.
 
@@ -19,7 +19,8 @@ Server Owners
 Immunity: `100`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/generic
 @css/kick
@@ -43,7 +44,8 @@ Flags:
 Immunity: `90`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/generic
 @css/kick
@@ -67,7 +69,8 @@ Flags:
 Immunity: `91`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/generic
 @css/kick
@@ -91,7 +94,8 @@ Flags:
 Immunity: `80`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/generic
 @css/kick
@@ -109,7 +113,8 @@ Flags:
 Immunity: `70`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/changemap
 @css/vip
@@ -121,7 +126,8 @@ Flags:
 Immunity: `60`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/changemap
 @css/vip
@@ -133,7 +139,8 @@ Flags:
 Immunity: `50`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/changemap
 @css/vip
@@ -145,7 +152,8 @@ Flags:
 Immunity: `41`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/changemap
 
@@ -156,7 +164,8 @@ Flags:
 Immunity: `40`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/changemap
 
@@ -167,7 +176,8 @@ Flags:
 Immunity: `30`
 
 Flags:
-```
+
+```json
 @css/reservation
 @css/changemap
 

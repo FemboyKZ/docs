@@ -7,12 +7,11 @@ prev:
 next: false
 ---
 
-# OG Members, GMC Members and VNL Members
+## OG Members, GMC Members and VNL Members
 
 Cool og people in the community.
 
 Also see: [Perms](/wiki/servers/cs2/staff)
-
 
 ## #css/gmc
 
@@ -28,7 +27,6 @@ GMC Members
 
 - [Dyalite](https://steamcommunity.com/profiles/76561198199390651) - duck
 
-
 ## #css/vnl
 
 VNLKZ Members
@@ -38,7 +36,6 @@ VNLKZ Members
 - [Vesq](https://steamcommunity.com/profiles/76561198067033036) - veqsu
 
 - [bed1vere](https://steamcommunity.com/profiles/76561198452880714) - genshin
-
 
 ## #css/og
 
@@ -109,7 +106,6 @@ OG FKZ Members
 - [eljay](https://steamcommunity.com/profiles/76561198860083400) - el jay
 
 - [brat](https://steamcommunity.com/profiles/76561198983626254) - bratan
-
 
 ## Other Members
 
