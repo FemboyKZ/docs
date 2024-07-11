@@ -9,13 +9,11 @@ next: false
 
 ## Summary
 
-The old versions of CS2 have all kinds of weird bugs and changes compared to latest. With this guide you can get any old version that was published by valve. 
-<br>
+The old versions of CS2 have all kinds of weird bugs and changes compared to latest. With this guide you can get any old version that was published by valve.
 
 Links:
-<br>[SteamDB CS2](https://steamdb.info/app/730/depots/)
 
-<br>
+- [SteamDB CS2](https://steamdb.info/app/730/depots/)
 
 ## 1. Opening the Steam Console
 
@@ -27,7 +25,7 @@ For this to work, you need to have the Steam App installed on your computer, and
 
 ## 2. Choosing the version (Main Depot)
 
-CS2's files are split between multiple depot's depending on OS and other factors. 
+CS2's files are split between multiple depot's depending on OS and other factors.
 
 You should choose a build from the `Main Depot`, and then match that version on the other depots to get a working build.
 
@@ -35,7 +33,7 @@ You should choose a build from the `Main Depot`, and then match that version on 
 
 2. Choose a version that you would like to download and copy the `ManifestID`.
 
-3. Open the `Steam Console`(as shown on step 1.) and type in the command 
+3. Open the `Steam Console`(as shown on step 1.) and type in the command
 <br>`download_depot 730 2347770` followed by the `ManifestID` of the version you have chosen.
 
 Example:

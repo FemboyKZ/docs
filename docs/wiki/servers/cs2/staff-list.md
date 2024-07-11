@@ -17,7 +17,7 @@ Also see: [Perms](/wiki/servers/cs2/staff)
 
 Owners of the Servers.
 
-- [Dots / Juniper](https://steamcommunity.com/profiles/76561198268569118) - Actual Owner 
+- [Dots / Juniper](https://steamcommunity.com/profiles/76561198268569118) - Actual Owner
 
 - [Sam](https://steamcommunity.com/profiles/76561198326103116) - <3
 

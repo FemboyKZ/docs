@@ -17,18 +17,18 @@ Note that this guide will NOT show you how to set up a Public, non-LAN server! T
 ## All the needed links
 
 For the Server:
-<br>[SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
-<br>[Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master)
-<br>[cs2kz-metamod (WIP)](https://github.com/KZGlobalTeam/cs2kz-metamod)
-<br>[MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) - Optional 1, for kz sounds (such as jumpstats)
-<br>[GetClientCvarValue](https://github.com/komashchenko/ClientCvarValue) - Optional 2, for kz languages support
+
+- [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
+- [Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master)
+- [cs2kz-metamod (WIP)](https://github.com/KZGlobalTeam/cs2kz-metamod)
+- [MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) - Optional 1, for kz sounds (such as jumpstats)
+- [GetClientCvarValue](https://github.com/komashchenko/ClientCvarValue) - Optional 2, for kz languages support
 
 Misc:
-<br>[SteamID Finder](https://steamid.io/)
-<br>[Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
-<br>[KZ Maps on Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=730&searchtext=kz_)
 
-<br>
+- [SteamID Finder](https://steamid.io/)
+- [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
+- [KZ Maps on Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=730&searchtext=kz_)
 
 ## 1. Installing SteamCMD
 
@@ -66,14 +66,13 @@ The `\csgo\` folder can be found in:
 
 If you have followed this guide exactly as explained.
 
-
 3. Next open the `gameinfo.gi` file in a text editor (notepad... etc), the file can be found in the same `\csgo\` folder.
 
 4. Ignore the warning about editing the file, and add
 
 ```cpp
 Game    csgo/addons/metamod
-``` 
+```
 
 to the top of the section with similar inputs and save the file.
 <br>See: [example](https://femboy.kz/images/gameinfo.png)
@@ -169,7 +168,6 @@ start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
 ::: warning
 Currently the CS2 Workshop doesn't require you to use a GSLT token for maps, but this could change in the future.
 :::
-
 
 ## CounterStrikeSharp
 

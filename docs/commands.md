@@ -7,14 +7,14 @@ prev:
 next: false
 ---
 
-# CS2 Commands
+## CS2 Commands
 
 - [Base Commands](/commands/cs2/help)
 - [KZ Commands](/commands/cs2/kz-help)
 - [Admin commands](/commands/cs2/admin-help)
 
-# CS:GO Commands
+## CS:GO Commands
 
-# Minecraft Commands
+## Minecraft Commands
 
-# Discord Commands
+## Discord Commands

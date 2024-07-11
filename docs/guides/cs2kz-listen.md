@@ -19,10 +19,10 @@ This guide does not work with CS:GO, only CS2
 ## All the needed links
 
 Plugins:
-<br>[Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master)
-<br>[cs2kz-metamod (WIP)](https://github.com/KZGlobalTeam/cs2kz-metamod)
-<br>[KZ Maps on Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=730&searchtext=kz_)
 
+- [Metamod: Source (Dev 2.0x)](https://www.sourcemm.net/downloads.php/?branch=master)
+- [cs2kz-metamod (WIP)](https://github.com/KZGlobalTeam/cs2kz-metamod)
+- [KZ Maps on Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=730&searchtext=kz_)
 
 ## 1. Installing Metamod: Source
 
@@ -42,13 +42,11 @@ If you don't know where your game is installed:
 Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 :::
 
-
 ## 2. Installing the KZ Plugin
 
 1. Open [cs2kz-metamod releases](https://github.com/KZGlobalTeam/cs2kz-metamod/releases) and download the latest `(pre-)release` for your operating system.
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux), then drag the `addons` and `cfg` folders into the `\csgo\` folder.
-
 
 ## 3. Editing gameinfo files
 
@@ -88,7 +86,6 @@ Save the file
 You may want to create copies of the original and modified files in separate folders for switching them back and forth more easily.
 :::
 
-
 ## 4. Adding Launch Options
 
 1. Open your `Steam Librarty` and right-click on Counter-Strike 2, click on `Properties` (Should be the option on the bottom).
@@ -103,7 +100,6 @@ to the field.
 
 Close the `Properties`
 
-
 ## 5. Adding Required files for Mapping
 
 1. Open `steamapps\common\Counter-Strike Global Offensive\content\csgo\` and create new folder called `addons`, enter it and create another folder called `metamod`.
@@ -115,7 +111,6 @@ Close the `Properties`
 `\steamapps\common\Counter-Strike Global Offensive\content\csgo\addons\metamod\`
 
  folder you created.
-
 
 ## Reversing CS2 back to playable
 

@@ -7,24 +7,21 @@ prev:
 next: false
 ---
 
-# Donators
+## Donators
 
 We are very thankful to all these people for Donating and supporting FKZ financially!
 
 Also see: [Perms](/wiki/servers/cs2/staff)
 
-
 ## #css/contributor
 
 - [Stickan](https://steamcommunity.com/profiles/76561198933308155)
-
 
 ## #css/vip+
 
 - [OY](https://steamcommunity.com/profiles/76561198384759348) / [oy2](https://steamcommunity.com/profiles/76561199096177681)
 
 - [sight](https://steamcommunity.com/profiles/76561199001833144)
-
 
 ## #css/vip
 
@@ -55,7 +52,6 @@ Also see: [Perms](/wiki/servers/cs2/staff)
 - [tumma](https://steamcommunity.com/profiles/76561198119556717)
 
 - [Fevereiro](https://steamcommunity.com/profiles/76561198173568365/)
-
 
 ## Other members
 

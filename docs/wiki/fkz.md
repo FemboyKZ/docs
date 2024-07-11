@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-# FemboyKZ
+## FemboyKZ
 
 Also known as FKZ, is a Community started in 2021 with the purpose of running private, whitelist only CS:GO GOKZ Servers for VNL players.
 
@@ -15,11 +15,10 @@ Over the past few years the community on [discord](https://discord.gg/fkz) (and 
 
 Most of the things made and hosted by FKZ were done so by yours truly, Dotsie :3 I've received the help and support of countless people and am personally thankful for everyone who has either supported, played on or even just talked about FKZ. Thank you!
 
-
 ## Read about our [Discord](/wiki/discord)
 
 ## Read about our [Servers](/wiki/servers)
 
-## More...
+## More
 
 TBA

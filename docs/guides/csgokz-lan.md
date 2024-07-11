@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-# Summary
+## Summary
 
 This guide will show you how to set up a CS:GO LAN server and how to install GOKZ / KZTimer plugins on it. Follow each of the steps from top to bottom, DO NOT skip any steps unless told to.
 ::: info
@@ -17,25 +17,24 @@ Note that this guide will NOT show you how to set up a Public, non-LAN server! T
 LAN Servers cannot be Globally whitelisted, and you won’t be able to set Global records on this type of a server.
 :::
 
-
-## All the needed links:
+## All the needed links
 
 For the Server:
-<br>[SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
-<br>[Metamod: Source](https://www.sourcemm.net/downloads.php/?branch=stable)
-<br>[SourceMod](https://sourcemod.net/downloads.php?branch=stable)
-<br>[MovementAPI](https://github.com/danzayau/MovementAPI/releases)
-<br>[GOKZ](https://github.com/KZGlobalTeam/gokz/releases) - (Don’t use, if using KZTimer plugin)
-<br>[KZTimer](https://bitbucket.org/kztimerglobalteam/kztimerglobal/downloads/) - (Don’t use, if using GOKZ plugin)
-<br>[NoLobbyReservation](https://github.com/5Dotsu/NoLobbyReservation/releases) - Needed for csgo_legacy
 
-Misc: 
-<br>[SteamID Finder](https://steamid.io/)
-<br>[Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
-<br>[Global KZ Maps BSP Files](https://maps.global-api.com/bsps/)
-<br>[Global KZ Maps Workshop Collections](https://steamcommunity.com/sharedfiles/filedetails/?id=2354897488)
+- [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD)
+- [Metamod: Source](https://www.sourcemm.net/downloads.php/?branch=stable)
+- [SourceMod](https://sourcemod.net/downloads.php?branch=stable)
+- [MovementAPI](https://github.com/danzayau/MovementAPI/releases)
+- [GOKZ](https://github.com/KZGlobalTeam/gokz/releases) - (Don’t use, if using KZTimer plugin)
+- [KZTimer](https://bitbucket.org/kztimerglobalteam/kztimerglobal/downloads/) - (Don’t use, if using GOKZ plugin)
+- [NoLobbyReservation](https://github.com/5Dotsu/NoLobbyReservation/releases) - Needed for csgo_legacy
 
-<br>
+Misc:
+
+- [SteamID Finder](https://steamid.io/)
+- [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
+- [Global KZ Maps BSP Files](https://maps.global-api.com/bsps/)
+- [Global KZ Maps Workshop Collections](https://steamcommunity.com/sharedfiles/filedetails/?id=2354897488)
 
 ## 1. Installing SteamCMD
 
@@ -47,8 +46,7 @@ Misc:
 
 ::: danger
 Note that the folder which will be used for the server has to be on a drive with at least `30GB~` of free space!
-::: 
-
+:::
 
 ## 2. Installing the Server
 
@@ -62,13 +60,11 @@ Note that the folder which will be used for the server has to be on a drive with
 Do not close the terminal until it outputs: `Success! App '740' fully installed.`!
 :::
 
-
 ## 3. Installing Metamod: Source
 
 1. Open [Metamod: Source's Website](https://www.sourcemm.net/downloads.php/?branch=stable), and click to download the latest Build for your operating system (Windows/Linux).
 
 2. You should have a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` folder into the `\csgo\` folder of the server.
-
 
 The `\csgo\` folder can be found in:
 
@@ -76,13 +72,11 @@ The `\csgo\` folder can be found in:
 
 If you have followed this guide exactly as explained.
 
-
 ## 4. Installing SourceMod
 
 1. Open [SourceMod's Website](https://sourcemod.net/downloads.php?branch=stable), and click to download the latest Build for your operating system (Windows/Linux).
 
 2. You should have a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` and `cfg` folders into the `\csgo\` folder of the server.
-
 
 ## 5. Installing MovementAPI
 
@@ -91,6 +85,7 @@ If you have followed this guide exactly as explained.
 2. Extract the `ZIP` then drag the `addons` folder into the `\csgo\` folder.
 
 ## 6.a. Installing GOKZ
+
 (Skip this step if you are making a KZTimer server)
 
 1. Open [GOKZ's Github Page](https://github.com/KZGlobalTeam/gokz/releases) and download the latest `full release` (GOKZ-latest.zip, NOT -upgrade).
@@ -101,20 +96,20 @@ If you have followed this guide exactly as explained.
 
 4. Copy the following lines of text and paste them into the file, before tha last `}` bracket
 
-```
-	"gokz"
-	{
-		"driver"    "sqlite"  
-		"database"  "gokz-sqlite"
-	}
+```json
+"gokz"
+{
+"driver"    "sqlite"  
+"database"  "gokz-sqlite"
+}
 ```
 
 See: [`Example`](https://femboy.kz/images/databases-gokz.png)
 
 Save the file.
 
-
 ## 6.b. Installing KZTimer
+
 (Skip this step if you are making a GOKZ server)
 
 1. Open [KZTimer's bitbucket Page](https://bitbucket.org/kztimerglobalteam/kztimerglobal/downloads/) and download the latest `full release` (_Full.zip, NOT _upgrade).
@@ -125,26 +120,25 @@ Save the file.
 
 4. Copy the following lines of text and paste them into the file, before tha last `}` bracket
 
-```
-	"kztimer"
-	{
-		"driver"    "sqlite"  
-		"database"  "kztimer-sqlite"
-	}
+```json
+"kztimer"
+{
+"driver"    "sqlite"  
+"database"  "kztimer-sqlite"
+}
 ```
 
 See: [`Example`](https://femboy.kz/images/databases-kztimer.png)
 
 Save the file.
 
-
 ## 7. Installing NoLobbyReservation
-After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin to get past the lobby creation system the game uses. 
+
+After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin to get past the lobby creation system the game uses.
 
 1. Open [The Github Page](https://github.com/5Dotsu/NoLobbyReservation/releases) and download the attached `ZIP` file.
 
 2. Extract it and place the `addons` folder into the `\csgo\` folder.
-
 
 ## 8. Running the Server
 
@@ -152,7 +146,7 @@ After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin t
 
 2. Open to edit the file and add this text into it:
 
-```
+```ansi
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\"
 scrds -game csgo -tickrate 128 -console -usercon  +map de_dust2
 ```
@@ -160,10 +154,12 @@ scrds -game csgo -tickrate 128 -console -usercon  +map de_dust2
 3. (Optional) Navigate to [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers) (log in with steam if you aren't already) and create a new game server account. Set the ID as `730` (not 740) and click create
 
 Next copy the token and add it along with `+sv_setsteamaccount` to the `start.bat` file like this:
-```
+
+```ansi
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\"
 scrds -game csgo -tickrate 128 -console -usercon  +map de_dust2 +sv_setsteamaccount XXX
 ```
+
 (Replace XXX with your token.)
 <br>
 Save the file.
@@ -175,7 +171,7 @@ If you get a prompt to give CS:GO access through your firewall, press yes.
 ## 6. Connecting to the Server
 
 ::: warning
-You have to run your own game before running the server! 
+You have to run your own game before running the server!
 <br>otherwise it will not let you launch your game.
 :::
 
@@ -186,6 +182,7 @@ You can connect to the server by either:
 2. Open the ingame console, and type in `connect localhost`.
 
 ## 7. Updating the Server
+
 ::: info
 Since CS:GO is no longer being updated, this should not be needed.
 :::
@@ -199,6 +196,7 @@ Since CS:GO is no longer being updated, this should not be needed.
 If it doesn't succeed, type `app_update 740 validate` instead.
 
 ## 8.a. Adding KZ Maps - Workshop Method
+
 ::: warning
 To use Workshop you need to set a GSLT token for the server.
 :::
@@ -207,22 +205,22 @@ To use Workshop you need to set a GSLT token for the server.
 
 2. Edit the `start.bat` file and add either `+host_workshop_map` or `+host_workshop_collection` command along with the `ID` of the map/collection to the 2nd row on the file like so:
 
-```
+```ansi
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +host_workshop_map 3121168339
 ```
 
 or
 
-```
+```ansi
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
 ```
 
 (Replace [`3210526079`](https://steamcommunity.com/sharedfiles/filedetails/?id=3121168339)/[`3210526079`](https://steamcommunity.com/sharedfiles/filedetails/?id=3210526079) with what you want.)
 
-
 ## 8.b. Adding KZ Maps - File (FastDL) Method
+
 ::: warning
 with this method you need to manually add the maps to your own game's folder as well as the server's.
 :::
@@ -233,19 +231,19 @@ If you downloaded packages, extract the ZIP files.
 
 2. Place the `.bsp` files into `\csgo\maps\` for the server AND your own game.
 
-
 ## 9. Adding Admins
 
 As the owner you probably want to give yourself full admin privileges on the server.
 
-1. Open up [SteamID.io](https://steamid.io/) to find your SteamID. 
+1. Open up [SteamID.io](https://steamid.io/) to find your SteamID.
 
 2. Open the `admins_simple.ini` file found in `\csgo\addons\sourcemod\configs\`.
 
 3. Place your `SteamID` along with quotation marks on both sides of it, add second additional quotations after it and set your preferred `Admin Flags` in it.
 
 Example:
-```
+
+```ansi
 "STEAM_1:1:12121121" "z"
 ```
 

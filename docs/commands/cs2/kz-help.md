@@ -35,7 +35,6 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_nextcp` / `kz_ncp` - Teleport to the next checkpoint.
 
-
 `kz_setstartpos` / `kz_ssp` - Set your custom start position to your current position.
 
 `kz_clearstartpos` / `kz_csp` - Clear your custom start position.
@@ -56,7 +55,11 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `kz_ckz` - Change your current mode to Classic mode.
 
+`kz_ckzb` - Change your current mode to Classic-Bind mode. (FKZ ONLY)
+
 `kz_vnl` - Change your current mode to Vanilla mode.
+
+`kz_vnl128` - Change your current mode to Vanilla Fake-128t mode. (FKZ ONLY)
 
 `kz_style` - Change your current style. - `Normal(NRM)` / `Autobhop(ABH)`
 

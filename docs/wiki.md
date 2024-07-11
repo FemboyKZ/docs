@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-# Wiki
+## Wiki
 
 - [What is FKZ](/wiki/fkz)
 - [Discord Info](/wiki/discord)
