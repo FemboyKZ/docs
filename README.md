@@ -1,3 +1,5 @@
-# fkz-docs
+# FemboyKZ Docs
+
 https://discord.gg/fkz
-Docs for fkz using vitepress
+
+Docs for FKZ using Vitepress
