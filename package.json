@@ -10,13 +10,9 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "viewerjs": "^1.11.6",
-    "vitepress-plugin-image-viewer": "^1.1.4",
     "vue": "^3.4.22"
   },
   "devDependencies": {
-    "flexsearch": "^0.7.43",
-    "vitepress": "^1.1.0",
-    "vitepress-plugin-search": "^1.0.4-alpha.22"
+    "vitepress": "^1.1.0"
   }
 }
