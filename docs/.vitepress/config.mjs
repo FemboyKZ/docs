@@ -1,7 +1,9 @@
+import { SearchPlugin } from "vitepress-plugin-search";
 import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  vite: { plugins: [SearchPlugin(options)] },
   head: [["link", { rel: "icon", href: "/fkz-notext.ico" }]],
   title: "FKZ Docs",
   titleTemplate: "FKZ Docs | :title",
