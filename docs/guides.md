@@ -9,11 +9,7 @@ next: false
 
 ## FKZ Guides
 
-- None for now
-
-## External Guides
-
-Guides on non-FKZ Specific stuff.
+Some random guides for FKZ related stuff.
 
 ## CS2 Guides
 

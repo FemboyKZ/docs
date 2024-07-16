@@ -32,6 +32,7 @@ export default defineConfig({
             items: [
               { text: "CS2", link: "/commands/cs2" },
               { text: "CS:GO", link: "/commands/csgo" },
+              { text: "ClassicCounter", link: "/commands/cscl" },
               { text: "Discord", link: "/commands/discord" },
               { text: "Minecraft", link: "/commands/minecraft" },
             ],

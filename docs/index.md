@@ -22,6 +22,7 @@ Games:
 
 - [CS2](/commands/cs2)
 - [CS:GO](/commands/csgo)
+- [ClassicCounter](/commands/cscl)
 - [Minecraft](/commands/minecraft)
 
 Apps:
