@@ -1,6 +1,15 @@
 import { SearchPlugin } from "vitepress-plugin-search";
 import { defineConfig } from "vitepress";
 
+var options = {
+  ...flexSearchIndexOptions,
+  previewLength: 62,
+  buttonLabel: "Search",
+  placeholder: "Search docs",
+  allow: [],
+  ignore: [],
+};
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   vite: { plugins: [SearchPlugin(options)] },
