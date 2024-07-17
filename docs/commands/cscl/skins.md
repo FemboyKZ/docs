@@ -26,3 +26,13 @@ Parameters in `<>` are required.
 
 Parameters in `[]` are optional.
 :::
+
+## Commands
+
+`knife` - Opens menu for choosing knife.
+
+`ws` - Change skins on weapons, float/seed of a skin or set weapon's name tag.
+
+`loadout` - Change your weapon loadout.
+
+`expeimental` - Toggle the ability to use any skin on any weapon.
