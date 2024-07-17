@@ -20,9 +20,3 @@ In console with the `sm_` prefix.
 
 You can bind keys to all the commands. Example: "bind key sm_cp"
 :::
-
-::: info
-Parameters in `<>` are required.
-
-Parameters in `[]` are optional.
-:::
