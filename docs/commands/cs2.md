@@ -13,7 +13,9 @@ next:
 
 Info on the usable commands on FKZ CS2 Servers.
 
-- [Base Commands](/commands/cs2/help) - Maps, Votes, Guns, Skins, etc.
+- [Base Commands](/commands/cs2/help) - Maps, Votes, Guns etc.
+
+- [Skins Commands](/commands/cs2/skins) - Skins, cosmetics, knives.
 
 - [KZ Commands](/commands/cs2/kz-help) - Checkpoints, Timer, Hud, etc.
 
