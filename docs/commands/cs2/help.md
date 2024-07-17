@@ -43,24 +43,6 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `css_rifles` / `css_primary` - Opens menu for choosing primary weapon.
 
-## Cosmetics - Skins
-
-[Plugin](https://github.com/Nereziel/cs2-WeaponPaints)
-
-`css_knife` - Opens menu for choosing knife.
-
-`css_gloves` - Opens menu for choosing gloves.
-
-`css_agents` - Opens menu for choosing agent.
-
-`css_music` - Opens menu to choose music kit.
-
-`css_skins` - Opens menu to choose weapon/knife skins.
-
-`css_ws` - Opens website for choosing skins.
-
-`css_wp` - Refreshes skins.
-
 ## Info
 
 [Plugin](https://github.com/HerrMagiic/CSS-CreateCustomCommands)
