@@ -6,11 +6,7 @@ hero:
   tagline: "[WIP] Docs for femboy.kz"
 ---
 
-# Docs
-
-Info, documentiation and guides on all things FKZ related and more.
-
-## [Wiki](/wiki)
+# [Wiki](/wiki)
 
 - [What is FKZ](/wiki/fkz)
 - [FKZ Discord Info](/wiki/discord)
