@@ -208,21 +208,7 @@ To use Workshop you need to set a GSLT token for the server.
 
 1. Open [Global KZ Maps Workshop Collections](https://steamcommunity.com/sharedfiles/filedetails/?id=2354897488) and look for a map or Collection of maps
 
-2. Edit the `start.bat` file and add either `+host_workshop_map` or `+host_workshop_collection` command along with the `ID` of the map/collection to the 2nd row on the file like so:
-
-```ansi
-cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
-start cs2.exe -dedicated +map de_dust2 +host_workshop_map 3121168339
-```
-
-or
-
-```ansi
-cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
-start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
-```
-
-(Replace [`3210526079`](https://steamcommunity.com/sharedfiles/filedetails/?id=3121168339)/[`3210526079`](https://steamcommunity.com/sharedfiles/filedetails/?id=3210526079) with what you want.)
+2. Open your server and run either `host_workshop_map` or `host_workshop_collection` command along with the `ID` of the map/collection in the server's console.
 
 ## 8.b. Adding KZ Maps - File (FastDL) Method
 
@@ -231,7 +217,6 @@ with this method you need to manually add the maps to your own game's folder as 
 :::
 
 1. Open [Global KZ BSP Files Website](https://maps.global-api.com/) and download any single `bsps` or `packages`.
-
 If you downloaded packages, extract the ZIP files.
 
 2. Place the `.bsp` files into `\csgo\maps\` for the server AND your own game.
