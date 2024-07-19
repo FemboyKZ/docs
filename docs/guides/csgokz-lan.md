@@ -149,7 +149,7 @@ After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin t
 
 ```ansi
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\"
-scrds -game csgo -tickrate 128 -console -usercon  +map de_dust2
+srcds -game csgo -tickrate 128 -console -usercon  +map de_dust2
 ```
 
 3. (Optional) Navigate to [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers) (log in with steam if you aren't already) and create a new game server account. Set the ID as `730` (not 740) and click create
@@ -158,7 +158,7 @@ Next copy the token and add it along with `+sv_setsteamaccount` to the `start.ba
 
 ```ansi
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\"
-scrds -game csgo -tickrate 128 -console -usercon  +map de_dust2 +sv_setsteamaccount XXX
+srcds -game csgo -tickrate 128 -console -usercon +map de_dust2 +sv_setsteamaccount XXX
 ```
 
 (Replace XXX with your token.)
