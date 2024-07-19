@@ -187,6 +187,10 @@ You can connect to the server by either:
 Since CS:GO is no longer being updated, this should not be needed.
 :::
 
+::: info
+The warning about your server being outdated is something that can't be fixed without upgrading to cs2, so you can ignore it.
+:::
+
 1. Open up `SteamCMD.exe`.
 
 2. Type in `login anonymous` and hit enter.
