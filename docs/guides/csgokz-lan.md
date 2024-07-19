@@ -33,7 +33,8 @@ Misc:
 
 - [SteamID Finder](https://steamid.io/)
 - [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
-- [Global KZ Maps BSP Files](https://maps.global-api.com/bsps/)
+- [Global KZ Maps BSP Files](https://maps.global-api.com/bsps/) - (Outdated)
+- [FKZ Mirror For Global KZ Maps](https://maps.femboy.kz/)
 - [Global KZ Maps Workshop Collections](https://steamcommunity.com/sharedfiles/filedetails/?id=2354897488)
 
 ## 1. Installing SteamCMD
