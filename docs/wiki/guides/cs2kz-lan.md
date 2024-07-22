@@ -36,7 +36,7 @@ Misc:
 
 2. Click on `[1]`, and download the `ZIP` file.
 
-3. Extract the contents of the `ZIP` into the folder which the server will reside in. 
+3. Extract the contents of the `ZIP` into the folder which the server will reside in.
 
 ::: danger
 Note that the folder which will be used for the server has to be on a drive with at least `35GB~` of free space!
@@ -75,7 +75,7 @@ Game    csgo/addons/metamod
 ```
 
 to the top of the section with similar inputs and save the file.
-<br>See: [example](https://femboy.kz/images/gameinfo.png)
+<br>See: [example](/images/gameinfo.png)
 
 ## 4. Installing the KZ Plugin
 
