@@ -18,35 +18,41 @@ export default defineConfig({
         text: "Docs",
         items: [
           {
+            text: "FKZ Wiki",
+            link: "/wiki-fkz",
+            items: [
+              { text: "What is FKZ", link: "/wiki-fkz/fkz" },
+              { text: "FKZ Discord", link: "/wiki-fkz/discord" },
+              { text: "FKZ Servers", link: "/wiki-fkz/servers" },
+            ],
+          },
+          {
             text: "Wiki",
             link: "/wiki",
             items: [
-              { text: "What is FKZ", link: "/wiki/fkz" },
-              { text: "FKZ Discord", link: "/wiki/discord" },
-              { text: "FKZ Servers", link: "/wiki/servers" },
+              { text: "CS2", link: "/wiki/cs2" },
+              { text: "CS:GO", link: "/wiki/csgo" },
+              { text: "ClassicCounter", link: "/wiki/cscl" },
+              { text: "Discord", link: "/wiki/discord" },
+              { text: "Minecraft", link: "/wiki/minecraft" },
             ],
           },
           {
-            text: "Commands",
-            link: "/commands",
+            text: "Guides",
+            link: "/wiki/guides",
             items: [
-              { text: "CS2", link: "/commands/cs2" },
-              { text: "CS:GO", link: "/commands/csgo" },
-              { text: "ClassicCounter", link: "/commands/cscl" },
-              { text: "Discord", link: "/commands/discord" },
-              { text: "Minecraft", link: "/commands/minecraft" },
-            ],
-          },
-          {
-            text: "External",
-            link: "/guides",
-            items: [
-              { text: "CS2KZ Lan-Server Guide", link: "/guides/cs2kz-lan" },
+              {
+                text: "CS2KZ Lan-Server Guide",
+                link: "/wiki/guides/cs2kz-lan",
+              },
               {
                 text: "CS2KZ Listen-Server Guide",
-                link: "guides/cs2kz-listen",
+                link: "/wikiguides/cs2kz-listen",
               },
-              { text: "CS:GOKZ Lan-Server Guide", link: "/guides/csgokz-lan" },
+              {
+                text: "CS:GOKZ Lan-Server Guide",
+                link: "/wiki/guides/csgokz-lan",
+              },
             ],
           },
         ],
