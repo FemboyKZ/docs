@@ -9,10 +9,10 @@ next: false
 
 ## ClassicCounter Commands
 
-- [Base Commands](/cscl/commands/help) - Maps, Votes, etc.
-- [Skins Commands](/cscl/commands/skins) - Skins, knives, etc.
-- [KZ Commands](/cscl/commands/kz-help) - Checkpoints, Timer, etc.
-- [Admin commands](/cscl/commands/admin-help) - Admin only commands, bans n such.
+- [Base Commands](/wiki/cscl/commands/help) - Maps, Votes, etc.
+- [Skins Commands](/wiki/cscl/commands/skins) - Skins, knives, etc.
+- [KZ Commands](/wiki/cscl/commands/kz-help) - Checkpoints, Timer, etc.
+- [Admin commands](/wiki/cscl/commands/admin-help) - Admin only commands, bans n such.
 
 ::: tip
 Usage of commands:

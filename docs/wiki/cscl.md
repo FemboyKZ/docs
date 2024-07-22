@@ -11,13 +11,13 @@ next: false
 
 Info on the usable commands on FKZ CSCL Servers.
 
-- [Base Commands](/cscl/commands/help) - Maps, Votes, Guns etc.
+- [Base Commands](/wiki/cscl/commands/help) - Maps, Votes, Guns etc.
 
-- [Skins Commands](/cscl/commands/skins) - Skins, cosmetics, knives.
+- [Skins Commands](/wiki/cscl/commands/skins) - Skins, cosmetics, knives.
 
-- [KZ Commands](/cscl/commands/kz-help) - Checkpoints, Timer, Hud, etc.
+- [KZ Commands](/wiki/cscl/commands/kz-help) - Checkpoints, Timer, Hud, etc.
 
-- [Admin commands](/cscl/commands/admin-help) - Admin only commands, bans n such.
+- [Admin commands](/wiki/cscl/commands/admin-help) - Admin only commands, bans n such.
 
 ::: tip
 Usage of CSCL commands:

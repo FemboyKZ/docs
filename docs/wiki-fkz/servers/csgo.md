@@ -25,6 +25,4 @@ All members have set permissions, whether it's staff, VIP or others. See:
 
 ## CS:GO Commands
 
-For the commands, see:
-
-- [Commands](/wiki/csgo/commands)
+- TBA

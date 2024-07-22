@@ -26,7 +26,7 @@ Parameters in `<>` are required.
 
 Parameters in `[]` are optional.
 
-@css/ shows required perms to use command. See Perms in [Admin Groups](/wiki/servers/cs2/staff)
+@css/ shows required perms to use command. See Perms in [Admin Groups](/wiki-fkz/servers/cs2/staff)
 :::
 
 ## Info
