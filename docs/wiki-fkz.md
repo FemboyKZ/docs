@@ -14,4 +14,3 @@ next: false
 - [FKZ Servers](/wiki-fkz/servers)
 - [FKZ Donators](/wiki-fkz/donators)
 - [FKZ VIP](/wiki-fkz/vip)
-- [FKZ Whitelist](/wiki-fkz/whitelist)

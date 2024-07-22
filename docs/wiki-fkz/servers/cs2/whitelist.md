@@ -3,7 +3,7 @@ title: CS2 Whitelist
 description: Info on FKZ CS2 Whitelist
 prev: 
   text: 'Back'
-  link: '/wiki/servers/cs2'
+  link: '/wiki-fkz/servers/cs2'
 next: false
 ---
 

@@ -3,7 +3,7 @@ title: ClassicCounter Wiki
 description: Info on FKZ ClassicCounter Servers
 prev: 
   text: 'Back'
-  link: '/wiki/servers'
+  link: '/wiki-fkz/servers'
 next: false
 ---
 
