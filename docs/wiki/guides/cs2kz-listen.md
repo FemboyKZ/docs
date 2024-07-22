@@ -66,7 +66,7 @@ Game    csgo/addons/metamod
 
 to the top of the section with similar inputs and save the file.
 
-See: [example](https://femboy.kz/images/gameinfo.png)
+See: [example](/images/gameinfo.png)
 
 3. Navigate to `\steamapps\common\Counter-Strike Global Offensive\game\csgo_core\`, and open the `gameinfo.gi` file.
 
