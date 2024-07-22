@@ -13,6 +13,8 @@ next:
 
 This guide consists of useful plugins for KZ server owners.
 
+Thanks to KZGlobalTeam's [Docs](https://github.com/KZGlobalTeam/docs)
+
 ::: danger
 All these plugins are third-party and are without warranty from us.
 :::
@@ -79,7 +81,3 @@ Allows you to save GOKZ server record replays on your KZTimer server
 
 - [Zone Stopwatch](https://bitbucket.org/GameChaos/zone-stopwatch) by GameChaos
 Lets players create zones to check how fast different routes are
-
-## Credits
-
-Thanks to KZGlobalTeam's [Docs](https://github.com/KZGlobalTeam/docs)
