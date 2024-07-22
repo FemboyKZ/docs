@@ -3,10 +3,10 @@ title: Admin Commands
 description: Info on Admin commands
 prev: 
   text: 'Back'
-  link: '/commands/cs2'
+  link: '/wiki/cs2/commands'
 next: 
   text: 'Base Commands'
-  link: '/commands/cs2/help'
+  link: '/wiki/cs2/commands/help'
 ---
 
 ## Admin Commands

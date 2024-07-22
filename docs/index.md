@@ -6,33 +6,33 @@ hero:
   tagline: "[WIP] Docs for femboy.kz"
 ---
 
-# [Wiki](/wiki)
+# [FKZ Wiki](/wiki-fkz)
 
-- [What is FKZ](/wiki/fkz)
-- [FKZ Discord Info](/wiki/discord)
-- [FKZ Server Info](/wiki/servers)
+- [What is FKZ](/wiki-fkz/fkz)
+- [FKZ Discord Info](/wiki-fkz/discord)
+- [FKZ Server Info](/wiki-fkz/servers)
 
-## [Commands](/commands)
+## [Wiki](/wiki)
 
 Games:
 
-- [CS2](/commands/cs2)
-- [CS:GO](/commands/csgo)
-- [ClassicCounter](/commands/cscl)
-- [Minecraft](/commands/minecraft)
+- [CS2](/wiki/cs2)
+- [CS:GO](/wiki/csgo)
+- [ClassicCounter](/wiki/cscl)
+- [Minecraft](/wiki/minecraft)
 
 Apps:
 
-- [Discord](/commands/discord)
+- [Discord](/wiki/discord)
 
-## [Guides](/guides)
+## [Guides](/wiki/guides)
 
 CS2:
 
-- [CS2 KZ Lan Server Guide](/guides/cs2kz-lan)
-- [CS2 KZ Listen Server Guide (For Mapping)](/guides/cs2kz-listen)
-- [CS2 Old Versions, download Guide](/guides/cs2-versions)
+- [CS2 KZ Lan Server Guide](/wiki/guides/cs2kz-lan)
+- [CS2 KZ Listen Server Guide (For Mapping)](/wiki/guides/cs2kz-listen)
+- [CS2 Old Versions, download Guide](/wiki/guides/cs2-versions)
 
 CS:GO:
 
-- [CS:GO KZ Lan Server Guide](/guides/csgokz-lan)
+- [CS:GO KZ Lan Server Guide](/wiki/guides/csgokz-lan)

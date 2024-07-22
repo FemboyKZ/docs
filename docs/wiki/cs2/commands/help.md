@@ -3,10 +3,10 @@ title: Base Commands
 description: Info on common commands
 prev: 
   text: 'Back'
-  link: '/commands/cs2'
+  link: '/wiki/cs2/commands'
 next: 
   text: 'KZ Commands'
-  link: '/commands/cs2/kz-help'
+  link: '/wiki/cs2/commands/kz-help'
 ---
 
 ::: tip

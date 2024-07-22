@@ -3,10 +3,10 @@ title: Skins Commands
 description: Info on skins commands
 prev: 
   text: 'Back'
-  link: '/commands/cscl'
+  link: '/wiki/cscl/commands'
 next: 
   text: 'Base Commands'
-  link: '/commands/cscl/help'
+  link: '/wiki/cscl/commands/help'
 ---
 
 ## Skins Commands

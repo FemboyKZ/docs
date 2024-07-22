@@ -1,15 +1,15 @@
 ---
-title: Base Commands
-description: Info on common commands
+title: KZ Commands
+description: Info on KZ commands
 prev: 
   text: 'Back'
-  link: '/commands/cscl'
+  link: '/wiki/cscl/commands'
 next: 
-  text: 'KZ Commands'
-  link: '/commands/cscl/kz-help'
+  text: 'Base Commands'
+  link: '/wiki/cscl/commands/help'
 ---
 
-## Base Commands
+## KZ Commands
 
 ::: tip
 Usage of commands:

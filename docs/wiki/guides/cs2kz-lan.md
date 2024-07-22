@@ -3,7 +3,7 @@ title: CS2 KZ Lan Server Setup Guide
 description: FKZ CS2 Lan Server Guide 
 prev: 
   text: 'Back'
-  link: '/guides'
+  link: '/wiki/guides'
 next: false
 ---
 

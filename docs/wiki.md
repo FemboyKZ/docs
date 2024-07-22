@@ -1,6 +1,6 @@
 ---
 title: Wiki [WIP]
-description: Info on all FKZ things
+description: Info on all FKZ related things
 prev: 
   text: 'Back'
   link: '/index'
@@ -9,6 +9,9 @@ next: false
 
 ## Wiki
 
-- [What is FKZ](/wiki/fkz)
-- [Discord Info](/wiki/discord)
-- [Server Info](/wiki/servers)
+- [CS2 Wiki](/wiki/cs2)
+- [ClassicCounter Wiki](/wiki/cscl)
+- [CS:GO Wiki](/wiki/csgo)
+- [Minecraft Wiki](/wiki/minecraft)
+- [Guides](/wiki/guides)
+- [FKZ Discord](/wiki-fkz/discord)

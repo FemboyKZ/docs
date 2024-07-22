@@ -1,6 +1,6 @@
 ---
-title: FKZ VIP 
-description: Info on FKZ VIP
+title: Minecraft Wiki [WIP]
+description: FKZ Minecraft Wiki
 prev: 
   text: 'Back'
   link: '/wiki'

@@ -1,12 +1,10 @@
 ---
-title: ClassicCounter Commands [WIP]
-description: All the commands on FKZ ClassicCounter Servers
+title: ClassicCounter Wiki [WIP]
+description: CC Stuff
 prev: 
   text: 'Back'
-  link: '/commands'
-next: 
-  text: 'CS:GO Commands'
-  link: '/commands/csgo'
+  link: '/wiki'
+next: false
 ---
 
 ## ClassicCounter Commands

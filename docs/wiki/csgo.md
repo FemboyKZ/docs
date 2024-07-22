@@ -1,6 +1,6 @@
 ---
-title: Discord Wiki [WIP]
-description: idk
+title: CS:GO Wiki [WIP]
+description: CS:GO Wiki
 prev: 
   text: 'Back'
   link: '/wiki'

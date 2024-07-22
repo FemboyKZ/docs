@@ -3,7 +3,7 @@ title: CS2 KZ Listen Server
 description: FKZ CS2 Listen Server Guide 
 prev: 
   text: 'Back'
-  link: '/guides'
+  link: '/wiki/guides'
 next: false
 ---
 

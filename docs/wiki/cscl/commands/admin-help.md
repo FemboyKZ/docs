@@ -1,15 +1,15 @@
 ---
-title: KZ Commands
-description: Info on KZ commands
+title: Admin Commands
+description: Info on admin commands
 prev: 
   text: 'Back'
-  link: '/commands/cscl'
+  link: '/wiki/cscl/commands'
 next: 
   text: 'Base Commands'
-  link: '/commands/cscl/help'
+  link: '/wiki/cscl/commands/help'
 ---
 
-## KZ Commands
+## Admin Commands
 
 ::: tip
 Usage of commands:
