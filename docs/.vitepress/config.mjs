@@ -43,15 +43,15 @@ export default defineConfig({
             items: [
               {
                 text: "CS2KZ Lan-Server Guide",
-                link: "/wiki/guides/cs2kz-lan",
+                link: "/wiki/guides/cs2/lan",
               },
               {
                 text: "CS2KZ Listen-Server Guide",
-                link: "/wikiguides/cs2kz-listen",
+                link: "/wiki/guides/cs2/listen",
               },
               {
                 text: "CS:GOKZ Lan-Server Guide",
-                link: "/wiki/guides/csgokz-lan",
+                link: "/wiki/guides/csgo/lan",
               },
             ],
           },
