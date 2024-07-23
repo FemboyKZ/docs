@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-## CS2 Commands
+# CS2 Commands
 
 - [Base Commands](/wiki/cs2/commands/help) - Maps, Votes, etc.
 - [Skins Commands](/wiki/cs2/commands/skins) - Skins, knives, etc.

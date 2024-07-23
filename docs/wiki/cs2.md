@@ -7,7 +7,15 @@ prev:
 next: false
 ---
 
-## CS2 Commands
+# CS2 Wiki
+
+Info on the CS2 Servers, gamemodes, maps, etc.
+
+## CS2 Binds
+
+- TBA
+
+## [CS2 Commands](/wiki/cs2/commands)
 
 Info on the usable commands on FKZ CS2 Servers.
 
@@ -28,3 +36,19 @@ In console with the `kz_`, `css_` or `mm_` prefix. (Depends on command.)
 
 You can bind keys to all the commands. Example: "bind key kz_cp"
 :::
+
+## [CS2 Guides](/wiki/cs2/guides)
+
+A list of guides for CS2, mostly by Dots.
+
+- [Lan Server](/wiki/cs2/guides/lan)
+- [Listen Server](/wiki/cs2/guides/listen)
+- [Old Versions](/wiki/cs2/guides/old-versions)
+
+## [CS2 Servers](/wiki/cs2/servers)
+
+- TBA
+
+## [CS2 Maps](/wiki/cs2/maps)
+
+- TBA

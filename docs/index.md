@@ -14,25 +14,46 @@ hero:
 
 ## [Wiki](/wiki)
 
-Games:
+FKZ Open Source Wiki.
 
-- [CS2](/wiki/cs2)
-- [CS:GO](/wiki/csgo)
-- [ClassicCounter](/wiki/cscl)
-- [Minecraft](/wiki/minecraft)
+## [CS2](/wiki/cs2)
 
-Apps:
+### [CS2 Guides](/wiki/cs2/guides)
 
-- [Discord](/wiki/discord)
+- [Lan Server](/wiki/cs2/guides/lan)
+- [Listen Server](/wiki/cs2/guides/listen)
+- [Old Versions](/wiki/cs2/guides/old-versions)
 
-## [Guides](/wiki/guides)
+### [CS2 Commands](/wiki/cs2/commands)
 
-CS2:
+- [Base Commands](/wiki/cs2/commands/help)
+- [KZ Commands](/wiki/cs2/commands/kz-help)
+- [Skins Commands](/wiki/cs2/commands/skins)
+- [Admin commands](/wiki/cs2/commands/admin-help)
 
-- [CS2 KZ Lan Server Guide](/wiki/guides/cs2/lan)
-- [CS2 KZ Listen Server Guide (For Mapping)](/wiki/guides/cs2/listen)
-- [CS2 Old Versions, download Guide](/wiki/guides/cs2/old-versions)
+## [CS:GO](/wiki/csgo)
 
-CS:GO:
+### [CS:GO Guides](/wiki/csgo/guides)
 
-- [CS:GO KZ Lan Server Guide](/wiki/guides/csgo/lan)
+- [Lan Server](/wiki/csgo/guides/lan)
+
+### CS:GO Commands (TBA)
+
+- TBA
+
+## [ClassicCounter](/wiki/cscl)
+
+### [ClassicCounter Commands](/wiki/cscl/commands)
+
+- [Base Commands](/wiki/cscl/commands/help)
+- [KZ Commands](/wiki/cscl/commands/kz-help)
+- [Skins Commands](/wiki/cscl/commands/skins)
+- [Admin commands](/wiki/cscl/commands/admin-help)
+
+## [Minecraft](/wiki/minecraft)
+
+- TBA
+
+## [Discord](/wiki/discord)
+
+- TBA

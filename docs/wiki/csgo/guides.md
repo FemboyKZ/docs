@@ -3,22 +3,14 @@ title: CS:GO Guides
 description: CS:GO Guides
 prev: 
   text: 'Back'
-  link: '/wiki/guides'
+  link: '/wiki/csgo'
 next: false
 ---
 
-## CS:GO Guides
+# CS:GO Guides
 
 A list of guides for CS:GO, mostly by Dots.
 
-## Servers
+## Server Guides
 
 - [Lan Server](/wiki/guides/csgo/lan)
-
-## Configs
-
-- tba
-
-## Maps
-
-- tba

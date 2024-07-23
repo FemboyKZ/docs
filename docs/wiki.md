@@ -7,11 +7,25 @@ prev:
 next: false
 ---
 
-## Wiki
+# Wiki
 
-- [CS2 Wiki](/wiki/cs2)
-- [ClassicCounter Wiki](/wiki/cscl)
-- [CS:GO Wiki](/wiki/csgo)
-- [Minecraft Wiki](/wiki/minecraft)
-- [Guides](/wiki/guides)
-- [FKZ Discord](/wiki-fkz/discord)
+## [CS2 Wiki](/wiki/cs2)
+
+- [CS2 Guides](/wiki/cs2/guides)
+- [CS2 Commands](/wiki/cs2/commands)
+
+## [ClassicCounter Wiki](/wiki/cscl)
+
+- [ClassicCounter Commands](/wiki/cscl/commands)
+
+## [CS:GO Wiki](/wiki/csgo)
+
+- [CS:GO Guides](/wiki/csgo/guides)
+
+## [Minecraft Wiki](/wiki/minecraft)
+
+- tba
+
+## [FKZ Discord](/wiki-fkz/discord)
+
+- tba

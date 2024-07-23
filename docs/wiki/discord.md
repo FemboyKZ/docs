@@ -7,4 +7,6 @@ prev:
 next: false
 ---
 
-## wip
+# Discord Wiki
+
+- tba
