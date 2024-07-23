@@ -38,7 +38,8 @@ Game    csgo/addons/metamod
 ```
 
 to the top of the section with similar inputs and save the file.
-<br>See: [example](/images/gameinfo.png)
+
+See:<vImageViewer src="https://files.femboy.kz/web//images/gameinfo.png" alt="Example image" :inline="true"/> 
 
 ## Installing the KZ Plugin
 

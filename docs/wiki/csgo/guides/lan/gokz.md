@@ -53,7 +53,7 @@ If you have followed this guide exactly as explained.
 }
 ```
 
-See:<vImageViewer src="/images/databases-gokz.png" alt="Example image" :inline="true"/> 
+See:<vImageViewer src="https://files.femboy.kz/web/images/databases-gokz.png" alt="Example image" :inline="true"/> 
 
 Save the file.
 
