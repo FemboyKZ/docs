@@ -13,4 +13,4 @@ A list of guides for CS:GO, mostly by Dots.
 
 ## Server Guides
 
-- [Lan Server](/wiki/guides/csgo/lan)
+- [Lan Server](/wiki/csgo/guides/lan)

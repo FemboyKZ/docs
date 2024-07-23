@@ -45,10 +45,10 @@ A list of guides for CS2, mostly by Dots.
 - [Listen Server](/wiki/cs2/guides/listen)
 - [Old Versions](/wiki/cs2/guides/old-versions)
 
-## [CS2 Servers](/wiki/cs2/servers)
+## CS2 Servers
 
 - TBA
 
-## [CS2 Maps](/wiki/cs2/maps)
+## CS2 Maps
 
 - TBA

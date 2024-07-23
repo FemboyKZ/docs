@@ -39,9 +39,9 @@ Misc:
 
 ## Guides
 
-- [Setup](/wiki/guides/csgo/lan/setup) - Server Setup and Usage
-- [GOKZ](/wiki/guides/csgo/lan/gokz) - Installing GOKZ Plugin
-- [KZTimer](/wiki/guides/csgo/lan/kztimer) - Installing KZTimer Plugin
-- [Useful Plugins](/wiki/guides/csgo/lan/useful-plugins) - Useful Plugins to add
-- [Maps](/wiki/guides/csgo/lan/maps) - Adding KZ Maps
-- [Admin](/wiki/guides/csgo/lan/admin) - Setting Admins
+- [Setup](/wiki/csgo/guides/lan/setup) - Server Setup and Usage
+- [GOKZ](/wiki/csgo/guides/lan/gokz) - Installing GOKZ Plugin
+- [KZTimer](/wiki/csgo/guides/lan/kztimer) - Installing KZTimer Plugin
+- [Useful Plugins](/wiki/csgo/guides/lan/useful-plugins) - Useful Plugins to add
+- [Maps](/wiki/csgo/guides/lan/maps) - Adding KZ Maps
+- [Admin](/wiki/csgo/guides/lan/admin) - Setting Admins
