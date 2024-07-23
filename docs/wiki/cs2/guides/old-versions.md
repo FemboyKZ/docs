@@ -3,7 +3,7 @@ title: CS2 Old Version Download Guide
 description: Guide on getting older versions of CS2
 prev: 
   text: 'Back'
-  link: '/wiki/guides'
+  link: '/wiki/cs2/guides'
 next: false
 ---
 

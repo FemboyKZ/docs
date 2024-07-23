@@ -3,10 +3,10 @@ title: CS:GO Server Useful Plugins
 description: CS:GO Server Useful Plugins
 prev: 
   text: 'Back'
-  link: '/wiki/guides/csgo/lan'
+  link: '/wiki/csgo/guides/lan'
 next: 
   text: 'Next'
-  link: '/wiki/guides/csgo/lan/admin'
+  link: '/wiki/csgo/guides/lan/admin'
 ---
 
 # Useful Plugins Guide

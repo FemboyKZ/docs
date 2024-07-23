@@ -3,7 +3,7 @@ title: CS:GO Server Adding Admins
 description: CS:GO Server Adding Admins
 prev: 
   text: 'Back'
-  link: '/wiki/guides/csgo/lan'
+  link: '/wiki/csgo/guides/lan'
 next: false
 ---
 

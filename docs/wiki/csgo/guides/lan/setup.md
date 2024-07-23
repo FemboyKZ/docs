@@ -3,10 +3,10 @@ title: CS:GO Lan Server Setup Guide
 description: FKZ CS:GO Lan Server Guide 
 prev: 
   text: 'Back'
-  link: '/wiki/guides/csgo/lan'
+  link: '/wiki/csgo/guides/lan'
 next: 
   text: 'Next'
-  link: '/wiki/guides/csgo/lan/admin'
+  link: '/wiki/csgo/guides/lan/admin'
 ---
 
 ## Summary

@@ -3,16 +3,16 @@ title: CS2 KZ Lan Server
 description: FKZ CS2 Lan Server Guide 
 prev: 
   text: 'Back'
-  link: '/wiki/guides/cs2'
+  link: '/wiki/cs2/guides'
 next: false
 ---
 
 ## CS2 Lan Server Guide
 
-- [Setup](/wiki/guides/cs2/lan/setup) - Server Setup and Usage
-- [Addons](/wiki/guides/cs2/lan/addons) - Adding addons (Metamod)
-- [KZ Plugin](/wiki/guides/cs2/lan/kz) - Adding the KZ Plugins
-- [Maps](/wiki/guides/cs2/lan/maps) - Adding KZ Maps
+- [Setup](/wiki/cs2/guides/lan/setup) - Server Setup and Usage
+- [Addons](/wiki/cs2/guides/lan/addons) - Adding addons (Metamod)
+- [KZ Plugin](/wiki/cs2/guides/lan/kz) - Adding the KZ Plugins
+- [Maps](/wiki/cs2/guides/lan/maps) - Adding KZ Maps
 
 ## Links
 

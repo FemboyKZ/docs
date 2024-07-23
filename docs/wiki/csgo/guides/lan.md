@@ -1,9 +1,9 @@
 ---
-title: CS:GO Guides
-description: FKZ CS:GO Guides
+title: CS:GO KZ Lan Server Guide
+description: FKZ CS:GO Lan Server Guide
 prev: 
   text: 'Back'
-  link: '/wiki/csgo'
+  link: '/wiki/csgo/guides'
 next: false
 ---
 

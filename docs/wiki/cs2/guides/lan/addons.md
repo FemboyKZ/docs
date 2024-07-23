@@ -3,10 +3,10 @@ title: CS2 Lan Server Addons Guide
 description: FKZ CS2 Lan Server Addons Guide 
 prev: 
   text: 'Back'
-  link: '/wiki/guides/cs2/lan'
+  link: '/wiki/cs2/guides/lan'
 next: 
   text: 'Next'
-  link: '/wiki/guides/cs2/lan/kz'
+  link: '/wiki/cs2/guides/lan/kz'
 ---
 
 ## Summary

@@ -3,7 +3,7 @@ title: CS2 Guides
 description: CS2 Guides
 prev: 
   text: 'Back'
-  link: '/wiki/cs2/'
+  link: '/wiki/cs2'
 next: false
 ---
 

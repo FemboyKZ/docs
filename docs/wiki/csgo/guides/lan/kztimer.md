@@ -3,10 +3,10 @@ title: CS:GO Lan Server KZTimer Plugin
 description: FKZ CS:GO KZTimer Installation
 prev: 
   text: 'Back'
-  link: '/wiki/guides/csgo/lan'
+  link: '/wiki/csgo/guides/lan'
 next: 
   text: 'Next'
-  link: '/wiki/guides/csgo/lan/useful-plugins'
+  link: '/wiki/csgo/guides/lan/useful-plugins'
 ---
 
 ## 1. Installing Metamod: Source

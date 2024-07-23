@@ -3,7 +3,7 @@ title: CS:GO Server Adding Maps
 description: CS:GO Server Adding Maps
 prev: 
   text: 'Back'
-  link: '/wiki/guides/csgo/lan'
+  link: '/wiki/csgo/guides/lan'
 next: false
 ---
 
