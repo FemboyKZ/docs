@@ -5,7 +5,7 @@ prev:
   text: 'Back'
   link: '/wiki/cs2/guides/lan'
 next: 
-  text: 'Next'
+  text: 'KZ Plugins'
   link: '/wiki/cs2/guides/lan/kz'
 ---
 
@@ -40,21 +40,3 @@ Game    csgo/addons/metamod
 to the top of the section with similar inputs and save the file.
 
 See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/> 
-
-## Installing the KZ Plugin
-
-1. Open [cs2kz-metamod releases](https://github.com/KZGlobalTeam/cs2kz-metamod/releases) and download the latest `(pre-)release` for you operating system.
-
-2. Extract the `ZIP`(Windows) or `tar.gz`(Linux), then drag the `addons` and `cfg` folders into the `\csgo\` folder.
-
-### Jumpstat/Quake sounds support (Optional)
-
-1. Open up [MultiAddonManager Releases](https://github.com/Source2ZE/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
-
-2. Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
-
-### Language Support (Optional)
-
-1. Open [GetClientCvarValue's Releases](https://github.com/komashchenko/ClientCvarValue/releases) and download the latest release for your operating system (Windows/Linux).
-
-2. Extract the `ZIP` file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
