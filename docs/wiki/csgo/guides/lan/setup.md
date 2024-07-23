@@ -49,7 +49,7 @@ Do not close the terminal until it outputs: `Success! App '740' fully installed.
 
 2. Open to edit the file and add this text into it:
 
-```ansi
+```txt
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\"
 srcds -game csgo -tickrate 128 -console -usercon +map de_dust2
 ```
@@ -58,7 +58,7 @@ srcds -game csgo -tickrate 128 -console -usercon +map de_dust2
 
 Next copy the token and add it along with `+sv_setsteamaccount` to the `start.bat` file like this:
 
-```ansi
+```txt
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\"
 srcds -game csgo -tickrate 128 -console -usercon +map de_dust2 +sv_setsteamaccount XXX
 ```

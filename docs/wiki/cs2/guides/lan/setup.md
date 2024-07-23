@@ -49,7 +49,7 @@ Do not close the terminal until it outputs: `Success! App '730' fully installed.
 
 2. Open to edit the file and add this text into it:
 
-```ansi
+```txt
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2
 ```
@@ -60,7 +60,7 @@ start cs2.exe -dedicated +map de_dust2
 
 Next copy the token and add it along with `+sv_setsteamaccount` to the `start.bat` file like this:
 
-```ansi
+```txt
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +sv_setsteamaccount XXX
 ```

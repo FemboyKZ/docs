@@ -9,7 +9,7 @@ next:
   link: '/wiki/cs2/commands/help'
 ---
 
-## Skins Commands
+# Skins Commands
 
 [Plugin](https://github.com/Nereziel/cs2-WeaponPaints)
 

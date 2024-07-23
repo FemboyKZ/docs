@@ -17,14 +17,14 @@ Maps could be added manually into the files as well, but `FastDL` does not exist
 
 2. Edit the `start.bat` file and add either `+host_workshop_map` or `+host_workshop_collection` command along with the `ID` of the map/collection to the 2nd row on the file like so:
 
-```ass
+```txt
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +host_workshop_map 3121168339
 ```
 
 or
 
-```ass
+```txt
 cd ".\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\"
 start cs2.exe -dedicated +map de_dust2 +host_workshop_collection 3210526079
 ```

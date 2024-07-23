@@ -33,7 +33,7 @@ If you have followed this guide exactly as explained.
 
 4. Ignore the warning about editing the file, and add
 
-```json
+```txt
 Game    csgo/addons/metamod
 ```
 

@@ -32,7 +32,7 @@ Plugins:
 
 The `\csgo\` folder can be found in:
 
-```json
+```txt
 \steamapps\common\Counter-Strike Global Offensive\game\
 ```
 
@@ -52,7 +52,7 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 
 1. Open the `gameinfo.gi` file found in
 
-```json
+```txt
 \steamapps\common\Counter-Strike Global Offensive\game\csgo\
 ```
 
@@ -60,19 +60,19 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 
 2. Ignore the warning about editing the file, and add
 
-```json
+```txt
 Game    csgo/addons/metamod
 ```
 
 to the top of the section with similar inputs and save the file.
 
-See: [example](/images/gameinfo.png)
+See:<vImageViewer src="/images/gameinfo.png" alt="example image" :inline="true"/> 
 
 3. Navigate to `\steamapps\common\Counter-Strike Global Offensive\game\csgo_core\`, and open the `gameinfo.gi` file.
 
 Find and `delete` this whole part from the file:
 
-```json
+```txt
 CustomNavBuild
 {
     ModuleName "server.dll"
@@ -92,7 +92,7 @@ You may want to create copies of the original and modified files in separate fol
 
 2. In the `Launch Options` section there is a text field, add
 
-```json
+```txt
 -insecure +install_dlc_workshoptools_cvar 1
 ```
 

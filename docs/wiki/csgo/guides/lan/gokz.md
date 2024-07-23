@@ -45,7 +45,7 @@ If you have followed this guide exactly as explained.
 
 4. Copy the following lines of text and paste them into the file, **before tha last `}` bracket**
 
-```json
+```txt
 "gokz"
 {
   "driver"    "sqlite"  
@@ -53,7 +53,7 @@ If you have followed this guide exactly as explained.
 }
 ```
 
-See: [`Example`](/images/databases-gokz.png)
+See:<vImageViewer src="/images/databases-gokz.png" alt="Example image" :inline="true"/> 
 
 Save the file.
 

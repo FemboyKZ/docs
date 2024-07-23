@@ -38,7 +38,7 @@ You should choose a build from the `Main Depot`, and then match that version on 
 
 Example:
 
-```json
+```txt
 download_depot 730 2347770 5035069459473518974
 ```
 
@@ -50,7 +50,7 @@ download_depot 730 2347770 5035069459473518974
 
 This will start the download for the gamefiles. The files will be downloaded to:
 
-```go
+```txt
 C:\Program Files (x86)\Steam\steamapps\content\app_730\
 ```
 
@@ -83,13 +83,13 @@ After finding the matching `ManifestIDs` for your desired build. Repeat the down
 
 Example (Windows):
 
-```cpp
+```txt
 download_depot 730 2347771 5648449082650336844
 ```
 
 VPK Files:
 
-```cpp
+```txt
 download_depot 730 2347774 5617227416559801523
 ```
 
@@ -103,7 +103,7 @@ The files will have been downloaded into separate folders for each of the Depots
 
 All the downloaded files can be found in folders in:
 
-```go
+```txt
 C:\Program Files (x86)\Steam\steamapps\content\app_730\
 ```
 

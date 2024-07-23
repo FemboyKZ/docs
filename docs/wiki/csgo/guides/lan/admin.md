@@ -19,7 +19,7 @@ As the owner you probably want to give yourself full admin privileges on the ser
 
 Example:
 
-```ansi
+```txt
 "STEAM_1:1:12121121" "z"
 ```
 

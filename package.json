@@ -10,9 +10,11 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "vitepress-plugin-image-viewer": "^1.1.4",
     "vue": "^3.4.22"
   },
   "devDependencies": {
+    "sass": "^1.77.8",
     "vitepress": "^1.1.0"
   }
 }
