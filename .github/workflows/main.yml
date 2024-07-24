@@ -9,14 +9,14 @@ on:
       - README.md
       - .gitignore
       - CNAME
-      - 'docs/images'
+      - 'images/**'
   pull_request:
     paths-ignore:
       - LICENSE
       - README.md
       - .gitignore
       - CNAME
-      - 'docs/images'
+      - 'images/**'
 
   workflow_dispatch:
 
