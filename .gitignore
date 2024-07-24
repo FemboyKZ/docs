@@ -133,3 +133,4 @@ dist
 test shit/
 docs/.vitepress/dist/
 docs/.vitepress/cache/
+.vscode/
