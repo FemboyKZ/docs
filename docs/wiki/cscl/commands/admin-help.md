@@ -9,14 +9,14 @@ next:
   link: '/wiki/cscl/commands/help'
 ---
 
-## Admin Commands
+# Admin Commands
 
 ::: tip
 Usage of commands:
 
-In chat without with `!` or `/` in front of command.
+In chat with `!` or `/` in front of the command. Example: "!admin"
 
-In console with the `sm_` prefix.
+In console with the `sm_` prefix. Example: "sm_admin"
 
-You can bind keys to all the commands. Example: "bind key sm_cp"
+You can bind keys to all the commands. Example: "bind key sm_admin"
 :::
