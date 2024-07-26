@@ -9,76 +9,76 @@ next:
   link: '/wiki/cs2/commands/help'
 ---
 
-## cs2kz-metamod commands
+# cs2kz-metamod commands
 
 [Plugin](https://github.com/KZGlobalTeam/cs2kz-metamod/)
 
 ::: tip
 Usage of commands:
 
-In chat without with `!` or `/` in front of command.
+In chat with `!` or `/` in front of command. Example: "!cp"
 
-In console with the `kz_`, `css_` or `mm_` prefix. (Depends on command.)
+In console with the `kz_` prefix. Example: "kz_cp"
 
 You can bind keys to all the commands. Example: "bind key kz_cp"
 :::
 
 ## Checkpoint System
 
-`kz_checkpoint` / `kz_cp` - Set a checkpoint on your current position.
+`checkpoint` / `cp` - Set a checkpoint on your current position.
 
-`kz_teleport` / `kz_tp` - Teleport to (latest) checkpoint.
+`teleport` / `tp` - Teleport to (latest) checkpoint.
 
-`kz_undo` - Undo your previous teleport.
+`undo` - Undo your previous teleport.
 
-`kz_prevcp` / `kz_pcp` - Teleport to the previous checkpoint.
+`prevcp` / `pcp` - Teleport to the previous checkpoint.
 
-`kz_nextcp` / `kz_ncp` - Teleport to the next checkpoint.
+`nextcp` / `ncp` - Teleport to the next checkpoint.
 
-`kz_setstartpos` / `kz_ssp` - Set your custom start position to your current position.
+`setstartpos` / `ssp` - Set your custom start position to your current position.
 
-`kz_clearstartpos` / `kz_csp` - Clear your custom start position.
+`clearstartpos` / `csp` - Clear your custom start position.
 
 ## Hud / Visuals
 
-`kz_panel` - Toggle (speed/keys/timer)panel display.
+`panel` - Toggle (speed/keys/timer)panel display.
 
-`kz_hide` - Toggle hiding other players.
+`hide` - Toggle hiding other players.
 
-`kz_hidelegs` - Toggle hiding legs in firstperson.
+`hidelegs` - Toggle hiding legs in firstperson.
 
-`kz_hideweapon` - Toggle hiding weapon viewmodel.
+`hideweapon` - Toggle hiding weapon viewmodel.
 
 ## Mode / Style
 
-`kz_mode` - Change your current mode. - `Vanilla(VNL)` / `Classic(CKZ)`
+`mode` - Change your current mode, or display all available modes.
 
-`kz_ckz` - Change your current mode to Classic mode.
+`ckz` - Change your current mode to Classic mode.
 
-`kz_ckzb` - Change your current mode to Classic-Bind mode. (FKZ ONLY)
+`ckzb` - Change your current mode to Classic-Bind mode. (FKZ ONLY)
 
-`kz_vnl` - Change your current mode to Vanilla mode.
+`vnl` - Change your current mode to Vanilla mode.
 
-`kz_vnl128` - Change your current mode to Vanilla Fake-128t mode. (FKZ ONLY)
+`vnl128` - Change your current mode to Vanilla Fake-128t mode. (FKZ ONLY)
 
-`kz_style` - Change your current style. - `Normal(NRM)` / `Autobhop(ABH)`
+`style` - Change your current style. - `Normal(NRM)` / `Autobhop(ABH)`
 
 ## Timer
 
-`kz_stop` - Stop the timer.
+`stop` - Stop the timer.
 
-`kz_pause` - Toggle timer pause.
+`pause` - Toggle timer pause.
 
-`kz_restart` / `kz_r` - Restart course(timer).
+`restart` / `r` - Restart course(timer).
 
 ## Jumpstats
 
-`kz_jsbroadcast` - Change jumpstats minimum broadcast tier.
+`jsbroadcast` - Change jumpstats minimum broadcast tier.
 
-`kz_jssound` - Change jumpstats sound effect minimum play tier.
+`jssound` - Change jumpstats sound effect minimum play tier.
 
 ::: info
-`kz_jsbroadcast` and `kz_jssound` values go from `0` to `6` :
+`jsbroadcast` and `jssound` values go from `0` to `6` :
 
 - `0` - `none`
 - `1` - `meh`
@@ -89,18 +89,18 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 - `6` - `wrecker`
 :::
 
-`kz_togglestats` / `kz_togglejs` - Toggle jumpstats print type.
+`togglestats` / `togglejs` - Toggle jumpstats print type.
 
-`kz_jsalways` - Toggle printing jumpstats for ALL jumps, including invalids.
+`jsalways` - Toggle printing jumpstats for ALL jumps, including invalids.
 
 ## Misc
 
-`kz_tips` - Toggle printing tips.
+`tips` - Toggle printing tips.
 
-`kz_spec` - Spectate another player/bot.
+`spec` - Spectate another player/bot.
 
-`kz_noclip` / `kz_nc` / `noclip`(no kz_ prefix) - Toggle noclip.
+`noclip` / `nc` / `noclip` - Toggle noclip.
 
-`jointeam`(no kz_ prefix) - Join a team
+`jointeam` - Join a team
 
-`kz_help` - Prints usage and list of commands.
+`help` - Prints usage and list of commands.
