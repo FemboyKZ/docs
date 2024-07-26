@@ -27,6 +27,4 @@ You can bind keys to all the commands. Example: "bind key sm_cp"
 
 `ws` - Change skins on weapons, float/seed of a skin or set weapon's name tag.
 
-`loadout` - Change your weapon loadout.
-
 `expeimental` - Toggle the ability to use any skin on any weapon.
