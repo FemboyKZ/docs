@@ -45,8 +45,6 @@ You can bind keys to all the commands. Example: "bind key sm_menu"
 
 `stop` - Stops your timer
 
-`flashlight` - Toggles the flashlight
-
 ## Player/Map Statistics
 
 `profile` / `rank` Allows you to view player profiles via a menu.
