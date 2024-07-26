@@ -14,11 +14,11 @@ next:
 ::: tip
 Usage of commands:
 
-In chat with `!` or `/` in front of the command. Example: "!cpmenu"
+In chat with `!` or `/` in front of the command. Example: "!menu"
 
-In console with the `sm_` prefix. Example: "sm_cpmenu"
+In console with the `sm_` prefix. Example: "sm_menu"
 
-You can bind keys to all the commands. Example: "bind key sm_cpmenu"
+You can bind keys to all the commands. Example: "bind key sm_menu"
 :::
 
 ## Checkpoint System
