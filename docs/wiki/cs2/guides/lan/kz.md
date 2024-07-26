@@ -5,8 +5,8 @@ prev:
   text: 'Back'
   link: '/wiki/cs2/guides/lan'
 next: 
-  text: 'Next'
-  link: '/wiki/cs2/guides/lan/addons'
+  text: 'Adding Maps'
+  link: '/wiki/cs2/guides/lan/maps'
 ---
 
 ## CS2KZ-Metamod

@@ -7,12 +7,14 @@ prev:
 next: false
 ---
 
-## CS2 Lan Server Guide
+# CS2 Lan Server Guide
 
-- [Setup](/wiki/cs2/guides/lan/setup) - Server Setup and Usage
-- [Addons](/wiki/cs2/guides/lan/addons) - Adding addons (Metamod)
-- [KZ Plugin](/wiki/cs2/guides/lan/kz) - Adding the KZ Plugins
-- [Maps](/wiki/cs2/guides/lan/maps) - Adding KZ Maps
+Lan Server setup for CS2 on Windows.
+
+1. [Setup](/wiki/cs2/guides/lan/setup) - Server Setup and Usage
+2. [Addons](/wiki/cs2/guides/lan/metamod) - Installing Metamod: Source
+3. [KZ Plugin](/wiki/cs2/guides/lan/kz) - Adding the KZ Plugins
+4. [Maps](/wiki/cs2/guides/lan/maps) - Adding KZ Maps
 
 ## Links
 

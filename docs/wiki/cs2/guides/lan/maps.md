@@ -4,9 +4,7 @@ description: FKZ CS2 Lan Maps
 prev: 
   text: 'Back'
   link: '/wiki/cs2/guides/lan'
-next: 
-  text: 'Next'
-  link: '/wiki/cs2/guides/lan/kz'
+next: false
 ---
 
 ## Adding KZ Maps
