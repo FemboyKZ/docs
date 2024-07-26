@@ -39,7 +39,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `clearstartpos` / `csp` - Clear your custom start position.
 
-## Hud / Visuals
+## HUD / Visuals
 
 `panel` - Toggle (speed/keys/timer)panel display.
 
