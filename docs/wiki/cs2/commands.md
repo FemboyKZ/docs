@@ -17,9 +17,9 @@ next: false
 ::: tip
 Usage of commands:
 
-In chat without with `!` or `/` in front of command.
+In chat with `!` or `/` in front of command. Example: "!cp"
 
-In console with the `kz_`, `css_` or `mm_` prefix. (Depends on command.)
+In console with the `kz_`, `css_` or `mm_` prefix. (Depends on command.) Example: "kz_cp"
 
 You can bind keys to all the commands. Example: "bind key kz_cp"
 :::

@@ -7,7 +7,7 @@ prev:
 next: false
 ---
 
-## ClassicCounter Commands
+# ClassicCounter Commands
 
 - [Base Commands](/wiki/cscl/commands/help) - Maps, Votes, etc.
 - [Skins Commands](/wiki/cscl/commands/skins) - Skins, knives, etc.
@@ -17,9 +17,9 @@ next: false
 ::: tip
 Usage of commands:
 
-In chat without with `!` or `/` in front of command.
+In chat with `!` or `/` in front of command. Example: "!cp"
 
-In console with the `sm_` prefix.
+In console with the `sm_` prefix. Example: "sm_cp"
 
 You can bind keys to all the commands. Example: "bind key sm_cp"
 :::
