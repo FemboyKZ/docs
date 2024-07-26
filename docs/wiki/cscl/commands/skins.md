@@ -9,16 +9,16 @@ next:
   link: '/wiki/cscl/commands/help'
 ---
 
-## Skins Commands
+# Skins Commands
 
 ::: tip
 Usage of commands:
 
-In chat without with `!` or `/` in front of command.
+In chat with `!` or `/` in front of the command. Example: "!knife"
 
-In console with the `sm_` prefix.
+In console with the `sm_` prefix. Example: "sm_knife"
 
-You can bind keys to all the commands. Example: "bind key sm_cp"
+You can bind keys to all the commands. Example: "bind key sm_knife"
 :::
 
 ## Commands
