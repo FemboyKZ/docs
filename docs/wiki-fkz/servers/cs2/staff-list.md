@@ -19,8 +19,6 @@ Owners of the Servers.
 
 - [Dots / Juniper](https://steamcommunity.com/profiles/76561198268569118) - Actual Owner
 
-- [Sam](https://steamcommunity.com/profiles/76561198326103116) - <3
-
 - [Reb](https://steamcommunity.com/profiles/76561198139427758) - Rat
 
 ## #css/admin
