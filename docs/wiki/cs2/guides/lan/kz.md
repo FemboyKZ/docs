@@ -25,6 +25,12 @@ A plugin for Metamod: Source that adds KZ functionality to the server.
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
+### Database support (Optional)
+
+1. Open up [SQLMM's Releases](https://github.com/zer0k-z/sql_mm/releases) and download the latest release for your operating system (Windows/Linux).
+
+2. Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` folder into the `\csgo\` folder.
+
 ### Language Support (Optional)
 
 1. Open [GetClientCvarValue's Releases](https://github.com/komashchenko/ClientCvarValue/releases) and download the latest release for your operating system (Windows/Linux).
