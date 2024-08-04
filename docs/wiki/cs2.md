@@ -23,7 +23,7 @@ Info on the usable commands on FKZ CS2 Servers.
 
 - [Skins Commands](/wiki/cs2/commands/skins) - Skins, cosmetics, knives.
 
-- [KZ Commands](/wiki/cs2/commands/kz-help) - Checkpoints, Timer, Hud, etc.
+- [KZ Commands](/wiki/cs2/commands/kz-help) - Checkpoints, Timer, hud, etc.
 
 - [Admin commands](/wiki/cs2/commands/admin-help) - Admin only commands, bans n such.
 
