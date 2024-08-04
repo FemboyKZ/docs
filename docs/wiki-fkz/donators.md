@@ -53,6 +53,8 @@ Also see: [Perms](/wiki-fkz/servers/cs2/staff)
 
 - [Fevereiro](https://steamcommunity.com/profiles/76561198173568365/)
 
+- [femboyhop](https://steamcommunity.com/profiles/76561199500948883)
+
 ## Other members
 
 - [Staff](/wiki-fkz/servers/cs2/staff-list)
