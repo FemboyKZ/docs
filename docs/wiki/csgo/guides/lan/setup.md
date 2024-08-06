@@ -78,6 +78,10 @@ You can connect to the server by either:
 
 1. Open the ingame `Community Server Browser` and go to the `LAN` tab, then press connect on the server.
 
+::: tip
+You can use `gameui_activate; gamemenucommand openserverbrowser` in your console to open the server browser.
+:::
+
 2. Open the ingame console, and type in `connect localhost`.
 
 ## 7. Updating the Server

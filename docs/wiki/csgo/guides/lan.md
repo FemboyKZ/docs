@@ -16,6 +16,9 @@ Note that this guide will NOT show you how to set up a Public, non-LAN server! T
 ::: info
 LAN Servers cannot be Globally whitelisted, and you won’t be able to set Global records on this type of a server.
 :::
+::: tip
+You can use `gameui_activate; gamemenucommand openserverbrowser` in your console to open the server browser.
+:::
 
 ## Guide
 
