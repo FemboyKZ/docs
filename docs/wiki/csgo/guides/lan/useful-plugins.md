@@ -31,6 +31,9 @@ Fixes the lobby creation system issue.
 - [MapCrashFixer](https://forums.alliedmods.net/showthread.php?t=310542) by Bot Benson
 Mostly fixes the issue where players experience their game crashing on map changes
 
+- [FixHintColorMessages](https://github.com/Franc1sco/FixHintColorMessages) by Frac1sco (**KZTimer**)
+Fixes speedpanel and other hint messages
+
 ## HUD
 
 - [GOKZ Scoreboard Timer](https://github.com/DevRuto/GOKZ-Scoreboard-Timer) by Ruto (**GOKZ Only, Included in KZTimer**)
