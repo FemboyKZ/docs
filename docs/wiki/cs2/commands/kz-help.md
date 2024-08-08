@@ -53,6 +53,8 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 ::: info
 Only Vanilla and ClassicKZ are official KZ modes, all other mdoes are experimental FKZ specific modes.
+
+This means that the other modes probably won't work on any other servers.
 :::
 
 `mode` - Change your current mode, or display all available modes.
