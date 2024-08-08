@@ -52,7 +52,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 ## Mode
 
 ::: info
-Only Vanilla and ClassicKZ are offiical modes, all other mdoes are experimental FKZ specific modes.
+Only Vanilla and ClassicKZ are official KZ modes, all other mdoes are experimental FKZ specific modes.
 :::
 
 `mode` - Change your current mode, or display all available modes.
