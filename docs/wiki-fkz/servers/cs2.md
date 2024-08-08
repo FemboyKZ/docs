@@ -25,8 +25,6 @@ All members have set permissions, whether it's staff, VIP or others. See:
 
 - [Other Members List](/wiki-fkz/servers/cs2/og)
 
-- [Whitelist](/wiki-fkz/servers/cs2/whitelist)
-
 - [Donators (VIP, VIP+, Contributor)](/wiki-fkz/donators)
 
 - [How to get VIP](/wiki-fkz/vip)
