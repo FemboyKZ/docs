@@ -49,7 +49,11 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `hideweapon` - Toggle hiding weapon viewmodel.
 
-## Mode / Style
+## Mode
+
+::: info
+Only Vanilla and ClassicKZ are offiical modes, all other mdoes are experimental FKZ specific modes.
+:::
 
 `mode` - Change your current mode, or display all available modes.
 
@@ -61,7 +65,26 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `vnl128` - Change your current mode to Vanilla Fake-128t mode. (FKZ ONLY)
 
-`style` - Change your current style. - `Normal(NRM)` / `Autobhop(ABH)`
+## Style
+
+::: info
+Currently existing styles:
+`autobhop` / `abh` - Autobhop.
+:::
+
+`style <style>/+<style>/-<style>` - Change, add, remove or list styles.
+
+`addstyle <style>` - Add a style.
+
+`removestyle <style>` - Remove a style.
+
+`togglestyle` - Toggle style.
+
+`clearstyles` - Clear all styles.
+
+`printallstyles` - Print all styles.
+
+`printactivestyles` - Print active styles.
 
 ## Timer
 
@@ -75,19 +98,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `jsbroadcast` - Change jumpstats minimum broadcast tier.
 
-`jssound` - Change jumpstats sound effect minimum play tier.
-
-::: info
-`jsbroadcast` and `jssound` values go from `0` to `6` :
-
-- `0` - `none`
-- `1` - `meh`
-- `2` - `impressive`
-- `3` - `perfect`
-- `4` - `godlike`
-- `5` - `ownage`
-- `6` - `wrecker`
-:::
+`jssound <0-6/none/meh/impressive/perfect/godlike/ownage/wrecker>` - Change jumpstats sound effect minimum play tier.
 
 `togglestats` / `togglejs` - Toggle jumpstats print type.
 
@@ -97,10 +108,10 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 
 `tips` - Toggle printing tips.
 
-`spec` - Spectate another player/bot.
+`spec <player>` - Spectate another player/bot.
+
+`goto <playername>` - Teleport to another player/bot.
 
 `noclip` / `nc` / `noclip` - Toggle noclip.
-
-`jointeam` - Join a team
 
 `help` - Prints usage and list of commands.
