@@ -45,9 +45,9 @@ A list of guides for CS2, mostly by Dots.
 - [Listen Server](/wiki/cs2/guides/listen)
 - [Old Versions](/wiki/cs2/guides/old-versions)
 
-## CS2 Servers
+## CS2 KZ Jumpstats
 
-- TBA
+- [CS2 KZ Jumpstats](/wiki/cs2/jumpstats)
 
 ## CS2 Maps
 
