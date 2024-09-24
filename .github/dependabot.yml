@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "15:00"
+      timezone: "Europe/Helsinki"
+    assignees: ["jvnipers"]
+    commit-message:
+      prefix: "npm"
+      
