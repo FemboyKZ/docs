@@ -1,5 +1,15 @@
 version: 2
 updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      day: "sunday"
+      time: "15:00"
+      timezone: "Europe/Helsinki"
+    assignees: ["jvnipers"]
+    commit-message:
+      prefix: "github-actions"
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
@@ -10,4 +20,3 @@ updates:
     assignees: ["jvnipers"]
     commit-message:
       prefix: "npm"
-      
