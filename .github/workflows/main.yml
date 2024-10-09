@@ -11,6 +11,7 @@ on:
       - CNAME
       - 'images/'
   pull_request:
+    branches: [main]
     paths-ignore:
       - LICENSE
       - README.md
