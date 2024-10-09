@@ -12,6 +12,7 @@ on:
       - 'images/'
   pull_request:
     branches: [main]
+    branches-ignore: [depedabot/**]
     paths-ignore:
       - LICENSE
       - README.md
