@@ -11,7 +11,8 @@ on:
       - CNAME
       - 'images/'
   pull_request:
-    branches-ignore: [depedabot/**]
+    branches-ignore: 
+      - dependabot/**
     paths-ignore:
       - LICENSE
       - README.md
