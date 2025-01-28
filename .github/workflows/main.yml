@@ -9,16 +9,17 @@ on:
       - README.md
       - .gitignore
       - CNAME
-      - 'images/'
+      - "images/"
   pull_request:
     branches-ignore: 
-      - dependabot/**
+      - "dependabot/**"
+      - "dependabot/"
     paths-ignore:
       - LICENSE
       - README.md
       - .gitignore
       - CNAME
-      - 'images/'
+      - "images/"
 
   workflow_dispatch:
 
