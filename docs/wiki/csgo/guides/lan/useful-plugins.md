@@ -25,7 +25,7 @@ All these plugins are third-party and are without warranty from us.
 After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin to get past the lobby creation system the game uses.
 :::
 
-- [NoLobbyReservation](https://github.com/jvnipers/NoLobbyReservation/releases) by vanz666
+- [NoLobbyReservation](https://github.com/vanz666/NoLobbyReservation/releases) by vanz666
 Fixes the lobby creation system issue.
 
 - [MapCrashFixer](https://forums.alliedmods.net/showthread.php?t=310542) by Bot Benson

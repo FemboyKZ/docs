@@ -49,7 +49,7 @@ GOKZ / KZTimer Plugins, how to install them. Only install one of the 2.
 - [MovementAPI](https://github.com/danzayau/MovementAPI/releases)
 - [GOKZ](https://github.com/KZGlobalTeam/gokz/releases) - (Don’t use, if using KZTimer plugin)
 - [KZTimer](https://bitbucket.org/kztimerglobalteam/kztimerglobal/downloads/) - (Don’t use, if using GOKZ plugin)
-- [NoLobbyReservation](https://github.com/5Dotsu/NoLobbyReservation/releases) - Needed for csgo_legacy
+- [NoLobbyReservation](https://github.com/vanz666/NoLobbyReservation/releases) - Needed for csgo_legacy
 
 ### Extra
 
