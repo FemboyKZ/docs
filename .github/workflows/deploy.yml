@@ -28,6 +28,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: vitepress-artifact
+          repository: ${{ github.repository }}
           run-id: ${{ github.event.workflow_run.id }}
 
       - name: Configure GitHub Pages
