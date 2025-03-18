@@ -30,6 +30,7 @@ jobs:
         with:
           name: vitepress-artifact
           workflow: build.yml
+          path: dist
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
