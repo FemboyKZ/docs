@@ -18,18 +18,10 @@ export default defineConfig({
         text: "Docs",
         items: [
           {
-            text: "FKZ Wiki",
-            link: "/wiki/fkz",
-            items: [
-              { text: "What is FKZ", link: "/wiki/fkz/info" },
-              { text: "FKZ Discord", link: "/wiki/fkz/discord" },
-              { text: "FKZ Servers", link: "/wiki/fkz/servers" },
-            ],
-          },
-          {
             text: "Wiki",
             link: "/wiki",
             items: [
+              { text: "FKZ", link: "/wiki/fkz" },
               { text: "CS2", link: "/wiki/cs2" },
               { text: "CS:GO", link: "/wiki/csgo" },
               { text: "ClassicCounter", link: "/wiki/cscl" },
