@@ -1,9 +1,9 @@
 ---
 title: What is FemboyKZ
 description: Basic info on FKZ
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz'
+prev:
+  text: "Back"
+  link: "/wiki-fkz"
 next: false
 ---
 

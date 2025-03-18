@@ -1,12 +1,12 @@
 ---
 title: CS2 Lan Server Setup Guide
-description: FKZ CS2 Lan Server Guide 
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides/lan'
-next: 
-  text: 'Adding Metamod'
-  link: '/wiki/cs2/guides/lan/metamod'
+description: FKZ CS2 Lan Server Guide
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides/lan"
+next:
+  text: "Adding Metamod"
+  link: "/wiki/cs2/guides/lan/metamod"
 ---
 
 ## Summary

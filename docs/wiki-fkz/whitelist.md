@@ -1,9 +1,9 @@
 ---
-title: FKZ Whitelist 
+title: FKZ Whitelist
 description: Info on FKZ Whitelist
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz'
+prev:
+  text: "Back"
+  link: "/wiki-fkz"
 next: false
 ---
 

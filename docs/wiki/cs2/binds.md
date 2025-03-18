@@ -1,9 +1,9 @@
 ---
 title: CS2 Binds
 description: Info on CS2 binds
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2'
+prev:
+  text: "Back"
+  link: "/wiki/cs2"
 next: false
 ---
 
@@ -11,7 +11,7 @@ next: false
 
 This is a list of random binds that I've seen and used. None of these are endorsed or "made/owned" by FKZ. Most of these are movement binds.
 
-FKZ does *not* offer support for any issues with these binds, you may still ask on our [Discord](https://discord.gg/fkz), but expect nothing.
+FKZ does _not_ offer support for any issues with these binds, you may still ask on our [Discord](https://discord.gg/fkz), but expect nothing.
 
 You can help us expand this list by creating an issue on our [GitHub](https://github.com/femboykz/docs/issues).
 

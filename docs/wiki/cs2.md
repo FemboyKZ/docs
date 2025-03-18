@@ -1,9 +1,9 @@
 ---
 title: CS2 Wiki
 description: All CS2 Related Stuff
-prev: 
-  text: 'Back'
-  link: '/wiki'
+prev:
+  text: "Back"
+  link: "/wiki"
 next: false
 ---
 

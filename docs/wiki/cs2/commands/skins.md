@@ -1,12 +1,12 @@
 ---
 title: Skins Commands
 description: Info on skins commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/commands'
-next: 
-  text: 'Base Commands'
-  link: '/wiki/cs2/commands/help'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/commands"
+next:
+  text: "Base Commands"
+  link: "/wiki/cs2/commands/help"
 ---
 
 # Skins Commands

@@ -1,12 +1,12 @@
 ---
 title: Admin Commands
 description: Info on admin commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cscl/commands'
-next: 
-  text: 'Base Commands'
-  link: '/wiki/cscl/commands/help'
+prev:
+  text: "Back"
+  link: "/wiki/cscl/commands"
+next:
+  text: "Base Commands"
+  link: "/wiki/cscl/commands/help"
 ---
 
 # Admin Commands

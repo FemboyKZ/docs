@@ -1,9 +1,9 @@
 ---
 title: ClassicCounter Wiki [WIP]
 description: CC Stuff
-prev: 
-  text: 'Back'
-  link: '/wiki'
+prev:
+  text: "Back"
+  link: "/wiki"
 next: false
 ---
 

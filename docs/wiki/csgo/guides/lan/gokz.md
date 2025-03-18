@@ -1,12 +1,12 @@
 ---
 title: CS:GO Lan Server GOKZ Plugin
 description: FKZ CS:GO GOKZ Installation
-prev: 
-  text: 'Back'
-  link: '/wiki/csgo/guides/lan'
-next: 
-  text: 'Next'
-  link: '/wiki/csgo/guides/lan/useful-plugins'
+prev:
+  text: "Back"
+  link: "/wiki/csgo/guides/lan"
+next:
+  text: "Next"
+  link: "/wiki/csgo/guides/lan/useful-plugins"
 ---
 
 ## 1. Installing Metamod: Source
@@ -48,12 +48,12 @@ If you have followed this guide exactly as explained.
 ```txt
 "gokz"
 {
-  "driver"    "sqlite"  
+  "driver"    "sqlite"
   "database"  "gokz-sqlite"
 }
 ```
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/databases-gokz.png" alt="Example image" :inline="true"/> 
+See:<vImageViewer src="https://files.femboy.kz/web/images/databases-gokz.png" alt="Example image" :inline="true"/>
 
 Save the file.
 

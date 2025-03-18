@@ -1,12 +1,12 @@
 ---
 title: Base Commands
 description: Info on common commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/commands'
-next: 
-  text: 'KZ Commands'
-  link: '/wiki/cs2/commands/kz-help'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/commands"
+next:
+  text: "KZ Commands"
+  link: "/wiki/cs2/commands/kz-help"
 ---
 
 # Base Commands

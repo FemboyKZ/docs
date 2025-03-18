@@ -1,9 +1,9 @@
 ---
 title: CS2 Lan Server Maps
 description: FKZ CS2 Lan Maps
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides/lan'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides/lan"
 next: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Skins Commands
 description: Info on skins commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cscl/commands'
-next: 
-  text: 'Base Commands'
-  link: '/wiki/cscl/commands/help'
+prev:
+  text: "Back"
+  link: "/wiki/cscl/commands"
+next:
+  text: "Base Commands"
+  link: "/wiki/cscl/commands/help"
 ---
 
 # Skins Commands

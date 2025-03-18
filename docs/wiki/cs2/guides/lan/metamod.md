@@ -1,12 +1,12 @@
 ---
 title: CS2 Lan Server Addons Guide
-description: FKZ CS2 Lan Server Addons Guide 
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides/lan'
-next: 
-  text: 'KZ Plugins'
-  link: '/wiki/cs2/guides/lan/kz'
+description: FKZ CS2 Lan Server Addons Guide
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides/lan"
+next:
+  text: "KZ Plugins"
+  link: "/wiki/cs2/guides/lan/kz"
 ---
 
 ## Summary
@@ -39,4 +39,4 @@ Game    csgo/addons/metamod
 
 to the top of the section with similar inputs and save the file.
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/> 
+See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/>

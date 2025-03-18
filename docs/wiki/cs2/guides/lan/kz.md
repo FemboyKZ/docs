@@ -1,12 +1,12 @@
 ---
 title: CS2 Lan Server KZ Plugin
 description: FKZ CS2 Lan Server KZ Plugin
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides/lan'
-next: 
-  text: 'Adding Maps'
-  link: '/wiki/cs2/guides/lan/maps'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides/lan"
+next:
+  text: "Adding Maps"
+  link: "/wiki/cs2/guides/lan/maps"
 ---
 
 ## CS2KZ-Metamod

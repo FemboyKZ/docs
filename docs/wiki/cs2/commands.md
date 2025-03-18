@@ -1,9 +1,9 @@
 ---
 title: CS2 Commands
 description: Info on CS2 commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2'
+prev:
+  text: "Back"
+  link: "/wiki/cs2"
 next: false
 ---
 

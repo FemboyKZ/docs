@@ -1,9 +1,9 @@
 ---
 title: ClassicCounter Commands
 description: Info on ClassicCounter commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cscl'
+prev:
+  text: "Back"
+  link: "/wiki/cscl"
 next: false
 ---
 

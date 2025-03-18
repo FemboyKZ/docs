@@ -1,9 +1,9 @@
 ---
 title: CS2 KZ Listen Server
-description: FKZ CS2 Listen Server Guide 
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides'
+description: FKZ CS2 Listen Server Guide
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides"
 next: false
 ---
 
@@ -56,7 +56,7 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 \steamapps\common\Counter-Strike Global Offensive\game\csgo\
 ```
 
- in a text editor (notepad... etc).
+in a text editor (notepad... etc).
 
 2. Ignore the warning about editing the file, and add
 
@@ -66,7 +66,7 @@ Game    csgo/addons/metamod
 
 to the top of the section with similar inputs and save the file.
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/> 
+See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/>
 
 3. Navigate to `\steamapps\common\Counter-Strike Global Offensive\game\csgo_core\`, and open the `gameinfo.gi` file.
 
@@ -110,7 +110,7 @@ Close the `Properties`
 
 `\steamapps\common\Counter-Strike Global Offensive\content\csgo\addons\metamod\`
 
- folder you created.
+folder you created.
 
 ## Reversing CS2 back to playable
 

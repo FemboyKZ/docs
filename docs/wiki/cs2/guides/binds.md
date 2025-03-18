@@ -1,9 +1,9 @@
 ---
 title: CS2 Binds
 description: FKZ CS2 Binds guide
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides"
 next: false
 ---
 

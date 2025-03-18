@@ -1,9 +1,9 @@
 ---
-title: FKZ VIP 
+title: FKZ VIP
 description: Info on FKZ VIP
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz'
+prev:
+  text: "Back"
+  link: "/wiki-fkz"
 next: false
 ---
 
@@ -27,7 +27,7 @@ All our donators, and VIP members are listed [here](/wiki-fkz/donators).
 
 ### VIP
 
-VIP is a permanent upgrade. This means that you can never lose it.*
+VIP is a permanent upgrade. This means that you can never lose it.\*
 
 Exclusive VIP Role and channels in the Discord server.
 
@@ -35,7 +35,7 @@ VIP Rank in-game (CS2 & CS:GO).
 
 ### VIP+
 
-VIP+ is a permanent upgrade. This means that you can never lose it.*
+VIP+ is a permanent upgrade. This means that you can never lose it.\*
 
 Exclusive VIP+ Role and channels in the Discord server.
 
@@ -47,7 +47,7 @@ You can choose another member to gift VIP to. See gifting below in the faq.
 
 ### Contributor
 
-Contributor is a permanent upgrade. This means that you can never lose it.*
+Contributor is a permanent upgrade. This means that you can never lose it.\*
 
 Exclusive Contributor Role and channels in the Discord server.
 
@@ -59,17 +59,17 @@ You can choose another member to gift VIP to. See gifting below in the faq.
 
 `30€+`
 
-Custom Role on our Discord server.**
+Custom Role on our Discord server.\*\*
 
 `50€+`
 
-Custom Rank on our Discord server and ingame.**
+Custom Rank on our Discord server and ingame.\*\*
 
 ### Info
 
-* Upgrades are permanent, with the exception of bans, and by request.
+- Upgrades are permanent, with the exception of bans, and by request.
 
-** Custom perks can be claimed by opening a support ticket on our discord.
+\*\* Custom perks can be claimed by opening a support ticket on our discord.
 
 ## FAQ
 

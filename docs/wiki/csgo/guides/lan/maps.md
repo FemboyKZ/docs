@@ -1,9 +1,9 @@
 ---
 title: CS:GO Server Adding Maps
 description: CS:GO Server Adding Maps
-prev: 
-  text: 'Back'
-  link: '/wiki/csgo/guides/lan'
+prev:
+  text: "Back"
+  link: "/wiki/csgo/guides/lan"
 next: false
 ---
 
@@ -24,6 +24,6 @@ with this method you need to manually add the maps to your own game's folder as 
 :::
 
 1. Open [Global KZ BSP Files Website](https://maps.global-api.com/) or [FKZ Mirror](https://maps.femboy.kz/) and download any single `bsps` or `packages`.
-If you downloaded packages, extract the ZIP files.
+   If you downloaded packages, extract the ZIP files.
 
 2. Place the `.bsp` files into `\csgo\maps\` for the server AND your own game.

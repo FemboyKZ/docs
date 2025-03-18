@@ -1,9 +1,9 @@
 ---
 title: CS2 Server Member tags
 description: Info on FKZ CS2 Member Tags
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz/servers/cs2'
+prev:
+  text: "Back"
+  link: "/wiki-fkz/servers/cs2"
 next: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: CS2 KZ Lan Server
-description: FKZ CS2 Lan Server Guide 
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides'
+description: FKZ CS2 Lan Server Guide
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides"
 next: false
 ---
 

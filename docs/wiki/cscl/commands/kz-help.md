@@ -1,12 +1,12 @@
 ---
 title: KZ Commands
 description: Info on KZ commands
-prev: 
-  text: 'Back'
-  link: '/wiki/cscl/commands'
-next: 
-  text: 'Base Commands'
-  link: '/wiki/cscl/commands/help'
+prev:
+  text: "Back"
+  link: "/wiki/cscl/commands"
+next:
+  text: "Base Commands"
+  link: "/wiki/cscl/commands/help"
 ---
 
 # KZ Commands

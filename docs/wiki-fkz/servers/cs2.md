@@ -1,9 +1,9 @@
 ---
 title: CS2 Wiki
 description: Info on FKZ CS2 Servers
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz/servers'
+prev:
+  text: "Back"
+  link: "/wiki-fkz/servers"
 next: false
 ---
 

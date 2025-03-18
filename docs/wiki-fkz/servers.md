@@ -1,9 +1,9 @@
 ---
 title: FKZ Servers Wiki
 description: Info on all the FKZ Servers
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz'
+prev:
+  text: "Back"
+  link: "/wiki-fkz"
 next: false
 ---
 

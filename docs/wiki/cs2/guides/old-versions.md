@@ -1,9 +1,9 @@
 ---
 title: CS2 Old Version Download Guide
 description: Guide on getting older versions of CS2
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/guides'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/guides"
 next: false
 ---
 
@@ -34,7 +34,7 @@ You should choose a build from the `Main Depot`, and then match that version on 
 2. Choose a version that you would like to download and copy the `ManifestID`.
 
 3. Open the `Steam Console`(as shown on step 1.) and type in the command
-<br>`download_depot 730 2347770` followed by the `ManifestID` of the version you have chosen.
+   <br>`download_depot 730 2347770` followed by the `ManifestID` of the version you have chosen.
 
 Example:
 

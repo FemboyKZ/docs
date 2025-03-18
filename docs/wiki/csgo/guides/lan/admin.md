@@ -1,9 +1,9 @@
 ---
 title: CS:GO Server Adding Admins
 description: CS:GO Server Adding Admins
-prev: 
-  text: 'Back'
-  link: '/wiki/csgo/guides/lan'
+prev:
+  text: "Back"
+  link: "/wiki/csgo/guides/lan"
 next: false
 ---
 
@@ -23,6 +23,6 @@ Example:
 "STEAM_1:1:12121121" "z"
 ```
 
-See more about the flags [here](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)).
+See more about the flags [here](<https://wiki.alliedmods.net/Adding_Admins_(SourceMod)>).
 
 Save the file.

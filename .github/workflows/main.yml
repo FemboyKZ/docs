@@ -1,4 +1,3 @@
-
 name: Deploy VitePress site to Pages
 
 on:
@@ -11,7 +10,7 @@ on:
       - CNAME
       - "images/"
   pull_request:
-    branches-ignore: 
+    branches-ignore:
       - "dependabot/**"
       - "dependabot/"
     paths-ignore:

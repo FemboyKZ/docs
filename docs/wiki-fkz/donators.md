@@ -1,9 +1,9 @@
 ---
 title: FKZ Donators
 description: List of members who have donated or contributed
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz'
+prev:
+  text: "Back"
+  link: "/wiki-fkz"
 next: false
 ---
 

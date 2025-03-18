@@ -1,12 +1,12 @@
 ---
 title: CS:GO Lan Server KZTimer Plugin
 description: FKZ CS:GO KZTimer Installation
-prev: 
-  text: 'Back'
-  link: '/wiki/csgo/guides/lan'
-next: 
-  text: 'Next'
-  link: '/wiki/csgo/guides/lan/useful-plugins'
+prev:
+  text: "Back"
+  link: "/wiki/csgo/guides/lan"
+next:
+  text: "Next"
+  link: "/wiki/csgo/guides/lan/useful-plugins"
 ---
 
 ## 1. Installing Metamod: Source
@@ -37,7 +37,7 @@ If you have followed this guide exactly as explained.
 
 (Skip this step if you are making a GOKZ server)
 
-1. Open [KZTimer's bitbucket Page](https://bitbucket.org/kztimerglobalteam/kztimerglobal/downloads/) and download the latest `full release` (_Full.zip, NOT upgrade).
+1. Open [KZTimer's bitbucket Page](https://bitbucket.org/kztimerglobalteam/kztimerglobal/downloads/) and download the latest `full release` (\_Full.zip, NOT upgrade).
 
 2. Extract the `ZIP` then drag all the folders (addons, cfg, maps, materials, models, sound) into the `\csgo\` folder.
 
@@ -48,11 +48,11 @@ If you have followed this guide exactly as explained.
 ```txt
 "kztimer"
 {
-    "driver"    "sqlite"  
+    "driver"    "sqlite"
     "database"  "kztimer-sqlite"
 }
 ```
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/databases-kztimer.png" alt="Example image" :inline="true"/> 
+See:<vImageViewer src="https://files.femboy.kz/web/images/databases-kztimer.png" alt="Example image" :inline="true"/>
 
 Save the file.

@@ -1,9 +1,9 @@
 ---
 title: CS2 Og Members
 description: List of OG members on FKZ CS2
-prev: 
-  text: 'Back'
-  link: '/wiki-fkz/servers/cs2'
+prev:
+  text: "Back"
+  link: "/wiki-fkz/servers/cs2"
 next: false
 ---
 

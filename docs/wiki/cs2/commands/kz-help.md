@@ -1,12 +1,12 @@
 ---
 title: KZ Commands
 description: Info on commands specifc to the KZ plugins
-prev: 
-  text: 'Back'
-  link: '/wiki/cs2/commands'
-next: 
-  text: 'Base Commands'
-  link: '/wiki/cs2/commands/help'
+prev:
+  text: "Back"
+  link: "/wiki/cs2/commands"
+next:
+  text: "Base Commands"
+  link: "/wiki/cs2/commands/help"
 ---
 
 # cs2kz-metamod commands

@@ -1,9 +1,9 @@
 ---
 title: CS:GO Guides
 description: CS:GO Guides
-prev: 
-  text: 'Back'
-  link: '/wiki/csgo'
+prev:
+  text: "Back"
+  link: "/wiki/csgo"
 next: false
 ---
 
