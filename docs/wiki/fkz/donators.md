@@ -3,7 +3,7 @@ title: FKZ Donators
 description: List of members who have donated or contributed
 prev:
   text: "Back"
-  link: "/wiki-fkz"
+  link: "/wiki/fkz"
 next: false
 ---
 
@@ -11,7 +11,7 @@ next: false
 
 We are very thankful to all these people for Donating and supporting FKZ financially!
 
-Also see: [Perms](/wiki-fkz/servers/cs2/staff)
+Also see: [Perms](/wiki/fkz/servers/cs2/staff)
 
 ## #css/contributor
 
@@ -57,6 +57,6 @@ Also see: [Perms](/wiki-fkz/servers/cs2/staff)
 
 ## Other members
 
-- [Staff](/wiki-fkz/servers/cs2/staff-list)
+- [Staff](/wiki/fkz/servers/cs2/staff-list)
 
-- [Og members & others](/wiki-fkz/servers/cs2/og)
+- [Og members & others](/wiki/fkz/servers/cs2/og)

@@ -3,7 +3,7 @@ title: FKZ VIP
 description: Info on FKZ VIP
 prev:
   text: "Back"
-  link: "/wiki-fkz"
+  link: "/wiki/fkz"
 next: false
 ---
 
@@ -11,7 +11,7 @@ next: false
 
 You can purchase VIP and other perks to help us with our servers.
 
-All our donators, and VIP members are listed [here](/wiki-fkz/donators).
+All our donators, and VIP members are listed [here](/wiki/fkz/donators).
 
 **[Femboy.KZ/Donate](https://ko-fi.com/femkz)**
 

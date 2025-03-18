@@ -3,7 +3,7 @@ title: CS2 Staff
 description: Info on FKZ CS2 Admins and other staff
 prev:
   text: "Back"
-  link: "/wiki-fkz/servers/cs2"
+  link: "/wiki/fkz/servers/cs2"
 next: false
 ---
 
@@ -11,7 +11,7 @@ next: false
 
 All our staff are highly trusted members chosen and personally known by the Owner.
 
-Also see: [Perms](/wiki-fkz/servers/cs2/staff)
+Also see: [Perms](/wiki/fkz/servers/cs2/staff)
 
 ## #css/owner
 
@@ -47,6 +47,6 @@ Server Moderators.
 
 ## Other Members
 
-- [Og members & others](/wiki-fkz/servers/cs2/og)
+- [Og members & others](/wiki/fkz/servers/cs2/og)
 
-- [Contributors & VIP](/wiki-fkz/donators)
+- [Contributors & VIP](/wiki/fkz/donators)

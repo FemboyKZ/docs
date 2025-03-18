@@ -26,6 +26,6 @@ next: false
 
 - tba
 
-## [FKZ Discord](/wiki-fkz/discord)
+## [FKZ Discord](/wiki/fkz/)
 
 - tba

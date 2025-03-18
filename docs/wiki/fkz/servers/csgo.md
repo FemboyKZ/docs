@@ -3,7 +3,7 @@ title: CS:GO Wiki
 description: Info on FKZ CS:GO Servers
 prev:
   text: "Back"
-  link: "/wiki-fkz/servers"
+  link: "/wiki/fkz/servers"
 next: false
 ---
 
@@ -19,9 +19,9 @@ All members have set permissions, whether it's staff, VIP or others. See:
 
 - TBA
 
-- [Donators (VIP, VIP+, Contributor)](/wiki-fkz/donators)
+- [Donators (VIP, VIP+, Contributor)](/wiki/fkz/donators)
 
-- [How to get VIP](/wiki-fkz/vip)
+- [How to get VIP](/wiki/fkz/vip)
 
 ## CS:GO Commands
 

@@ -3,7 +3,7 @@ title: CS2 Og Members
 description: List of OG members on FKZ CS2
 prev:
   text: "Back"
-  link: "/wiki-fkz/servers/cs2"
+  link: "/wiki/fkz/servers/cs2"
 next: false
 ---
 
@@ -11,7 +11,7 @@ next: false
 
 Cool og people in the community.
 
-Also see: [Perms](/wiki-fkz/servers/cs2/staff)
+Also see: [Perms](/wiki/fkz/servers/cs2/staff)
 
 ## #css/gmc
 
@@ -109,6 +109,6 @@ OG FKZ Members
 
 ## Other Members
 
-- [Staff](/wiki-fkz/servers/cs2/staff-list)
+- [Staff](/wiki/fkz/servers/cs2/staff-list)
 
-- [Contributors & VIP](/wiki-fkz/donators)
+- [Contributors & VIP](/wiki/fkz/donators)

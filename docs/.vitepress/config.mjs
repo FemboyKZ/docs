@@ -19,11 +19,11 @@ export default defineConfig({
         items: [
           {
             text: "FKZ Wiki",
-            link: "/wiki-fkz",
+            link: "/wiki/fkz",
             items: [
-              { text: "What is FKZ", link: "/wiki-fkz/fkz" },
-              { text: "FKZ Discord", link: "/wiki-fkz/discord" },
-              { text: "FKZ Servers", link: "/wiki-fkz/servers" },
+              { text: "What is FKZ", link: "/wiki/fkz/info" },
+              { text: "FKZ Discord", link: "/wiki/fkz/discord" },
+              { text: "FKZ Servers", link: "/wiki/fkz/servers" },
             ],
           },
           {

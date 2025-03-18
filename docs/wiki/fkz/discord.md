@@ -3,7 +3,7 @@ title: FKZ Discord Server
 description: swag
 prev:
   text: "Back"
-  link: "/wiki-fkz"
+  link: "/wiki/fkz"
 next: false
 ---
 
