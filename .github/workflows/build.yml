@@ -1,4 +1,4 @@
-name: Deploy VitePress site to Pages
+name: Build VitePress Site
 
 on:
   push:
@@ -10,9 +10,6 @@ on:
       - CNAME
       - "images/"
   pull_request:
-    branches-ignore:
-      - "dependabot/**"
-      - "dependabot/"
     paths-ignore:
       - LICENSE
       - README.md
@@ -24,12 +21,6 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -44,25 +35,12 @@ jobs:
         with:
           node-version: 20
           cache: npm
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
       - name: Install dependencies
         run: npm ci
       - name: Build with VitePress
         run: npm run docs:build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: vitepress-artifact
           path: docs/.vitepress/dist
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
