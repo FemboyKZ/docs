@@ -6,11 +6,11 @@ hero:
   tagline: "[WIP] Docs for femboy.kz"
 ---
 
-# [FKZ Wiki](/wiki-fkz)
+# [FKZ Wiki](/wiki/fkz)
 
-- [What is FKZ](/wiki-fkz/fkz)
-- [FKZ Discord Info](/wiki-fkz/discord)
-- [FKZ Server Info](/wiki-fkz/servers)
+- [What is FKZ](/wiki/fkz/info)
+- [FKZ Discord Info](/wiki/fkz/discord)
+- [FKZ Server Info](/wiki/fkz/servers)
 
 ## [Wiki](/wiki)
 
