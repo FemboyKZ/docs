@@ -17,13 +17,13 @@ It started with modified cracked servers with no plugins at all, and now we have
 
 All members have set permissions, whether it's staff, VIP or others. See:
 
-- [Admin Groups](/wiki/fkz/servers/cs2/staff)
+- [Admins](/wiki/fkz/staff)
 
-- [Member Tags](/wiki/fkz/servers/cs2/tags)
+- [Member Tags](/wiki/fkz/servers/tags)
 
-- [Staff List](/wiki/fkz/servers/cs2/staff-list)
+- [Perms](/wiki/fkz/servers/perms)
 
-- [Other Members List](/wiki/fkz/servers/cs2/og)
+- [Other Members List](/wiki/fkz/og)
 
 - [Donators (VIP, VIP+, Contributor)](/wiki/fkz/donators)
 

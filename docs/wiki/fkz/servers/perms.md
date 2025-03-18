@@ -3,7 +3,7 @@ title: CS2 Admin Groups
 description: Info on FKZ CS2 Admins Groups
 prev:
   text: "Back"
-  link: "/wiki/fkz/servers/cs2"
+  link: "/wiki/fkz/servers"
 next: false
 ---
 

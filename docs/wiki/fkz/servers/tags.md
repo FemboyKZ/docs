@@ -3,13 +3,13 @@ title: CS2 Server Member tags
 description: Info on FKZ CS2 Member Tags
 prev:
   text: "Back"
-  link: "/wiki/fkz/servers/cs2"
+  link: "/wiki/fkz/servers"
 next: false
 ---
 
 ## Tags
 
-All tags require you to be [Staff](/wiki/fkz/servers/cs2/staff), [Contributors](/wiki/fkz/donators) or [OG Members](/wiki/fkz/servers/cs2/og).
+All tags require you to be [Staff](/wiki/fkz/staff), [Contributors](/wiki/fkz/donators) or [OG Members](/wiki/fkz/og).
 
 ## Custom
 

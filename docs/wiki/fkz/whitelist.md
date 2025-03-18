@@ -15,7 +15,7 @@ FKZ has always run whitelist-only servers, to combat griefing and to keep our se
 
 ### Who gets whitelisted?
 
-It's compilcated. Friends have priority, see [OG Members](/wiki/fkz/servers/cs2/og). [VIP members & Donators](/wiki/fkz/donators) also get access to whitelist. If you're a content creator or a developer, you get priority as well. Active KZ players are also prioritized, so feel free to link your stats on the request.
+It's compilcated. Friends have priority, see [OG Members](/wiki/fkz/og). [VIP members & Donators](/wiki/fkz/donators) also get access to whitelist. If you're a content creator or a developer, you get priority as well. Active KZ players are also prioritized, so feel free to link your stats on the request.
 
 ### How do I get whitelisted?
 
