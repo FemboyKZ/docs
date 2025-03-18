@@ -7,6 +7,7 @@ on:
       - completed
 
 permissions:
+  actions: read
   pages: write
   id-token: write
   contents: read
@@ -27,7 +28,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: vitepress-artifact
-          path: dist
+          run-id: ${{ github.event.workflow_run.id }}
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
