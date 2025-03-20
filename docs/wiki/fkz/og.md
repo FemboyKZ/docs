@@ -56,6 +56,7 @@ Also see: [Staff](/wiki/fkz/staff)
 |       [deze](https://steamcommunity.com/profiles/76561198329418938)       |         brazil #1          | Member (OG)  |     #css/og     |      ?      |
 |      [eljay](https://steamcommunity.com/profiles/76561198860083400)       |           el jay           | Member (OG)  |     #css/og     |      ?      |
 |       [brat](https://steamcommunity.com/profiles/76561198983626254)       |           bratan           | Member (OG)  |     #css/og     |      ?      |
+|       [bab](https://steamcommunity.com/profiles/76561198860773846)        |   babushka gammamale dbn   | Member (OG)  |     #css/og     |      ?      |
 
 ## Other Members
 
