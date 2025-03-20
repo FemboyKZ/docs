@@ -6,13 +6,16 @@ export default defineConfig({
   title: "FKZ Docs",
   titleTemplate: "FKZ Docs | :title",
   cleanUrls: true,
+  lastUpdated: true,
   description: "Docs for femboy.kz",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       { text: "Main Site", link: "https://femboy.kz" },
     ],
-
+    search: {
+      provider: "local",
+    },
     sidebar: [
       {
         text: "Docs",
@@ -25,8 +28,6 @@ export default defineConfig({
               { text: "CS2", link: "/wiki/cs2" },
               { text: "CS:GO", link: "/wiki/csgo" },
               { text: "ClassicCounter", link: "/wiki/cscl" },
-              { text: "Discord", link: "/wiki/discord" },
-              { text: "Minecraft", link: "/wiki/minecraft" },
             ],
           },
           {
