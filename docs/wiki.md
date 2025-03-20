@@ -21,11 +21,3 @@ next: false
 ## [CS:GO Wiki](/wiki/csgo)
 
 - [CS:GO Guides](/wiki/csgo/guides)
-
-## [Minecraft Wiki](/wiki/minecraft)
-
-- tba
-
-## [FKZ Discord](/wiki/fkz)
-
-- tba
