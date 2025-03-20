@@ -13,26 +13,38 @@ We are very thankful to all these people for Donating and supporting FKZ financi
 
 Also see: [Perms](/wiki/fkz/servers/perms)
 
-|                                                            User                                                            |    Tier     | Amount Donated |         Extra Info          | CS2 Perms (CS#)  | CS:GO Perms |
-| :------------------------------------------------------------------------------------------------------------------------: | :---------: | :------------: | :-------------------------: | :--------------: | :---------: |
-|                              [Stickan](https://steamcommunity.com/profiles/76561198933308155)                              | Contributor |      25€       |          Lifetime           | #css/contributor |    2:abg    |
-| [OY](https://steamcommunity.com/profiles/76561198384759348) / [oy2](https://steamcommunity.com/profiles/76561199096177681) |    VIP+     |       2€       |          "1 Month"          |    #css/vip+     |    2:abg    |
-|                               [sight](https://steamcommunity.com/profiles/76561199001833144)                               |    VIP+     |       2€       |          "1 Month"          |    #css/vip+     |    2:abg    |
-|                              [chosen](https://steamcommunity.com/profiles/76561198140731752)                               |     VIP     |      10€       | 1st ever donation, Lifetime |     #css/vip     |    1:abg    |
-|                               [nova](https://steamcommunity.com/profiles/76561198840095526)                                |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
-|                          [smiesneznaczki](https://steamcommunity.com/profiles/76561198325578948)                           |     VIP     |       ?        |             Idk             |     #css/vip     |    1:abg    |
-|                               [soppa](https://steamcommunity.com/profiles/76561198879526659)                               |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
-|                              [tecno](https://steamcommunity.com/profiles/765611990183446499)                               |     VIP     |       5€       |    Lifetime (Discounted)    |     #css/vip     |    1:abg    |
-|                               [clozi](https://steamcommunity.com/profiles/76561198165611254)                               |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
-|                               [buxi](https://steamcommunity.com/profiles/76561198410857586)                                |     VIP     |       ?        |            Poor             |     #css/vip     |    1:abg    |
-|                              [sander](https://steamcommunity.com/profiles/76561198144620830)                               |     VIP     |       6€       |          "1 Year"           |     #css/vip     |    1:abg    |
-|                               [pave](https://steamcommunity.com/profiles/76561198314508107)                                |    VIP+?    |      5€?       |              ?              |     #css/vip     |    2:abg    |
-|                               [ashy](https://steamcommunity.com/profiles/76561198851903962)                                |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
-|                               [flyo](https://steamcommunity.com/profiles/76561199001474057)                                |     VIP     |       1€       |          "1 Month"          |     #css/vip     |    1:abg    |
-|                              [inobade](https://steamcommunity.com/profiles/76561198200522101)                              |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
-|                               [tumma](https://steamcommunity.com/profiles/76561198119556717)                               |     VIP     |       1€       |          "1 Month"          |     #css/vip     |    1:abg    |
-|                            [Fevereiro](https://steamcommunity.com/profiles/76561198173568365/)                             |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
-|                             [femboyhop](https://steamcommunity.com/profiles/76561199500948883)                             |     VIP     |      10€       |          Lifetime           |     #css/vip     |    1:abg    |
+|                                                            User                                                            |    Tier     | Amount Donated |             Extra Info              |
+| :------------------------------------------------------------------------------------------------------------------------: | :---------: | :------------: | :---------------------------------: |
+|                              [Maxwell](https://steamcommunity.com/profiles/76561198241119894)                              |     WTF     |     ??????     | Bro I owe this guy a kidney or smth |
+|                              [Redmoon](https://steamcommunity.com/profiles/76561198260657129)                              |   "Daddy"   |     100€+      |           Every month 😍            |
+|                              [Stickan](https://steamcommunity.com/profiles/76561198933308155)                              | Contributor |      25€       |              Lifetime               |
+|                              [tweakin](http://steamcommunity.com/profiles/76561198171200427)                               |     VIP     |      20€       |             2x Lifetime             |
+|                               [Marcus](http://steamcommunity.com/profiles/76561198967068383)                               |    VIP+     |      12€       |              "1 Year"               |
+|                               [tumma](https://steamcommunity.com/profiles/76561198119556717)                               |     VIP     |      12€       |       Lifetime + 2x "1 Month"       |
+|                                [foxy](http://steamcommunity.com/profiles/76561199173958149)                                |     VIP     |      11€       |       Lifetime + 1x "1 Month"       |
+|                              [chosen](https://steamcommunity.com/profiles/76561198140731752)                               |     VIP     |      10€       |     1st ever donation, Lifetime     |
+|                               [nova](https://steamcommunity.com/profiles/76561198840095526)                                |     VIP     |      10€       |              Lifetime               |
+|                               [soppa](https://steamcommunity.com/profiles/76561198879526659)                               |     VIP     |      10€       |              Lifetime               |
+|                               [clozi](https://steamcommunity.com/profiles/76561198165611254)                               |     VIP     |      10€       |              Lifetime               |
+|                               [ashy](https://steamcommunity.com/profiles/76561198851903962)                                |     VIP     |      10€       |              Lifetime               |
+|                              [inobade](https://steamcommunity.com/profiles/76561198200522101)                              |     VIP     |      10€       |              Lifetime               |
+|                            [Fevereiro](https://steamcommunity.com/profiles/76561198173568365/)                             |     VIP     |      10€       |              Lifetime               |
+|                             [femboyhop](https://steamcommunity.com/profiles/76561199500948883)                             |     VIP     |      10€       |              Lifetime               |
+|                                [bab](https://steamcommunity.com/profiles/76561198860773846)                                |     VIP     |      10€       |              Lifetime               |
+|                                [kino](http://steamcommunity.com/profiles/76561198355327911)                                |     VIP     |      10€       |              Lifetime               |
+|                              [sander](https://steamcommunity.com/profiles/76561198144620830)                               |     VIP     |       6€       |              "1 Year"               |
+|                             [Happy Life](http://steamcommunity.com/profiles/76561198162007521)                             |     VIP     |       6€       |              "1 Year"               |
+|                              [tecno](https://steamcommunity.com/profiles/765611990183446499)                               |     VIP     |       5€       |        Lifetime (Discounted)        |
+|                               [pave](https://steamcommunity.com/profiles/76561198314508107)                                |    VIP+?    |      5€?       |                  ?                  |
+|                              [Suspect](http://steamcommunity.com/profiles/76561199004924295)                               |     VIP     |       4€       |             "4 Months"              |
+|                               [Lancy](http://steamcommunity.com/profiles/76561198810381192)                                |     VIP     |       3€       |            3x "1 Month"             |
+| [Oy](https://steamcommunity.com/profiles/76561198384759348) / [Oy2](https://steamcommunity.com/profiles/76561199096177681) |    VIP+     |       2€       |              "1 Month"              |
+|                               [sight](https://steamcommunity.com/profiles/76561199001833144)                               |    VIP+     |       2€       |              "1 Month"              |
+|                               [flyo](https://steamcommunity.com/profiles/76561199001474057)                                |     VIP     |       1€       |              "1 Month"              |
+|                                [Vin](http://steamcommunity.com/profiles/76561198954006279)                                 |     VIP     |       1€       |              "1 Month"              |
+|                              [Lucidity](http://steamcommunity.com/profiles/76561198207657755)                              |     VIP     |       1€       |              "1 Month"              |
+|                          [smiesneznaczki](https://steamcommunity.com/profiles/76561198325578948)                           |     VIP     |       ?        |                 Idk                 |
+|                               [buxi](https://steamcommunity.com/profiles/76561198410857586)                                |     VIP     |       ?        |                Poor                 |
 
 ## Other members
 
