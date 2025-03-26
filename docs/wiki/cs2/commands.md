@@ -11,8 +11,8 @@ next: false
 
 - [Base Commands](/wiki/cs2/commands/help) - Maps, Votes, etc.
 - [Skins Commands](/wiki/cs2/commands/skins) - Skins, knives, etc.
-- [KZ Commands](/wiki/cs2/commands/kz-help) - Checkpoints, Timer, etc.
-- [Admin commands](/wiki/cs2/commands/admin-help) - Admin only commands, bans n such.
+- [KZ Commands](/wiki/cs2/commands/kz) - Checkpoints, Timer, etc.
+- [Admin commands](/wiki/cs2/commands/admin) - Admin only commands, bans n such.
 
 ::: tip
 Usage of commands:

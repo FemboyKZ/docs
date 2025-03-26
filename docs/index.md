@@ -27,9 +27,9 @@ FKZ Open Source Wiki.
 ### [CS2 Commands](/wiki/cs2/commands)
 
 - [Base Commands](/wiki/cs2/commands/help)
-- [KZ Commands](/wiki/cs2/commands/kz-help)
+- [KZ Commands](/wiki/cs2/commands/kz)
 - [Skins Commands](/wiki/cs2/commands/skins)
-- [Admin commands](/wiki/cs2/commands/admin-help)
+- [Admin commands](/wiki/cs2/commands/admin)
 
 ## [CS:GO](/wiki/csgo)
 
