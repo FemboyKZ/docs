@@ -6,7 +6,7 @@ prev:
   link: "/wiki/cs2/commands"
 next:
   text: "KZ Commands"
-  link: "/wiki/cs2/commands/kz-help"
+  link: "/wiki/cs2/commands/kz"
 ---
 
 # Base Commands
@@ -23,28 +23,29 @@ You can bind keys to all the commands. Example: "bind key css_rtv"
 
 ## Mapchooser
 
-[Plugin](https://github.com/abnerfs/cs2-rockthevote/)
+[Plugin](https://github.com/ssypchenko/GG1MapChooser)
 
-`nominate` - Nominate a map to the next vote.
-
-`rtv` - Rock the vote : Vote to start a vote for changing map.
-
-`votemap` - Vote to change to a map.
-
-`timeleft` - Prints the time/rounds left.
-
-`nextmap` - Prints the next map.
+|     Command      |       Usage (Chat)        | Usage (Console) | Info                                                   | Required permissions |
+| :--------------: | :-----------------------: | :-------------: | :----------------------------------------------------- | :------------------: |
+| **css_nominate** | `!nominate` / `/nominate` | `css_nominate`  | List nominatable maps or nominate one.                 |          \*          |
+|   **css_rtv**    |      `!rtv` / `/rtv`      |    `css_rtv`    | Rock the vote : Vote to start a vote for changing map. |          \*          |
+|   **css_maps**   |     `!maps` / `/maps`     |   `css_maps`    | List available maps.                                   |        Admin?        |
+|  **css_ggmap**   |    `!ggmap` / `/ggmap`    |   `css_ggmap`   | Choose a map to change to.                             |        Admin?        |
 
 ## Guns
 
 [Plugin](https://github.com/FemboyKZ/cs2-simple-guns-menu)
 
-`guns` - Opens menu for choosing weapons.
-
-`pistols` / `secondary` - Opens menu for choosing secondary weapon.
-
-`rifles` / `primary` - Opens menu for choosing primary weapon.
+|      Command      |        Usage (Chat)         | Usage (Console) | Info                                      |
+| :---------------: | :-------------------------: | :-------------: | :---------------------------------------- |
+|   **css_guns**    |      `!guns` / `/guns`      |   `css_guns`    | Opens menu for choosing weapons.          |
+|  **css_pistols**  |   `!pistols` / `/pistols`   |  `css_pistols`  | Opens menu for choosing secondary weapon. |
+| **css_secondary** | `!secondary` / `/secondary` | `css_secondary` | Opens menu for choosing secondary weapon. |
+|  **css_rifles**   |    `!rifles` / `/rifles`    |  `css_rifles`   | Opens menu for choosing primary weapon.   |
+|  **css_primary**  |   `!primary` / `/primary`   |  `css_primary`  | Opens menu for choosing primary weapon.   |
 
 ## Misc
 
-`kill` - Kills player.
+|   Command    |   Usage (Chat)    | Usage (Console) | Info          |
+| :----------: | :---------------: | :-------------: | :------------ |
+| **css_kill** | `!kill` / `/kill` |   `css_kill`    | Kills player. |
