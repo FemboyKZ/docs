@@ -23,9 +23,7 @@ In console with the `kz_` prefix. Example: "kz_cp"
 You can bind keys to all the commands. Example: "bind key kz_cp"
 :::
 
-## Commands
-
-### Checkpoint commands
+## Checkpoint commands
 
 |       Command        |            Usage (Chat)             |  Usage (Console)   | Info                                                     |
 | :------------------: | :---------------------------------: | :----------------: | :------------------------------------------------------- |
@@ -43,7 +41,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 | **kz_clearstartpos** | `!clearstartpos` / `/clearstartpos` | `kz_clearstartpos` | Clear your custom start position.                        |
 |      **kz_csp**      |           `!csp` / `/csp`           |      `kz_csp`      | Clear your custom start position.                        |
 
-### Timer commands
+## Timer commands
 
 |    Command     |      Usage (Chat)       | Usage (Console) | Info                |
 | :------------: | :---------------------: | :-------------: | :------------------ |
@@ -52,7 +50,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 |  **kz_pause**  |  `!pasuse` / `/pause`   |   `kz_pause`    | Toggle timer pause. |
 |  **kz_stop**   |    `!stop` / `/stop`    |    `kz_stop`    | Stop timer.         |
 
-### Statistics commands
+## Statistics commands
 
 |       Command       |           Usage (Chat)            |  Usage (Console)  | Info                                               |
 | :-----------------: | :-------------------------------: | :---------------: | :------------------------------------------------- |
@@ -72,7 +70,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 |     **kz_spb**      |          `!spb` / `/spb`          |     `kz_spb`      | Retrieve server personal best statistics.          |
 | **kz_comparelevel** | `!comparelevel` / `/comparelevel` | `kz_comparelevel` | Set the maximum preferred level of run comparison. |
 
-### Preference commands
+## Preference commands
 
 |      Command      |         Usage (Chat)          | Usage (Console) | Info                            |
 | :---------------: | :---------------------------: | :-------------: | :------------------------------ |
@@ -83,7 +81,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 |  **kz_language**  |   `!language` / `/language`   |  `kz_language`  | Switch current language.        |
 |    **kz_tips**    |       `!tips` / `/tips`       |    `kz_tips`    | Toggle tips.                    |
 
-### Jumpstat commands
+## Jumpstat commands
 
 |      Command       |          Usage (Chat)           | Usage (Console)  | Info                                                  |
 | :----------------: | :-----------------------------: | :--------------: | :---------------------------------------------------- |
@@ -96,7 +94,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 | **kz_jsbroadcast** | `!jsbroadcast` / `/jsbroadcast` | `kz_jsbroadcast` | Change jumpstats minimum threshold for broadcasting.  |
 |   **kz_jssound**   |     `!jssound` / `/jssound`     |   `kz_jssound`   | Change jumpstats minimum threshold for sound effects. |
 
-### Mode and Style commands
+## Mode and Style commands
 
 |      Command       |          Usage (Chat)           | Usage (Console)  | Info                                |
 | :----------------: | :-----------------------------: | :--------------: | :---------------------------------- |
@@ -109,7 +107,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 |     **kz_vnl**     |         `!vnl` / `/vnl`         |     `kz_vnl`     | Switch to Vanilla mode.             |
 |     **kz_ckz**     |         `!ckz` / `/ckz`         |     `kz_ckz`     | Switch to Classic mode.             |
 
-### Misc commands
+## Misc commands
 
 |    Command    |     Usage (Chat)      | Usage (Console) | Info                                                               |
 | :-----------: | :-------------------: | :-------------: | :----------------------------------------------------------------- |
@@ -121,7 +119,7 @@ You can bind keys to all the commands. Example: "bind key kz_cp"
 |  **kz_goto**  |   `!goto` / `/goto`   |    `kz_goto`    | Go to a player.                                                    |
 |  **kz_help**  |   `!help` / `/help`   |    `kz_help`    | Show this help message.                                            |
 
-### Status commands
+## Status commands
 
 |      Command       |          Usage (Chat)           | Usage (Console)  | Info                                                        |
 | :----------------: | :-----------------------------: | :--------------: | :---------------------------------------------------------- |
