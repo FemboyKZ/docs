@@ -29,7 +29,7 @@ Parameters in `[]` are optional.
 @css/ shows required perms to use command. See Perms in [Admin Groups](/wiki/fkz/servers/perms)
 :::
 
-[Plugin](https://github.com/rcnoob/CS2-SimplerAdmin)
+[Plugin](https://github.com/daffyyyy/CS2-SimpleAdmin)
 
 ## Moderation - Bans
 
