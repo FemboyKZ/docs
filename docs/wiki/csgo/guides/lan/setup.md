@@ -67,7 +67,7 @@ srcds -game csgo -tickrate 128 -console -usercon +map de_dust2 +sv_setsteamaccou
 
 Now if you run the file by double-clicking on it, it should run a terminal. If you get a prompt to give CS:GO access through your firewall, press yes.
 
-## 6. Connecting to the Server
+## 4. Connecting to the Server
 
 ::: warning
 You have to run your own game before running the server!
@@ -84,7 +84,7 @@ You can use `gameui_activate; gamemenucommand openserverbrowser` in your console
 
 2. Open the ingame console, and type in `connect localhost`.
 
-## 7. Updating the Server
+## 5. Updating the Server
 
 ::: info
 Since CS:GO is no longer being updated, this should not be needed.
