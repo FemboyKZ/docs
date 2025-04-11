@@ -4,9 +4,7 @@ description: FKZ CS:GO KZTimer Installation
 prev:
   text: "Back"
   link: "/wiki/csgo/guides/lan"
-next:
-  text: "Next"
-  link: "/wiki/csgo/guides/lan/useful-plugins"
+next: false
 ---
 
 ## 1. Installing Metamod: Source

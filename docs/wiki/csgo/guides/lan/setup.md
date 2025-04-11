@@ -4,9 +4,7 @@ description: FKZ CS:GO Lan Server Guide
 prev:
   text: "Back"
   link: "/wiki/csgo/guides/lan"
-next:
-  text: "Next"
-  link: "/wiki/csgo/guides/lan/admin"
+next: false
 ---
 
 ## Summary
@@ -100,3 +98,26 @@ The warning about your server being outdated is something that can't be fixed wi
 3. Type in `app_update 740`, hit enter and wait for the terminal to reply with `success!`.
 
 If it doesn't succeed, type `app_update 740 validate` instead.
+
+## 6. Installing NoLobbyReservation
+
+After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin to get past the lobby creation system the game uses.
+
+1. Open [The Github Page](https://github.com/vanz666/NoLobbyReservation/releases) and download the attached `ZIP` file.
+
+2. Extract it and place the `addons` folder into the `\csgo\` folder.
+
+## 7. Extras
+
+### KZ Plugins
+
+There are 2 major KZ plugins, which both use the same API for storing times, you should pick one to add to your server. Do not use both plugins at once.
+
+- [KZTimer](/wiki/csgo/guides/lan/kztimer)
+- [GOKZ](/wiki/csgo/guides/lan/gokz)
+
+### [Useful Plugins](/wiki/csgo/guides/lan/useful-plugins)
+
+### [Adding Admins](/wiki/csgo/guides/lan/admin)
+
+### [Adding Maps](/wiki/csgo/guides/lan/maps)

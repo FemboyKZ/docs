@@ -4,9 +4,7 @@ description: FKZ CS:GO GOKZ Installation
 prev:
   text: "Back"
   link: "/wiki/csgo/guides/lan"
-next:
-  text: "Next"
-  link: "/wiki/csgo/guides/lan/useful-plugins"
+next: false
 ---
 
 ## 1. Installing Metamod: Source
@@ -56,11 +54,3 @@ If you have followed this guide exactly as explained.
 See:<vImageViewer src="https://files.femboy.kz/web/images/databases-gokz.png" alt="Example image" :inline="true"/>
 
 Save the file.
-
-## Installing NoLobbyReservation
-
-After a change to CS:GO csgo_legacy in February 2024, you need to use a plugin to get past the lobby creation system the game uses.
-
-1. Open [The Github Page](https://github.com/5Dotsu/NoLobbyReservation/releases) and download the attached `ZIP` file.
-
-2. Extract it and place the `addons` folder into the `\csgo\` folder.

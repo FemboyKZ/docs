@@ -4,9 +4,7 @@ description: CS:GO Server Useful Plugins
 prev:
   text: "Back"
   link: "/wiki/csgo/guides/lan"
-next:
-  text: "Next"
-  link: "/wiki/csgo/guides/lan/admin"
+next: false
 ---
 
 # Useful Plugins Guide
