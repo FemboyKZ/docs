@@ -15,112 +15,19 @@ All tags require you to be [Staff](/wiki/fkz/staff), [Contributors](/wiki/fkz/do
 
 How to get: `TBA`
 
-`Dots:`
-
-prefix: "`{GOLD}Femboy `"
-
-nick_color: "`{GOLD}`"
-
-message_color: "`{GOLD}`"
-
-scoreboard: "`Femboy `"
-
-## #css/owner
-
-prefix: "`{GOLD}[OWNER] `"
-
-nick_color: "`{GOLD}`"
-
-message_color: "`{GOLD}`"
-
-scoreboard: "`[OWNER] `"
-
-## #css/admin
-
-prefix: `{PURPLE}[ADMIN] `
-
-nick_color: "`{PURPLE}`"
-
-message_color: "`{GOLD}`"
-
-scoreboard: "`[ADMIN] `"
-
-## #css/dev
-
-prefix: "`{DARKRED}[DEV] `"
-
-nick_color: "`{DARKRED}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[DEV] `"
-
-## #css/contributor
-
-prefix: "`{DARKBLUE}[CONTRIBUTOR] `"
-
-nick_color: "`{DARKBLUE}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[CONTRIBUTOR] `"
-
-## #css/vip+
-
-prefix: "`{BLUE}[VIP+] `"
-
-nick_color: "`{BLUE}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[VIP+] `"
-
-## #css/vip
-
-prefix: "`{LIGHTBLUE}[VIP] `"
-
-nick_color: "`{LIGHTBLUE}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[VIP] `"
-
-## #css/gmc
-
-prefix: "`{RED}[GMC] `"
-
-nick_color: "`{RED}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[GMC] `"
-
-## #css/vnl
-
-prefix: "`{LIGHTRED}[VNL] `"
-
-nick_color: "`{LIGHTRED}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[VNL] `"
-
-## #css/og
-
-prefix: "`{WHITE}[OG] `"
-
-nick_color: "`{WHITE}`"
-
-message_color: "`{WHITE}`"
-
-scoreboard: "`[OG] `"
-
-## everyone
-
-prefix: ""
-
-nick_color: ""
-
-message_color: ""
-
-scoreboard: ""
+|                                     User/Group/Role                                      | Prefix (Chat Tag) | Prefix color | Nickname color | Message color | Scoreboard Tag  |
+| :--------------------------------------------------------------------------------------: | :---------------: | :----------: | :------------: | :-----------: | :-------------: |
+|                                       **Default**                                        |        ``         |      ``      |  `TeamColor`   |    `White`    |       ``        |
+| **[Juniper](https://steamcommunity.com/profiles/76561198268569118)** _76561198268569118_ |       `:3`        |  `Magenta`   |   `Magenta`    |   `Magenta`   |      `>.<`      |
+|                                 **#OWNER** _#css/owner_                                  |     `[OWNER]`     |    `Gold`    |     `Gold`     |    `White`    |    `[OWNER]`    |
+|                                 **#ADMIN** _#css/admin_                                  |     `[ADMIN]`     |   `Purple`   |    `Purple`    |    `White`    |    `[ADMIN]`    |
+|                                   **#MOD** _#css/mod_                                    |      `[MOD]`      |  `Magenta`   |   `Magenta`    |    `White`    |     `[MOD]`     |
+|                                   **#DEV** _#css/dev_                                    |      `[DEV]`      |  `DarkRed`   |   `DarkRed`    |    `White`    |     `[DEV]`     |
+|                           **#CONTRIBUTOR** _#css/contributor_                            |  `[CONTRIBUTOR]`  |  `DarkBlue`  |   `DarkBlue`   |    `White`    | `[CONTRIBUTOR]` |
+|                                 **#VIP+** _#css/vipplus_                                 |     `[VIP+]`      |    `Blue`    |     `Blue`     |    `White`    |    `[VIP+]`     |
+|                                   **#VIP** _#css/vip_                                    |      `[VIP]`      | `LightBlue`  |  `LightBlue`   |    `White`    |     `[VIP]`     |
+|                                   **#GMC** _#css/gmc_                                    |      `[GMC]`      |    `Red`     |     `Red`      |    `White`    |     `[GMC]`     |
+|                                   **#VNL** _#css/vnl_                                    |      `[VNL]`      |  `LightRed`  |   `LightRed`   |    `White`    |     `[VNL]`     |
+|                                    **#OG** _#css/og_                                     |      `[OG]`       |   `White`    |    `White`     |    `White`    |     `[OG]`      |
+|  **[trip](https://steamcommunity.com/profiles/76561199114604931)** _76561199114604931_   |      `slow`       |  `Magenta`   |    `White`     |    `White`    |     `slow`      |
+|  **[skaye](https://steamcommunity.com/profiles/76561198206171501)** _76561198206171501_  |       `xd`        |  `Magenta`   |    `White`     |    `White`    |      `xd`       |
