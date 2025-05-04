@@ -30,11 +30,7 @@ Plugins:
 
 2. You should have downloaded a `ZIP` file, extract it and move the whole `addons` folder into the `\csgo\` folder of your game.
 
-The `\csgo\` folder can be found in:
-
-```txt
-\steamapps\common\Counter-Strike Global Offensive\game\
-```
+The `\csgo\` folder can be found in: `\steamapps\common\Counter-Strike Global Offensive\game\`
 
 ::: tip
 If you don't know where your game is installed:
@@ -50,27 +46,18 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 
 ## 3. Editing gameinfo files
 
-1. Open the `gameinfo.gi` file found in
+1. Open the `gameinfo.gi` file found in `\steamapps\common\Counter-Strike Global Offensive\game\csgo\` in a text editor (notepad... etc).
 
-```txt
-\steamapps\common\Counter-Strike Global Offensive\game\csgo\
-```
-
-in a text editor (notepad... etc).
-
-2. Ignore the warning about editing the file, and add
+2. Ignore the warning about editing the file, and add the following to the top of the section with similar inputs and save the file.
 
 ```txt
 Game    csgo/addons/metamod
 ```
 
-to the top of the section with similar inputs and save the file.
-
 See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/>
 
 3. Navigate to `\steamapps\common\Counter-Strike Global Offensive\game\csgo_core\`, and open the `gameinfo.gi` file.
-
-Find and `delete` this whole part from the file:
+   Find and `delete` this whole part from the file:
 
 ```txt
 CustomNavBuild
@@ -90,13 +77,11 @@ You may want to create copies of the original and modified files in separate fol
 
 1. Open your `Steam Librarty` and right-click on Counter-Strike 2, click on `Properties` (Should be the option on the bottom).
 
-2. In the `Launch Options` section there is a text field, add
+2. In the `Launch Options` section there is a text field, add the following to the field.
 
 ```txt
 -insecure +install_dlc_workshoptools_cvar 1
 ```
-
-to the field.
 
 Close the `Properties`
 
@@ -106,11 +91,7 @@ Close the `Properties`
 
 2. Go back to `\steamapps\common\Counter-Strike Global Offensive\game\csgo\`, find and copy the `readonly_tools_asset_info.bin` file.
 
-3. Paste the file into the
-
-`\steamapps\common\Counter-Strike Global Offensive\content\csgo\addons\metamod\`
-
-folder you created.
+3. Paste the file into the `\steamapps\common\Counter-Strike Global Offensive\content\csgo\addons\metamod\` folder you created.
 
 ## Reversing CS2 back to playable
 

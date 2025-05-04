@@ -22,12 +22,7 @@ Metamod: Source is an enviroment for running plugins on CS2. It is required for 
 1. Open [Metamod: Source (Dev 2.0x) Downloads](https://www.sourcemm.net/downloads.php/?branch=master), and click to download the latest Build for your operating system (Windows/Linux).
 
 2. You should have downloaded a `ZIP`(Windows) or `tar.gz`(Linux) file, extract it and move the whole `addons` folder into the `\csgo\` folder of the server.
-
-The `\csgo\` folder can be found in:
-
-`\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\`
-
-If you have followed this guide exactly as explained.
+   The `\csgo\` folder can be found in: `\steamcmd\steamapps\common\Counter-Strike Global Offensive\game\` if you have followed this guide exactly as explained.
 
 3. Next open the `gameinfo.gi` file in a text editor (notepad... etc), the file can be found in the same `\csgo\` folder.
 
