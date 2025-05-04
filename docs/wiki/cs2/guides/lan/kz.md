@@ -15,13 +15,13 @@ A plugin for Metamod: Source that adds KZ functionality to the server.
 
 ## Installing the KZ Plugin
 
-1. Open [cs2kz-metamod releases](https://github.com/KZGlobalTeam/cs2kz-metamod/releases) and download the latest `(pre-)release` for you operating system.
+1. Open [cs2kz-metamod releases](https://github.com/KZGlobalTeam/cs2kz-metamod/releases) and download the latest `release` for you operating system.
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux), then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
 ### Jumpstat/Quake sounds support (Optional)
 
-1. Open up [MultiAddonManager Releases](https://github.com/Source2ZE/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
+1. Open up [MultiAddonManager Releases](https://github.com/zer0k-z/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
