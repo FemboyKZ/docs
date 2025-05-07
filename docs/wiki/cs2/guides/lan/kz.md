@@ -21,7 +21,7 @@ A plugin for Metamod: Source that adds KZ functionality to the server.
 
 ### Jumpstat/Quake sounds support (Optional)
 
-1. Open up [MultiAddonManager Releases](https://github.com/zer0k-z/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
+1. Open up [MultiAddonManager Releases](https://github.com/Source2ZE/MultiAddonManager/releases) and download the latest release for your operating system (Windows/Linux).
 
 2. Extract the `ZIP`(Windows) or `tar.gz`(Linux) file, then drag the `addons` and `cfg` folders into the `\csgo\` folder.
 
