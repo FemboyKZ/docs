@@ -33,6 +33,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                                [bab](https://steamcommunity.com/profiles/76561198860773846)                                |     VIP     |      10€       |              Lifetime               |
 |                                [kino](http://steamcommunity.com/profiles/76561198355327911)                                |     VIP     |      10€       |              Lifetime               |
 |                             [Omoshiroi](https://steamcommunity.com/profiles/76561198344316711)                             |     VIP     |      10€       |              Lifetime               |
+|                            [BucketGirl](https://steamcommunity.com/profiles/76561199180685548)                             |     VIP     |      10€       |              Lifetime               |
 |                              [sander](https://steamcommunity.com/profiles/76561198144620830)                               |     VIP     |       6€       |              "1 Year"               |
 |                             [Happy Life](http://steamcommunity.com/profiles/76561198162007521)                             |     VIP     |       6€       |              "1 Year"               |
 |                              [tecno](https://steamcommunity.com/profiles/765611990183446499)                               |     VIP     |       5€       |        Lifetime (Discounted)        |
@@ -50,5 +51,3 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 ## Other members
 
 - [Staff](/wiki/fkz/staff)
-
-- [Og members & others](/wiki/fkz/og)
