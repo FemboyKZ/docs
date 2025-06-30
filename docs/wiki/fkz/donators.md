@@ -34,6 +34,8 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                                [bab](https://steamcommunity.com/profiles/76561198860773846)                                |     VIP     |      10€       |              Lifetime               |
 |                                [kino](http://steamcommunity.com/profiles/76561198355327911)                                |     VIP     |      10€       |              Lifetime               |
 |                             [Omoshiroi](https://steamcommunity.com/profiles/76561198344316711)                             |     VIP     |      10€       |              Lifetime               |
+|                              [decatrt](https://steamcommunity.com/profiles/76561199060612843)                              |     VIP     |      10€       |              Lifetime               |
+|                             [presumed](https://steamcommunity.com/profiles/76561199106917683)                              |     VIP     |      10€       |              Lifetime               |
 |                            [BucketGirl](https://steamcommunity.com/profiles/76561199180685548)                             |     VIP     |      10€       |              Lifetime               |
 |                              [sander](https://steamcommunity.com/profiles/76561198144620830)                               |     VIP     |       6€       |              "1 Year"               |
 |                             [Happy Life](http://steamcommunity.com/profiles/76561198162007521)                             |     VIP     |       6€       |              "1 Year"               |
@@ -46,6 +48,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                               [flyo](https://steamcommunity.com/profiles/76561199001474057)                                |     VIP     |       1€       |              "1 Month"              |
 |                                [Vin](http://steamcommunity.com/profiles/76561198954006279)                                 |     VIP     |       1€       |              "1 Month"              |
 |                              [Lucidity](http://steamcommunity.com/profiles/76561198207657755)                              |     VIP     |       1€       |              "1 Month"              |
+|                             [rubyrain](https://steamcommunity.com/profiles/76561198298163936)                              |     VIP     |       -        |        Got gifted by tweakin        |
 |                          [smiesneznaczki](https://steamcommunity.com/profiles/76561198325578948)                           |     VIP     |       ?        |                 Idk                 |
 |                               [buxi](https://steamcommunity.com/profiles/76561198410857586)                                |     VIP     |       ?        |                Poor                 |
 
