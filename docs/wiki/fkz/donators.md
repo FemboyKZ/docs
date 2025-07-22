@@ -20,6 +20,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                                [boa](https://steamcommunity.com/profiles/76561199214310539)                                | Contributor |      50€       |       Lifetime (Custom role)        |
 |                              [Stickan](https://steamcommunity.com/profiles/76561198933308155)                              | Contributor |      25€       |              Lifetime               |
 |                              [tweakin](http://steamcommunity.com/profiles/76561198171200427)                               |     VIP     |      20€       |             2x Lifetime             |
+|                               [flxy](https://steamcommunity.com/profiles/76561198022292556)                                |    VIP+     |      20€       |              Lifetime               |
 |                               [Marcus](http://steamcommunity.com/profiles/76561198967068383)                               |    VIP+     |      12€       |              "1 Year"               |
 |                               [tumma](https://steamcommunity.com/profiles/76561198119556717)                               |     VIP     |      12€       |       Lifetime + 2x "1 Month"       |
 |                                [foxy](http://steamcommunity.com/profiles/76561199173958149)                                |     VIP     |      11€       |       Lifetime + 1x "1 Month"       |
