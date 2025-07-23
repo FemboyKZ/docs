@@ -18,6 +18,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                              [Maxwell](https://steamcommunity.com/profiles/76561198241119894)                              |     WTF     |     ??????     | Bro I owe this guy a kidney or smth |
 |                              [Redmoon](https://steamcommunity.com/profiles/76561198260657129)                              |   "Daddy"   |     100€+      |           Every month 😍            |
 |                                [boa](https://steamcommunity.com/profiles/76561199214310539)                                | Contributor |      50€       |       Lifetime (Custom role)        |
+|                               [Lexi](https://steamcommunity.com/profiles/76561199385094595)                                | Contributor |      50€       |       Lifetime (Custom role)        |
 |                              [Stickan](https://steamcommunity.com/profiles/76561198933308155)                              | Contributor |      25€       |              Lifetime               |
 |                              [tweakin](http://steamcommunity.com/profiles/76561198171200427)                               |     VIP     |      20€       |             2x Lifetime             |
 |                               [flxy](https://steamcommunity.com/profiles/76561198022292556)                                |    VIP+     |      20€       |              Lifetime               |
