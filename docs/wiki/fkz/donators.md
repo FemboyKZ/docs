@@ -39,6 +39,8 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                              [decatrt](https://steamcommunity.com/profiles/76561199060612843)                              |     VIP     |      10€       |              Lifetime               |
 |                             [presumed](https://steamcommunity.com/profiles/76561199106917683)                              |     VIP     |      10€       |              Lifetime               |
 |                            [BucketGirl](https://steamcommunity.com/profiles/76561199180685548)                             |     VIP     |      10€       |              Lifetime               |
+|                           [SoppyGoose89](https://steamcommunity.com/profiles/76561199027433336)                            |     VIP     |      10€       |              Lifetime               |
+|                               [moya](https://steamcommunity.com/profiles/76561199114338861)                                |     VIP     |      10€       |              Lifetime               |
 |                              [sander](https://steamcommunity.com/profiles/76561198144620830)                               |     VIP     |       6€       |              "1 Year"               |
 |                             [Happy Life](http://steamcommunity.com/profiles/76561198162007521)                             |     VIP     |       6€       |              "1 Year"               |
 |                              [tecno](https://steamcommunity.com/profiles/765611990183446499)                               |     VIP     |       5€       |        Lifetime (Discounted)        |
@@ -51,6 +53,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |                                [Vin](http://steamcommunity.com/profiles/76561198954006279)                                 |     VIP     |       1€       |              "1 Month"              |
 |                              [Lucidity](http://steamcommunity.com/profiles/76561198207657755)                              |     VIP     |       1€       |              "1 Month"              |
 |                             [rubyrain](https://steamcommunity.com/profiles/76561198298163936)                              |     VIP     |       -        |        Got gifted by tweakin        |
+|                          [thelasttoremain](https://steamcommunity.com/profiles/76561199820601277)                          |     VIP     |       ?        |      boa contributor perk gift      |
 |                          [smiesneznaczki](https://steamcommunity.com/profiles/76561198325578948)                           |     VIP     |       ?        |                 Idk                 |
 |                               [buxi](https://steamcommunity.com/profiles/76561198410857586)                                |     VIP     |       ?        |                Poor                 |
 
