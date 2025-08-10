@@ -21,6 +21,6 @@
     "eslint-plugin-prettier": "^5.5.4",
     "prettier": "^3.6.2",
     "sass": "^1.90.0",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.4"
   }
 }
