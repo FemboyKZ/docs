@@ -31,5 +31,6 @@ How to get: `TBA`
 |                                    **#OG** _#css/og_                                     |      `[OG]`       |    `White`    |    `White`     |    `White`    |     `[OG]`      |
 |   **[boa](https://steamcommunity.com/profiles/76561199214310539)** _76561199214310539_   |       `boa`       |   `DarkRed`   |   `DarkRed`    |    `White`    |      `boa`      |
 |  **[Lexi](https://steamcommunity.com/profiles/76561199385094595)** _76561199385094595_   |     `Meower`      | `LightPurple` | `LightPurple`  |    `White`    |    `Meower`     |
+|   **[kri](https://steamcommunity.com/profiles/76561198111034630)** _76561198111034630_   |       `cat`       | `LightPurple` | `LightPurple`  |    `White`    |      `cat`      |
 |  **[trip](https://steamcommunity.com/profiles/76561199114604931)** _76561199114604931_   |      `slow`       |   `Magenta`   |    `White`     |    `White`    |     `slow`      |
 |  **[skaye](https://steamcommunity.com/profiles/76561198206171501)** _76561198206171501_  |       `xd`        |   `Magenta`   |    `White`     |    `White`    |      `xd`       |
