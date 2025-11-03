@@ -23,7 +23,7 @@ Also check out: [Perms](/wiki/fkz/servers/perms)
 |   [AlphaKeks](https://steamcommunity.com/profiles/76561198282622073)    |   cs2kz-api main dev    | Dev (Unofficial) |    #css/dev     |      -      |
 |    [Lucidity](https://steamcommunity.com/profiles/76561198207657755)    |  that one german fella  |       Mod        |    #css/mod     |     4:z     |
 |      [Kino](https://steamcommunity.com/profiles/76561198355327911)      |       real femboy       |       Mod        |    #css/mod     |     3:z     |
-|   [ueberredet](https://steamcommunity.com/profiles/76561198991484485)   | that other german fella |       Mod        |    #css/mod     | 2:abcdefgjk |
+|   [ueberredet](https://steamcommunity.com/profiles/76561198991484485)   | that other german fella |      Admin       |    #css/mod     |     3:z     |
 
 ## Other Members
 
