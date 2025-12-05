@@ -23,7 +23,7 @@ To use Workshop you need to set a GSLT token for the server.
 with this method you need to manually add the maps to your own game's folder as well as the server's.
 :::
 
-1. Open [Global KZ BSP Files Website](https://maps.global-api.com/) or [FKZ Mirror](https://maps.femboy.kz/) and download any single `bsps` or `packages`.
+1. Open [Global KZ BSP Files Website](https://maps.global-api.com/) or [FKZ Mirror](https://files.femboy.kz/fastdl/csgo/maps/) and download any single `bsps` or `packages`.
    If you downloaded packages, extract the ZIP files.
 
 2. Place the `.bsp` files into `\csgo\maps\` for the server AND your own game.
