@@ -56,5 +56,5 @@ GOKZ / KZTimer Plugins, how to install them. Only install one of the 2.
 - [SteamID Finder](https://steamid.io/)
 - [Steam GSLT Tokens](https://steamcommunity.com/dev/managegameservers)
 - [Global KZ Maps BSP Files](https://maps.global-api.com/bsps/) - (Outdated)
-- [FKZ Mirror For Global KZ Maps](https://maps.femboy.kz/)
+- [FKZ Mirror For Global KZ Maps](https://files.femboy.kz/fastdl/csgo/maps/)
 - [Global KZ Maps Workshop Collections](https://steamcommunity.com/sharedfiles/filedetails/?id=2354897488)
