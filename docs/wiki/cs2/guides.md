@@ -19,4 +19,3 @@ A list of guides for CS2, mostly by Dots.
 ## Other
 
 - [Old Versions](/wiki/cs2/guides/old-versions)
-- [Binds](/wiki/cs2/guides/binds)

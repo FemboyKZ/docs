@@ -10,7 +10,6 @@ next: false
 ## FKZ Wiki
 
 - [What is FKZ](/wiki/fkz/info)
-- [FKZ Discord](/wiki/fkz/discord)
 - [FKZ Servers](/wiki/fkz/servers)
 - [FKZ Donators](/wiki/fkz/donators)
 - [FKZ VIP](/wiki/fkz/vip)

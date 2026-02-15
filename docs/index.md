@@ -13,7 +13,6 @@ FKZ Open Source Wiki.
 ## [FKZ](/wiki/fkz)
 
 - [What is FKZ](/wiki/fkz/info)
-- [FKZ Discord Info](/wiki/fkz/discord)
 - [FKZ Server Info](/wiki/fkz/servers)
 
 ## [CS2](/wiki/cs2)
@@ -40,12 +39,3 @@ FKZ Open Source Wiki.
 ### CS:GO Commands (TBA)
 
 - TBA
-
-## [ClassicCounter](/wiki/cscl)
-
-### [ClassicCounter Commands](/wiki/cscl/commands)
-
-- [Base Commands](/wiki/cscl/commands/help)
-- [KZ Commands](/wiki/cscl/commands/kz-help)
-- [Skins Commands](/wiki/cscl/commands/skins)
-- [Admin commands](/wiki/cscl/commands/admin-help)

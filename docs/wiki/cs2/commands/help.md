@@ -29,8 +29,6 @@ You can bind keys to all the commands. Example: "bind key css_rtv"
 | :--------------: | :-----------------------: | :-------------: | :----------------------------------------------------- | :------------------: |
 | **css_nominate** | `!nominate` / `/nominate` | `css_nominate`  | List nominatable maps or nominate one.                 |          \*          |
 |   **css_rtv**    |      `!rtv` / `/rtv`      |    `css_rtv`    | Rock the vote : Vote to start a vote for changing map. |          \*          |
-|   **css_maps**   |     `!maps` / `/maps`     |   `css_maps`    | List available maps.                                   |        Admin?        |
-|  **css_ggmap**   |    `!ggmap` / `/ggmap`    |   `css_ggmap`   | Choose a map to change to.                             |        Admin?        |
 
 ## Guns
 

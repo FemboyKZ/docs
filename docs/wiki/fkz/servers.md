@@ -19,8 +19,6 @@ FKZ Runs all kinds of servers, but mainly CS:GO and CS2
 
 ## [CS:GO](/wiki/fkz/servers/csgo)
 
-## [ClassicCounter](/wiki/fkz/servers/cscl)
-
 ## Minecraft (TBA)
 
 ## Others

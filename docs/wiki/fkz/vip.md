@@ -11,7 +11,7 @@ next: false
 
 You can purchase VIP and other perks to help us with our servers.
 
-All our donators, and VIP members are listed [here](/wiki/fkz/donators).
+All our donators, and VIP members are listed on the [Donators](/wiki/fkz/donators).
 
 **[Femboy.KZ/Donate](https://ko-fi.com/femkz)**
 
@@ -79,27 +79,19 @@ All perks and upgrades are lifetime! This means that unless you get banned or as
 
 ### How to buy VIP?
 
-You can buy VIP and other perks on our Ko-fi page: [here](https://ko-fi.com/femkz)
+You can buy VIP and other perks on our [Ko-fi page](https://ko-fi.com/femkz)
 
-Ko-Fi supports both `PayPal` and `Credit Card`.
+Ko-Fi supports both `PayPal` and `Credit/Debit Card`.
 
 Incase you can't pay via PayPal or Credit Card, you can can open up a ticket on our Discord, and we can figure out a solution.
 
 ### How to claim VIP?
 
-You can claim VIP or other perks on our Discord server: [here](https://discord.gg/fkz).
+You can claim VIP or other perks on our [Discord](https://discord.gg/fkz).
 
-To do so run `/claim-vip` anywhere in the Discord server.
+To do so, create a Ticket.
 
-You will have to input a code you received with your purchase.
-
-### How to gift VIP?
-
-To gift VIP or other perks to other members, you can run `/gift-vip` anywhere in the Discord server.
-
-You will have to input a code you received with your purchase. (With the exception of VIP+ and Contributor extras)
-
-You can gift this way as many times as you wish with the codes.
+You will have to provide a code you received with your purchase.
 
 ### How long does it take to get my perks?
 

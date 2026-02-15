@@ -30,37 +30,3 @@ Parameters in `[]` are optional.
 :::
 
 [Plugin](https://github.com/daffyyyy/CS2-SimpleAdmin)
-
-## Moderation - Bans
-
-@css/ban
-
-`ban <#userid or name> [time in minutes/0 perm] [reason]` - Ban a player
-
-`addban <steamid> [time in minutes/0 perm] [reason]` - Ban a player via steamid64
-
-`banip <ip> [time in minutes/0 perm] [reason]` - Ban a player via IP address
-
-`unban <steamid or name or ip>` - Unba a player
-
-@css/kick
-
-`css_kick <#userid or name> [reason]` - Kick a player
-
-## Moderation - Modify
-
-@css/cheats
-
-`css_give <#userid or name> <weapon>` - Give weapon to a player
-
-## Root
-
-@css/rcon
-
-`css_rcon <command>` - Run command as server
-
-`css_addadmin <steamid> <name> <flags/groups> <immunity> [time in minutes]` - Add an admin by steamid
-
-`css_deladmin <steamid>` - Delete an admin by steamid
-
-`css_reloadadmins` - Reload sql admins

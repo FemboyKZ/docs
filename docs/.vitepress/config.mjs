@@ -27,7 +27,6 @@ export default defineConfig({
               { text: "FKZ", link: "/wiki/fkz" },
               { text: "CS2", link: "/wiki/cs2" },
               { text: "CS:GO", link: "/wiki/csgo" },
-              { text: "ClassicCounter", link: "/wiki/cscl" },
             ],
           },
           {
