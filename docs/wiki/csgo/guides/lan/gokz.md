@@ -51,6 +51,8 @@ If you have followed this guide exactly as explained.
 }
 ```
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/databases-gokz.png" alt="Example image" :inline="true"/>
+<div style="text-align: center;">
+  <img src="/images/databases-gokz.png" alt="databases.cfg example" style="max-width: 700px; display: block; margin: 0 auto 20px;">
+</div>
 
 Save the file.

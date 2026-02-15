@@ -23,6 +23,6 @@ Example:
 "STEAM_1:1:12121121" "z"
 ```
 
-See more about the flags [here](<https://wiki.alliedmods.net/Adding_Admins_(SourceMod)>).
+See more about the flags on the [AM Wiki](<https://wiki.alliedmods.net/Adding_Admins_(SourceMod)>).
 
 Save the file.

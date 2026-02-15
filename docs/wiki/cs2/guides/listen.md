@@ -54,7 +54,9 @@ Steam Library -> CS2 -> Properties -> Installed Files -> Browse..
 Game    csgo/addons/metamod
 ```
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/>
+<div style="text-align: center;">
+  <img src="/images/gameinfo.png" alt="gameinfo.gi example" style="max-width: 700px; display: block; margin: 0 auto 20px;">
+</div>
 
 3. Navigate to `\steamapps\common\Counter-Strike Global Offensive\game\csgo_core\`, and open the `gameinfo.gi` file.
    Find and `delete` this whole part from the file:

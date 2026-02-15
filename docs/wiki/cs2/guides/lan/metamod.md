@@ -34,4 +34,6 @@ Game    csgo/addons/metamod
 
 to the top of the section with similar inputs and save the file.
 
-See:<vImageViewer src="https://files.femboy.kz/web/images/gameinfo.png" alt="Example image" :inline="true"/>
+<div style="text-align: center;">
+  <img src="/images/gameinfo.png" alt="gameinfo.gi example" style="max-width: 700px; display: block; margin: 0 auto 20px;">
+</div>
