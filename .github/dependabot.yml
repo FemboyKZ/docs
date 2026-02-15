@@ -20,7 +20,7 @@ updates:
     assignees: ["jvnipers"]
     commit-message:
       prefix: "npm"
-    groups: 
-      "All Deps": 
+    groups:
+      "All Deps":
         applies-to: "version-updates"
         patterns: ["*"]
