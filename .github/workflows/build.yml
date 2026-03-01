@@ -40,7 +40,7 @@ jobs:
       - name: Build with VitePress
         run: npm run build
       - name: Upload Build Artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: vitepress-artifact
           path: docs/.vitepress/dist
