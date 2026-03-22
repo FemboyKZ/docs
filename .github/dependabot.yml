@@ -21,6 +21,6 @@ updates:
     commit-message:
       prefix: "npm"
     groups:
-      "All Deps":
+      "NPM Deps":
         applies-to: "version-updates"
         patterns: ["*"]
