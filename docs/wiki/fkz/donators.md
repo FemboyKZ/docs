@@ -37,7 +37,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |      [ashy](https://steamcommunity.com/profiles/76561198851903962)       |     VIP     |      10€       |                                        Lifetime                                         |
 |     [inobade](https://steamcommunity.com/profiles/76561198200522101)     |     VIP     |      10€       |                                        Lifetime                                         |
 |   [Fevereiro](https://steamcommunity.com/profiles/76561198173568365/)    |     VIP     |      10€       |                                        Lifetime                                         |
-|    [femboyhop](https://steamcommunity.com/profiles/76561199500948883)    |     VIP     |      10€       |                                        Lifetime                                         |
+|      [james](https://steamcommunity.com/profiles/76561199500948883)      |     VIP     |      10€       |                                  Lifetime (femboyhop)                                   |
 |       [bab](https://steamcommunity.com/profiles/76561198860773846)       |     VIP     |      10€       |                                        Lifetime                                         |
 |       [kino](http://steamcommunity.com/profiles/76561198355327911)       |     VIP     |      10€       |                                        Lifetime                                         |
 |    [Omoshiroi](https://steamcommunity.com/profiles/76561198344316711)    |     VIP     |      10€       |                                        Lifetime                                         |
