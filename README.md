@@ -1,6 +1,6 @@
 # FemboyKZ Docs
 
-[docs.femboy.kz](https://docs.femboy.kz)
+[docs.femboykz.com](https://docs.femboykz.com)
 
 [discord.gg/fkz](https://discord.gg/fkz)
 
