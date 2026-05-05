@@ -11,7 +11,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Main Site", link: "https://femboy.kz" },
+      { text: "Main Site", link: "https://femboykz.com" },
     ],
     search: {
       provider: "local",
