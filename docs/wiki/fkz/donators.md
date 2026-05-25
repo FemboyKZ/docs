@@ -56,6 +56,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 | [Jerryterminator](https://steamcommunity.com/profiles/76561198255532808) |     VIP     |      10€       |                                        Lifetime                                         |
 |      [Tessi](https://steamcommunity.com/profiles/76561199033138073)      |     VIP     |      10€       |                                        Lifetime                                         |
 |      [Alco](https://steamcommunity.com/profiles/76561198070472475)       |     VIP     |      10€       |                                        Lifetime                                         |
+|      [Luisa](https://steamcommunity.com/profiles/76561198339311789)      |     VIP     |      10€       |                                        Lifetime                                         |
 |     [sander](https://steamcommunity.com/profiles/76561198144620830)      |     VIP     |       6€       |                                        "1 Year"                                         |
 |    [Happy Life](http://steamcommunity.com/profiles/76561198162007521)    |     VIP     |       6€       |                                        "1 Year"                                         |
 |     [tecno](https://steamcommunity.com/profiles/765611990183446499)      |     VIP     |       5€       |                                  Lifetime (Discounted)                                  |
