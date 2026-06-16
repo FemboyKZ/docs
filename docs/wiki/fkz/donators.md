@@ -17,12 +17,12 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 | :----------------------------------------------------------------------: | :---------: | :------------: | :-------------------------------------------------------------------------------------: |
 |     [Maxwell](https://steamcommunity.com/profiles/76561198241119894)     |     WTF     |     ??????     |                           Bro I owe this guy a kidney or smth                           |
 |     [Redmoon](https://steamcommunity.com/profiles/76561198260657129)     |   "Daddy"   |     100€+      |                                     Every month 😍                                      |
-|       [boa](https://steamcommunity.com/profiles/76561199214310539)       | Contributor |      50€       |                                 Lifetime (Custom role)                                  |
-|      [Lexi](https://steamcommunity.com/profiles/76561199385094595)       | Contributor |      50€       |                                 Lifetime (Custom role)                                  |
-|       [kri](https://steamcommunity.com/profiles/76561198111034630)       | Contributor |      50€       |                                 Lifetime (Custom role)                                  |
-|      [HP5+](https://steamcommunity.com/profiles/76561198209388563)       | Contributor |      ~40€      |                                    WKZ fella, Goated                                    |
-|       [Ket](https://steamcommunity.com/profiles/76561198976676413)       | Contributor |      ~30€      |                                 Lifetime (Custom role)                                  |
-|     [Stickan](https://steamcommunity.com/profiles/76561198933308155)     | Contributor |      25€       |                                        Lifetime                                         |
+|       [boa](https://steamcommunity.com/profiles/76561199214310539)       |    VIP++    |      50€       |                                 Lifetime (Custom role)                                  |
+|      [Lexi](https://steamcommunity.com/profiles/76561199385094595)       |    VIP++    |      50€       |                                 Lifetime (Custom role)                                  |
+|       [kri](https://steamcommunity.com/profiles/76561198111034630)       |    VIP++    |      50€       |                                 Lifetime (Custom role)                                  |
+|      [HP5+](https://steamcommunity.com/profiles/76561198209388563)       |    VIP++    |      ~40€      |                                    WKZ fella, Goated                                    |
+|       [Ket](https://steamcommunity.com/profiles/76561198976676413)       |    VIP++    |      ~30€      |                                 Lifetime (Custom role)                                  |
+|     [Stickan](https://steamcommunity.com/profiles/76561198933308155)     |    VIP++    |      25€       |                                        Lifetime                                         |
 |     [tweakin](http://steamcommunity.com/profiles/76561198171200427)      |     VIP     |      20€       |                                       2x Lifetime                                       |
 |      [flxy](https://steamcommunity.com/profiles/76561198022292556)       |    VIP+     |      20€       |                                        Lifetime                                         |
 |      [12121](https://steamcommunity.com/profiles/76561199517697568)      |    VIP+     |      20€       |                                        Lifetime                                         |
@@ -69,9 +69,9 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |       [Vin](http://steamcommunity.com/profiles/76561198954006279)        |     VIP     |       1€       |                                        "1 Month"                                        |
 |     [Lucidity](http://steamcommunity.com/profiles/76561198207657755)     |     VIP     |       1€       |                                        "1 Month"                                        |
 |    [rubyrain](https://steamcommunity.com/profiles/76561198298163936)     |     VIP     |       -        |        gifted by [tweakin](http://steamcommunity.com/profiles/76561198171200427)        |
-| [thelasttoremain](https://steamcommunity.com/profiles/76561199820601277) |     VIP     |       -        | Contributor Perk gift from [boa](https://steamcommunity.com/profiles/76561199214310539) |
+| [thelasttoremain](https://steamcommunity.com/profiles/76561199820601277) |     VIP     |       -        |    VIP++ Perk gift from [boa](https://steamcommunity.com/profiles/76561199214310539)    |
 |    [80sRetro](https://steamcommunity.com/profiles/76561198844479708)     |     VIP     |       -        |   VIP+ Perk gift from [12121](https://steamcommunity.com/profiles/76561199517697568)    |
-|     [Smibii](https://steamcommunity.com/profiles/76561199087246609)      |     VIP     |       -        | Contributor Perk gift from [Ket](https://steamcommunity.com/profiles/76561198976676413) |
+|     [Smibii](https://steamcommunity.com/profiles/76561199087246609)      |     VIP     |       -        |    VIP++ Perk gift from [Ket](https://steamcommunity.com/profiles/76561198976676413)    |
 | [smiesneznaczki](https://steamcommunity.com/profiles/76561198325578948)  |     VIP     |       ?        |                                          Gift                                           |
 |      [buxi](https://steamcommunity.com/profiles/76561198410857586)       |     VIP     |       ?        |                                       Poor (Gift)                                       |
 
