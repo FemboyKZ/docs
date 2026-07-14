@@ -20,6 +20,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |       [boa](https://steamcommunity.com/profiles/76561199214310539)       |  VIP++  |      50€       |                               Lifetime (Custom role)                               |
 |      [Lexi](https://steamcommunity.com/profiles/76561199385094595)       |  VIP++  |      50€       |                               Lifetime (Custom role)                               |
 |       [kri](https://steamcommunity.com/profiles/76561198111034630)       |  VIP++  |      50€       |                               Lifetime (Custom role)                               |
+|        [Coolcreater8](https://steamcommunity.com/id/Coolcreater8)        |  VIP++  |      50€       |                               Lifetime (Custom role)                               |
 |      [HP5+](https://steamcommunity.com/profiles/76561198209388563)       |  VIP++  |      ~40€      |                                 WKZ fella, Goated                                  |
 |       [Ket](https://steamcommunity.com/profiles/76561198976676413)       |  VIP++  |      ~30€      |                               Lifetime (Custom role)                               |
 |     [Stickan](https://steamcommunity.com/profiles/76561198933308155)     |  VIP++  |      25€       |                                      Lifetime                                      |
