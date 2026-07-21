@@ -23,6 +23,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |        [Coolcreater8](https://steamcommunity.com/id/Coolcreater8)        |  VIP++  |      50€       |                               Lifetime (Custom role)                               |
 |      [HP5+](https://steamcommunity.com/profiles/76561198209388563)       |  VIP++  |      ~40€      |                                 WKZ fella, Goated                                  |
 |       [Ket](https://steamcommunity.com/profiles/76561198976676413)       |  VIP++  |      ~30€      |                               Lifetime (Custom role)                               |
+|       [joe](https://steamcommunity.com/profiles/76561198084858568)       |  VIP++  |      30€       |                               Lifetime (Custom role)                               |
 |     [Stickan](https://steamcommunity.com/profiles/76561198933308155)     |  VIP++  |      25€       |                                      Lifetime                                      |
 |     [tweakin](http://steamcommunity.com/profiles/76561198171200427)      |   VIP   |      20€       |                                    2x Lifetime                                     |
 |      [flxy](https://steamcommunity.com/profiles/76561198022292556)       |  VIP+   |      20€       |                                      Lifetime                                      |
@@ -58,6 +59,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |      [Tessi](https://steamcommunity.com/profiles/76561199033138073)      |   VIP   |      10€       |                                      Lifetime                                      |
 |      [Alco](https://steamcommunity.com/profiles/76561198070472475)       |   VIP   |      10€       |                                      Lifetime                                      |
 |      [Luisa](https://steamcommunity.com/profiles/76561198339311789)      |   VIP   |      10€       |                                      Lifetime                                      |
+|    [RandomEye](https://steamcommunity.com/profiles/76561197987069371)    |   VIP   |      10€       |                                      Lifetime                                      |
 |     [sander](https://steamcommunity.com/profiles/76561198144620830)      |   VIP   |       6€       |                                      "1 Year"                                      |
 |    [Happy Life](http://steamcommunity.com/profiles/76561198162007521)    |   VIP   |       6€       |                                      "1 Year"                                      |
 |      [tecno](https://steamcommunity.com/profiles/76561199018344649)      |   VIP   |       5€       |                               Lifetime (Discounted)                                |
