@@ -60,6 +60,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |      [Alco](https://steamcommunity.com/profiles/76561198070472475)       |   VIP   |      10€       |                                      Lifetime                                      |
 |      [Luisa](https://steamcommunity.com/profiles/76561198339311789)      |   VIP   |      10€       |                                      Lifetime                                      |
 |    [RandomEye](https://steamcommunity.com/profiles/76561197987069371)    |   VIP   |      10€       |                                      Lifetime                                      |
+|     [Glizzy](https://steamcommunity.com/profiles/76561198244549598)      |   VIP   |      10€       |                                      Lifetime                                      |
 |     [sander](https://steamcommunity.com/profiles/76561198144620830)      |   VIP   |       6€       |                                      "1 Year"                                      |
 |    [Happy Life](http://steamcommunity.com/profiles/76561198162007521)    |   VIP   |       6€       |                                      "1 Year"                                      |
 |      [tecno](https://steamcommunity.com/profiles/76561199018344649)      |   VIP   |       5€       |                               Lifetime (Discounted)                                |
