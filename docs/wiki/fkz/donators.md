@@ -31,6 +31,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |      [james](https://steamcommunity.com/profiles/76561199011312984)      |  VIP+   |      20€       |                                      Lifetime                                      |
 |      [Marcus](http://steamcommunity.com/profiles/76561198967068383)      |  VIP+   |      12€       |                                      "1 Year"                                      |
 |      [tumma](https://steamcommunity.com/profiles/76561198119556717)      |   VIP   |      12€       |                              Lifetime + 2x "1 Month"                               |
+|     [lovelee](https://steamcommunity.com/profiles/76561199387416113)     |   VIP   |      ~12€      |                                      Lifetime                                      |
 |       [foxy](http://steamcommunity.com/profiles/76561199173958149)       |   VIP   |      11€       |                              Lifetime + 1x "1 Month"                               |
 |     [chosen](https://steamcommunity.com/profiles/76561198140731752)      |   VIP   |      10€       |                            1st ever donation, Lifetime                             |
 |      [nova](https://steamcommunity.com/profiles/76561198840095526)       |   VIP   |      10€       |                                      Lifetime                                      |
