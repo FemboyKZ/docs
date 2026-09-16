@@ -17,7 +17,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 | :----------------------------------------------------------------------: | :-----: | :------------: | :---------------------------------------------------------------------------------: |
 |     [Maxwell](https://steamcommunity.com/profiles/76561198241119894)     |   WTF   |     ??????     |                         Bro I owe this guy a kidney or smth                         |
 |     [Redmoon](https://steamcommunity.com/profiles/76561198260657129)     | "Daddy" |     100€+      |                                   Every month 😍                                    |
-|       [boa](https://steamcommunity.com/profiles/76561199214310539)       |  VIP++  |      50€       |                               Lifetime (Custom role)                                |
+|       [boa](https://steamcommunity.com/profiles/76561199214310539)       |  VIP++  |      50€       |                           Lifetime (Custom role) + boakz                            |
 |      [Lexi](https://steamcommunity.com/profiles/76561199385094595)       |  VIP++  |      50€       |                               Lifetime (Custom role)                                |
 |       [kri](https://steamcommunity.com/profiles/76561198111034630)       |  VIP++  |      50€       |                               Lifetime (Custom role)                                |
 |  [Coolcreater8](https://steamcommunity.com/profiles/76561198309392473)   |  VIP++  |      50€       |                               Lifetime (Custom role)                                |
