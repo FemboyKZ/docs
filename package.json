@@ -11,7 +11,7 @@
     "preview": "npx vitepress preview docs"
   },
   "dependencies": {
-    "vue": "^3.5.42"
+    "vue": "^3.5.43"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -19,7 +19,7 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.6",
     "globals": "^17.12.0",
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.7",
     "sass": "^1.104.0",
     "vitepress": "^2.0.0-alpha.20"
   }
