@@ -2,7 +2,7 @@ name: Build VitePress Site
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths-ignore:
       - LICENSE
       - README.md
