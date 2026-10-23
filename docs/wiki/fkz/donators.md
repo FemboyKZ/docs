@@ -27,6 +27,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |       [Ket](https://steamcommunity.com/profiles/76561198976676413)       |  VIP++  |      ~30€      |                               Lifetime (Custom role)                                |
 |       [joe](https://steamcommunity.com/profiles/76561198084858568)       |  VIP++  |      30€       |                               Lifetime (Custom role)                                |
 |     [Stickan](https://steamcommunity.com/profiles/76561198933308155)     |  VIP++  |      25€       |                                      Lifetime                                       |
+|      [zelda](https://steamcommunity.com/profiles/76561198240038914)      |  VIP++  |      25€       |                                      Lifetime                                       |
 |     [tweakin](http://steamcommunity.com/profiles/76561198171200427)      |   VIP   |      20€       |                                     2x Lifetime                                     |
 |      [flxy](https://steamcommunity.com/profiles/76561198022292556)       |  VIP+   |      20€       |                                      Lifetime                                       |
 |      [12121](https://steamcommunity.com/profiles/76561199517697568)      |  VIP+   |      20€       |                                      Lifetime                                       |
