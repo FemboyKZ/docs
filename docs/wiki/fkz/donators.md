@@ -68,6 +68,7 @@ Also see: [Perms](/wiki/fkz/servers/perms)
 |       [bob](https://steamcommunity.com/profiles/76561198043883908)       |   VIP   |      10€       |                                      Lifetime                                       |
 |       [rex](https://steamcommunity.com/profiles/76561199094829329)       |   VIP   |      10€       |                                      Lifetime                                       |
 |      [fuzZ](https://steamcommunity.com/profiles/76561198314492518)       |   VIP   |      10€       |                                      Lifetime                                       |
+|   [archivejap](https://steamcommunity.com/profiles/76561198873103600)    |   VIP   |      10€       |                                      Lifetime                                       |
 |     [sander](https://steamcommunity.com/profiles/76561198144620830)      |   VIP   |       6€       |                                      "1 Year"                                       |
 |    [Happy Life](http://steamcommunity.com/profiles/76561198162007521)    |   VIP   |       6€       |                                      "1 Year"                                       |
 |      [tecno](https://steamcommunity.com/profiles/76561199018344649)      |   VIP   |       5€       |                                Lifetime (Discounted)                                |
